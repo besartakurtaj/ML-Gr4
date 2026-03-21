@@ -111,3 +111,8 @@ Këto janë kodet që përdoren për kategorizimin e të dhënave të nxjerra ng
 - "Gjithsej detyrimet": 37  
 
 Ky mapping e bën datasetin të qartë për analizat dhe përgatitjen e modelit të parashikimit.  
+
+## Authors
+- *Besarta Kurtaj*
+- *Fjolla Gjikolli*
+- *Melos Ymeri*
