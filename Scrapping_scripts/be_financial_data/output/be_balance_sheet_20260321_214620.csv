@@ -1,0 +1,1214 @@
+BALANCE_CATEGORY,PREVIOUS_BALANCE_VALUE,CURRENT_BALANCE_VALUE,DT_REPORT,FILE_NAME,CATEGORY_CODE,BANK_ID,STATEMENT_TYPE
+Kërkesat ndaj bankave,10192.0,9208.0,2013-06-30,be_bs_30.06.2013.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,10909.0,13853.0,2013-06-30,be_bs_30.06.2013.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,100690.0,102960.0,2013-06-30,be_bs_30.06.2013.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,7362.0,7213.0,2013-06-30,be_bs_30.06.2013.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,95.0,81.0,2013-06-30,be_bs_30.06.2013.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2013-06-30,be_bs_30.06.2013.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,2024.0,1736.0,2013-06-30,be_bs_30.06.2013.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,159141.0,164719.0,2013-06-30,be_bs_30.06.2013.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,143506.0,147651.0,2013-06-30,be_bs_30.06.2013.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2013-06-30,be_bs_30.06.2013.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2013-06-30,be_bs_30.06.2013.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2013-06-30,be_bs_30.06.2013.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3800.0,4000.0,2013-06-30,be_bs_30.06.2013.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,147306.0,151651.0,2013-06-30,be_bs_30.06.2013.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2013-06-30,be_bs_30.06.2013.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,101.0,101.0,2013-06-30,be_bs_30.06.2013.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-3339.0,-3339.0,2013-06-30,be_bs_30.06.2013.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,294.0,1527.0,2013-06-30,be_bs_30.06.2013.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2013-06-30,be_bs_30.06.2013.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,11835.0,13068.0,2013-06-30,be_bs_30.06.2013.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,159141.0,164719.0,2013-06-30,be_bs_30.06.2013.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,22221.0,15601.0,2014-06-30,be_bs_30.06.2014.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,6259.0,5588.0,2014-06-30,be_bs_30.06.2014.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,27873.0,30120.0,2014-06-30,be_bs_30.06.2014.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,103651.0,104480.0,2014-06-30,be_bs_30.06.2014.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6797.0,6771.0,2014-06-30,be_bs_30.06.2014.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,111.0,108.0,2014-06-30,be_bs_30.06.2014.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,117.0,117.0,2014-06-30,be_bs_30.06.2014.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1488.0,1509.0,2014-06-30,be_bs_30.06.2014.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,168517.0,164294.0,2014-06-30,be_bs_30.06.2014.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,152796.0,146923.0,2014-06-30,be_bs_30.06.2014.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2014-06-30,be_bs_30.06.2014.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,1000.0,2014-06-30,be_bs_30.06.2014.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2014-06-30,be_bs_30.06.2014.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3302.0,3740.0,2014-06-30,be_bs_30.06.2014.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,156098.0,151663.0,2014-06-30,be_bs_30.06.2014.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2014-06-30,be_bs_30.06.2014.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,101.0,101.0,2014-06-30,be_bs_30.06.2014.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-2093.0,-2093.0,2014-06-30,be_bs_30.06.2014.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,-368.0,-156.0,2014-06-30,be_bs_30.06.2014.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2014-06-30,be_bs_30.06.2014.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,12419.0,12631.0,2014-06-30,be_bs_30.06.2014.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,168517.0,164294.0,2014-06-30,be_bs_30.06.2014.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,22346.0,21216.0,2015-06-30,be_bs_30.06.2015.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7093.0,6763.0,2015-06-30,be_bs_30.06.2015.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,28219.0,26253.0,2015-06-30,be_bs_30.06.2015.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,113132.0,117355.0,2015-06-30,be_bs_30.06.2015.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6242.0,6064.0,2015-06-30,be_bs_30.06.2015.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,291.0,285.0,2015-06-30,be_bs_30.06.2015.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2015-06-30,be_bs_30.06.2015.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1433.0,1360.0,2015-06-30,be_bs_30.06.2015.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,178756.0,179296.0,2015-06-30,be_bs_30.06.2015.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,160380.0,160259.0,2015-06-30,be_bs_30.06.2015.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2015-06-30,be_bs_30.06.2015.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1000.0,1000.0,2015-06-30,be_bs_30.06.2015.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2015-06-30,be_bs_30.06.2015.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3271.0,3478.0,2015-06-30,be_bs_30.06.2015.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,164651.0,164737.0,2015-06-30,be_bs_30.06.2015.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2015-06-30,be_bs_30.06.2015.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2015-06-30,be_bs_30.06.2015.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur /(humbja) nga vitet paraprake,1327.0,1327.0,2015-06-30,be_bs_30.06.2015.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,551.0,1005.0,2015-06-30,be_bs_30.06.2015.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2015-06-30,be_bs_30.06.2015.pdf,43,3,BALANCE_SHEET
+Gjithsej  ekuiteti i aksionarëve,14105.0,14559.0,2015-06-30,be_bs_30.06.2015.pdf,44,3,BALANCE_SHEET
+Gjithsej  detyrimet  dhe ekuiteti i aksionarëve,178756.0,179296.0,2015-06-30,be_bs_30.06.2015.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,30872.0,29582.0,2016-06-30,be_bs_30.06.2016.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7638.0,7001.0,2016-06-30,be_bs_30.06.2016.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,13964.0,12190.0,2016-06-30,be_bs_30.06.2016.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,7160.0,4638.0,2016-06-30,be_bs_30.06.2016.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,124735.0,130243.0,2016-06-30,be_bs_30.06.2016.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6194.0,6262.0,2016-06-30,be_bs_30.06.2016.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,252.0,244.0,2016-06-30,be_bs_30.06.2016.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2016-06-30,be_bs_30.06.2016.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,709.0,857.0,2016-06-30,be_bs_30.06.2016.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,191524.0,191017.0,2016-06-30,be_bs_30.06.2016.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,170426.0,167630.0,2016-06-30,be_bs_30.06.2016.pdf,32,3,BALANCE_SHEET
+Detyrime ndaj bankave,1000.0,2026.0,2016-06-30,be_bs_30.06.2016.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1069.0,1013.0,2016-06-30,be_bs_30.06.2016.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2016-06-30,be_bs_30.06.2016.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,726.0,727.0,2016-06-30,be_bs_30.06.2016.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,173221.0,171395.0,2016-06-30,be_bs_30.06.2016.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,16777.0,2016-06-30,be_bs_30.06.2016.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2016-06-30,be_bs_30.06.2016.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,1998.0,0.0,2016-06-30,be_bs_30.06.2016.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1416.0,2695.0,2016-06-30,be_bs_30.06.2016.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,8.0,48.0,2016-06-30,be_bs_30.06.2016.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,18302.0,19621.0,2016-06-30,be_bs_30.06.2016.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,191524.0,191017.0,2016-06-30,be_bs_30.06.2016.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2017-06-30,be_bs_30.06.2017.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,41707.0,42092.0,2017-06-30,be_bs_30.06.2017.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,10229.0,10733.0,2017-06-30,be_bs_30.06.2017.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,13365.0,13371.0,2017-06-30,be_bs_30.06.2017.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,12626.0,6090.0,2017-06-30,be_bs_30.06.2017.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,141241.0,151326.0,2017-06-30,be_bs_30.06.2017.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6012.0,6061.0,2017-06-30,be_bs_30.06.2017.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,417.0,388.0,2017-06-30,be_bs_30.06.2017.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2017-06-30,be_bs_30.06.2017.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,696.0,695.0,2017-06-30,be_bs_30.06.2017.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,226291.0,230755.0,2017-06-30,be_bs_30.06.2017.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,199938.0,203631.0,2017-06-30,be_bs_30.06.2017.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2027.0,2043.0,2017-06-30,be_bs_30.06.2017.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1069.0,1013.0,2017-06-30,be_bs_30.06.2017.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2017-06-30,be_bs_30.06.2017.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,625.0,432.0,2017-06-30,be_bs_30.06.2017.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,203659.0,207118.0,2017-06-30,be_bs_30.06.2017.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,16777.0,21337.0,2017-06-30,be_bs_30.06.2017.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2017-06-30,be_bs_30.06.2017.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,4560.0,0.0,2017-06-30,be_bs_30.06.2017.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1193.0,2198.0,2017-06-30,be_bs_30.06.2017.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2017-06-30,be_bs_30.06.2017.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,22631.0,23637.0,2017-06-30,be_bs_30.06.2017.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,226291.0,230755.0,2017-06-30,be_bs_30.06.2017.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2018-06-30,be_bs_30.06.2018.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,47555.0,39147.0,2018-06-30,be_bs_30.06.2018.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,13192.0,11646.0,2018-06-30,be_bs_30.06.2018.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,7239.0,5262.0,2018-06-30,be_bs_30.06.2018.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,13440.0,19495.0,2018-06-30,be_bs_30.06.2018.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,160879.0,166762.0,2018-06-30,be_bs_30.06.2018.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6257.0,6182.0,2018-06-30,be_bs_30.06.2018.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,505.0,496.0,2018-06-30,be_bs_30.06.2018.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2018-06-30,be_bs_30.06.2018.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,664.0,616.0,2018-06-30,be_bs_30.06.2018.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,249730.0,249607.0,2018-06-30,be_bs_30.06.2018.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,218726.0,219524.0,2018-06-30,be_bs_30.06.2018.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2056.0,2082.0,2018-06-30,be_bs_30.06.2018.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1069.0,1013.0,2018-06-30,be_bs_30.06.2018.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2018-06-30,be_bs_30.06.2018.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,723.0,513.0,2018-06-30,be_bs_30.06.2018.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,222574.0,223132.0,2018-06-30,be_bs_30.06.2018.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,21337.0,24544.0,2018-06-30,be_bs_30.06.2018.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,13.0,-122.0,2018-06-30,be_bs_30.06.2018.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,4706.0,35.0,2018-06-30,be_bs_30.06.2018.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1100.0,2019.0,2018-06-30,be_bs_30.06.2018.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2018-06-30,be_bs_30.06.2018.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,27156.0,26475.0,2018-06-30,be_bs_30.06.2018.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,249730.0,249607.0,2018-06-30,be_bs_30.06.2018.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2019-06-30,be_bs_30.06.2019.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,70052.0,48371.0,2019-06-30,be_bs_30.06.2019.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,10021.0,12791.0,2019-06-30,be_bs_30.06.2019.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,5022.0,5122.0,2019-06-30,be_bs_30.06.2019.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,20006.0,19453.0,2019-06-30,be_bs_30.06.2019.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,171922.0,190627.0,2019-06-30,be_bs_30.06.2019.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6181.0,6823.0,2019-06-30,be_bs_30.06.2019.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,616.0,578.0,2019-06-30,be_bs_30.06.2019.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2019-06-30,be_bs_30.06.2019.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1519.0,1429.0,2019-06-30,be_bs_30.06.2019.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,285339.0,285194.0,2019-06-30,be_bs_30.06.2019.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,251283.0,250168.0,2019-06-30,be_bs_30.06.2019.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2062.0,2066.0,2019-06-30,be_bs_30.06.2019.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1069.0,1013.0,2019-06-30,be_bs_30.06.2019.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2019-06-30,be_bs_30.06.2019.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,463.0,776.0,2019-06-30,be_bs_30.06.2019.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,254877.0,254022.0,2019-06-30,be_bs_30.06.2019.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,24544.0,24544.0,2019-06-30,be_bs_30.06.2019.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,143.0,238.0,2019-06-30,be_bs_30.06.2019.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,4718.0,4718.0,2019-06-30,be_bs_30.06.2019.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1058.0,1672.0,2019-06-30,be_bs_30.06.2019.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2019-06-30,be_bs_30.06.2019.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,30463.0,31171.0,2019-06-30,be_bs_30.06.2019.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,285339.0,285194.0,2019-06-30,be_bs_30.06.2019.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2020-06-30,be_bs_30.06.2020.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,44407.0,31382.0,2020-06-30,be_bs_30.06.2020.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,13302.0,9811.0,2020-06-30,be_bs_30.06.2020.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2020-06-30,be_bs_30.06.2020.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,35577.0,41826.0,2020-06-30,be_bs_30.06.2020.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,213370.0,223647.0,2020-06-30,be_bs_30.06.2020.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,7224.0,9382.0,2020-06-30,be_bs_30.06.2020.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,492.0,514.0,2020-06-30,be_bs_30.06.2020.pdf,28,3,BALANCE_SHEET
+Pasuritë tjera,2776.0,3060.0,2020-06-30,be_bs_30.06.2020.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,317148.0,319621.0,2020-06-30,be_bs_30.06.2020.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,278694.0,279593.0,2020-06-30,be_bs_30.06.2020.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2102.0,3103.0,2020-06-30,be_bs_30.06.2020.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1069.0,0.0,2020-06-30,be_bs_30.06.2020.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2020-06-30,be_bs_30.06.2020.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,648.0,2920.0,2020-06-30,be_bs_30.06.2020.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,282513.0,285616.0,2020-06-30,be_bs_30.06.2020.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,27761.0,27761.0,2020-06-30,be_bs_30.06.2020.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,227.0,-170.0,2020-06-30,be_bs_30.06.2020.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,5403.0,5361.0,2020-06-30,be_bs_30.06.2020.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1243.0,1052.0,2020-06-30,be_bs_30.06.2020.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2020-06-30,be_bs_30.06.2020.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,34635.0,34005.0,2020-06-30,be_bs_30.06.2020.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,317148.0,319621.0,2020-06-30,be_bs_30.06.2020.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2021-06-30,be_bs_30.06.2021.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,51898.0,39805.0,2021-06-30,be_bs_30.06.2021.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,18066.0,23969.0,2021-06-30,be_bs_30.06.2021.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2021-06-30,be_bs_30.06.2021.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,39032.0,37812.0,2021-06-30,be_bs_30.06.2021.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,259524.0,296920.0,2021-06-30,be_bs_30.06.2021.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,8361.0,13756.0,2021-06-30,be_bs_30.06.2021.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,690.0,782.0,2021-06-30,be_bs_30.06.2021.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2021-06-30,be_bs_30.06.2021.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,3751.0,4036.0,2021-06-30,be_bs_30.06.2021.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,381322.0,417080.0,2021-06-30,be_bs_30.06.2021.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,342329.0,370850.0,2021-06-30,be_bs_30.06.2021.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2082.0,2113.0,2021-06-30,be_bs_30.06.2021.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2021-06-30,be_bs_30.06.2021.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2021-06-30,be_bs_30.06.2021.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,2326.0,2382.0,2021-06-30,be_bs_30.06.2021.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,346737.0,375345.0,2021-06-30,be_bs_30.06.2021.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2021-06-30,be_bs_30.06.2021.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,88.0,5522.0,2021-06-30,be_bs_30.06.2021.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,4009.0,4009.0,2021-06-30,be_bs_30.06.2021.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1066.0,2.782,2021-06-30,be_bs_30.06.2021.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2021-06-30,be_bs_30.06.2021.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,34585.0,41735.0,2021-06-30,be_bs_30.06.2021.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,381322.0,417080.0,2021-06-30,be_bs_30.06.2021.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2022-06-30,be_bs_30.06.2022.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,55448.0,54280.0,2022-06-30,be_bs_30.06.2022.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,17112.0,21433.0,2022-06-30,be_bs_30.06.2022.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2022-06-30,be_bs_30.06.2022.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,5010.0,9993.0,2022-06-30,be_bs_30.06.2022.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,336354.0,347769.0,2022-06-30,be_bs_30.06.2022.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14036.0,13683.0,2022-06-30,be_bs_30.06.2022.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,815.0,702.0,2022-06-30,be_bs_30.06.2022.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2022-06-30,be_bs_30.06.2022.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,4853.0,5486.0,2022-06-30,be_bs_30.06.2022.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,433639.0,453344.0,2022-06-30,be_bs_30.06.2022.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,380977.0,395713.0,2022-06-30,be_bs_30.06.2022.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,1088.0,1089.0,2022-06-30,be_bs_30.06.2022.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2022-06-30,be_bs_30.06.2022.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2022-06-30,be_bs_30.06.2022.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3479.0,8140.0,2022-06-30,be_bs_30.06.2022.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,385544.0,404942.0,2022-06-30,be_bs_30.06.2022.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2022-06-30,be_bs_30.06.2022.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4688.0,4698.0,2022-06-30,be_bs_30.06.2022.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,11087.0,9087.0,2022-06-30,be_bs_30.06.2022.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2897.0,5196.0,2022-06-30,be_bs_30.06.2022.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2022-06-30,be_bs_30.06.2022.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,48094.0,48402.0,2022-06-30,be_bs_30.06.2022.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,433639.0,453344.0,2022-06-30,be_bs_30.06.2022.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,59546.0,57446.0,2023-06-30,be_bs_30.06.2023.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,18064.0,10243.0,2023-06-30,be_bs_30.06.2023.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2023-06-30,be_bs_30.06.2023.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,30860.0,4654.0,2023-06-30,be_bs_30.06.2023.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,408957.0,444832.0,2023-06-30,be_bs_30.06.2023.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,15299.0,14908.0,2023-06-30,be_bs_30.06.2023.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,618.0,938.0,2023-06-30,be_bs_30.06.2023.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2023-06-30,be_bs_30.06.2023.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,11832.0,11500.0,2023-06-30,be_bs_30.06.2023.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,545174.0,544522.0,2023-06-30,be_bs_30.06.2023.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,483101.0,475570.0,2023-06-30,be_bs_30.06.2023.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,801.0,188.0,2023-06-30,be_bs_30.06.2023.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2023-06-30,be_bs_30.06.2023.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2023-06-30,be_bs_30.06.2023.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4467.0,8495.0,2023-06-30,be_bs_30.06.2023.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,488369.0,484253.0,2023-06-30,be_bs_30.06.2023.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2023-06-30,be_bs_30.06.2023.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4784.0,4795.0,2023-06-30,be_bs_30.06.2023.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,19107.0,19107.0,2023-06-30,be_bs_30.06.2023.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,3492.0,6945.0,2023-06-30,be_bs_30.06.2023.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2023-06-30,be_bs_30.06.2023.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,56805.0,60269.0,2023-06-30,be_bs_30.06.2023.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,545174.0,544522.0,2023-06-30,be_bs_30.06.2023.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,51096.0,51501.0,2024-06-30,be_bs_30.06.2024.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,31013.0,23429.0,2024-06-30,be_bs_30.06.2024.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2024-06-30,be_bs_30.06.2024.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,50160.0,83216.0,2024-06-30,be_bs_30.06.2024.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,452265.0,472430.0,2024-06-30,be_bs_30.06.2024.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14187.0,13903.0,2024-06-30,be_bs_30.06.2024.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,1619.0,2097.0,2024-06-30,be_bs_30.06.2024.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2024-06-30,be_bs_30.06.2024.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,9898.0,11102.0,2024-06-30,be_bs_30.06.2024.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,610237.0,657678.0,2024-06-30,be_bs_30.06.2024.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,537814.0,584564.0,2024-06-30,be_bs_30.06.2024.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,1943.0,2244.0,2024-06-30,be_bs_30.06.2024.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2024-06-30,be_bs_30.06.2024.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2024-06-30,be_bs_30.06.2024.pdf,35,3,BALANCE_SHEET
+,4436.0,3918.0,2024-06-30,be_bs_30.06.2024.pdf,,3,BALANCE_SHEET
+Gjithsej detyrimet,544193.0,590726.0,2024-06-30,be_bs_30.06.2024.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2024-06-30,be_bs_30.06.2024.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4712.0,4593.0,2024-06-30,be_bs_30.06.2024.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,29893.0,27833.0,2024-06-30,be_bs_30.06.2024.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2.017,5103.0,2024-06-30,be_bs_30.06.2024.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2024-06-30,be_bs_30.06.2024.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,66044.0,66952.0,2024-06-30,be_bs_30.06.2024.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,610237.0,657678.0,2024-06-30,be_bs_30.06.2024.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2025-06-30,be_bs_30.06.2025.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,59145.0,64726.0,2025-06-30,be_bs_30.06.2025.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,23012.0,22333.0,2025-06-30,be_bs_30.06.2025.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2025-06-30,be_bs_30.06.2025.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,60498.0,52046.0,2025-06-30,be_bs_30.06.2025.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,497536.0,511333.0,2025-06-30,be_bs_30.06.2025.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,13670.0,13368.0,2025-06-30,be_bs_30.06.2025.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,2532.0,2465.0,2025-06-30,be_bs_30.06.2025.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2025-06-30,be_bs_30.06.2025.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,9804.0,9733.0,2025-06-30,be_bs_30.06.2025.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,666196.0,676005.0,2025-06-30,be_bs_30.06.2025.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,538768.0,589249.0,2025-06-30,be_bs_30.06.2025.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2503.0,2497.0,2025-06-30,be_bs_30.06.2025.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,2059.0,2025-06-30,be_bs_30.06.2025.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2025-06-30,be_bs_30.06.2025.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4315.0,4346.0,2025-06-30,be_bs_30.06.2025.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,590586.0,598151.0,2025-06-30,be_bs_30.06.2025.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2025-06-30,be_bs_30.06.2025.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4854.0,4797.0,2025-06-30,be_bs_30.06.2025.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,38529.0,38529.0,2025-06-30,be_bs_30.06.2025.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2805.0,5106.0,2025-06-30,be_bs_30.06.2025.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2025-06-30,be_bs_30.06.2025.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,75610.0,77853.0,2025-06-30,be_bs_30.06.2025.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,666196.0,676005.0,2025-06-30,be_bs_30.06.2025.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,29668.0,36767.0,2013-09-30,be_bs_30.09.2013.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,9208.0,7810.0,2013-09-30,be_bs_30.09.2013.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,13853.0,14534.0,2013-09-30,be_bs_30.09.2013.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,102960.0,102692.0,2013-09-30,be_bs_30.09.2013.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,7213.0,7037.0,2013-09-30,be_bs_30.09.2013.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,81.0,76.0,2013-09-30,be_bs_30.09.2013.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2013-09-30,be_bs_30.09.2013.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1736.0,1565.0,2013-09-30,be_bs_30.09.2013.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,164719.0,170481.0,2013-09-30,be_bs_30.09.2013.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,147651.0,153725.0,2013-09-30,be_bs_30.09.2013.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2013-09-30,be_bs_30.09.2013.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2013-09-30,be_bs_30.09.2013.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2013-09-30,be_bs_30.09.2013.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4000.0,3022.0,2013-09-30,be_bs_30.09.2013.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,151651.0,156747.0,2013-09-30,be_bs_30.09.2013.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2013-09-30,be_bs_30.09.2013.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,101.0,101.0,2013-09-30,be_bs_30.09.2013.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-3339.0,-3338.0,2013-09-30,be_bs_30.09.2013.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1527.0,2192.0,2013-09-30,be_bs_30.09.2013.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2013-09-30,be_bs_30.09.2013.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,13068.0,13734.0,2013-09-30,be_bs_30.09.2013.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,164719.0,170481.0,2013-09-30,be_bs_30.09.2013.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,15601.0,26752.0,2014-09-30,be_bs_30.09.2014.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,5588.0,7282.0,2014-09-30,be_bs_30.09.2014.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,30120.0,24596.0,2014-09-30,be_bs_30.09.2014.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,104480.0,103585.0,2014-09-30,be_bs_30.09.2014.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6771.0,6606.0,2014-09-30,be_bs_30.09.2014.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,108.0,330.0,2014-09-30,be_bs_30.09.2014.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,117.0,117.0,2014-09-30,be_bs_30.09.2014.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1509.0,1348.0,2014-09-30,be_bs_30.09.2014.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,164294.0,170616.0,2014-09-30,be_bs_30.09.2014.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,146923.0,152943.0,2014-09-30,be_bs_30.09.2014.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2014-09-30,be_bs_30.09.2014.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1000.0,1000.0,2014-09-30,be_bs_30.09.2014.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2014-09-30,be_bs_30.09.2014.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3740.0,3537.0,2014-09-30,be_bs_30.09.2014.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,151663.0,157480.0,2014-09-30,be_bs_30.09.2014.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2014-09-30,be_bs_30.09.2014.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,101.0,101.0,2014-09-30,be_bs_30.09.2014.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-2093.0,-2093.0,2014-09-30,be_bs_30.09.2014.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,-156.0,349.0,2014-09-30,be_bs_30.09.2014.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2014-09-30,be_bs_30.09.2014.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,12631.0,13136.0,2014-09-30,be_bs_30.09.2014.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,164294.0,170616.0,2014-09-30,be_bs_30.09.2014.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,21216.0,25906.0,2015-09-30,be_bs_30.09.2015.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,6763.0,7852.0,2015-09-30,be_bs_30.09.2015.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,26253.0,27281.0,2015-09-30,be_bs_30.09.2015.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,117355.0,117816.0,2015-09-30,be_bs_30.09.2015.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6064.0,5932.0,2015-09-30,be_bs_30.09.2015.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,285.0,257.0,2015-09-30,be_bs_30.09.2015.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2015-09-30,be_bs_30.09.2015.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1360.0,1276.0,2015-09-30,be_bs_30.09.2015.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,179296.0,186320.0,2015-09-30,be_bs_30.09.2015.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,160259.0,166396.0,2015-09-30,be_bs_30.09.2015.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2015-09-30,be_bs_30.09.2015.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1000.0,1000.0,2015-09-30,be_bs_30.09.2015.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2015-09-30,be_bs_30.09.2015.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3478.0,3248.0,2015-09-30,be_bs_30.09.2015.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,164737.0,170644.0,2015-09-30,be_bs_30.09.2015.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2015-09-30,be_bs_30.09.2015.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2015-09-30,be_bs_30.09.2015.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur /(humbja) nga vitet paraprake,1327.0,1327.0,2015-09-30,be_bs_30.09.2015.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1005.0,2122.0,2015-09-30,be_bs_30.09.2015.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2015-09-30,be_bs_30.09.2015.pdf,43,3,BALANCE_SHEET
+Gjithsej  ekuiteti i aksionarëve,14559.0,15676.0,2015-09-30,be_bs_30.09.2015.pdf,44,3,BALANCE_SHEET
+Gjithsej  detyrimet  dhe ekuiteti i aksionarëve,179296.0,186320.0,2015-09-30,be_bs_30.09.2015.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2016-09-30,be_bs_30.09.2016.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,29582.0,36655.0,2016-09-30,be_bs_30.09.2016.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7001.0,7798.0,2016-09-30,be_bs_30.09.2016.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,12190.0,18762.0,2016-09-30,be_bs_30.09.2016.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,4638.0,3826.0,2016-09-30,be_bs_30.09.2016.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,130243.0,132644.0,2016-09-30,be_bs_30.09.2016.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6262.0,6158.0,2016-09-30,be_bs_30.09.2016.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,244.0,298.0,2016-09-30,be_bs_30.09.2016.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2016-09-30,be_bs_30.09.2016.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,857.0,917.0,2016-09-30,be_bs_30.09.2016.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,191017.0,207058.0,2016-09-30,be_bs_30.09.2016.pdf,31,3,BALANCE_SHEET
+Detyrime ndaj klientëve,167630.0,182608.0,2016-09-30,be_bs_30.09.2016.pdf,32,3,BALANCE_SHEET
+Detyrime ndaj bankave,2026.0,2040.0,2016-09-30,be_bs_30.09.2016.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1013.0,1031.0,2016-09-30,be_bs_30.09.2016.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2016-09-30,be_bs_30.09.2016.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,727.0,814.0,2016-09-30,be_bs_30.09.2016.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,171395.0,186493.0,2016-09-30,be_bs_30.09.2016.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,16777.0,16777.0,2016-09-30,be_bs_30.09.2016.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2016-09-30,be_bs_30.09.2016.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,0.0,2016-09-30,be_bs_30.09.2016.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2695.0,3590.0,2016-09-30,be_bs_30.09.2016.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,48.0,97.0,2016-09-30,be_bs_30.09.2016.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,19621.0,20565.0,2016-09-30,be_bs_30.09.2016.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,191017.0,207058.0,2016-09-30,be_bs_30.09.2016.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2017-09-30,be_bs_30.09.2017.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,42092.0,48870.0,2017-09-30,be_bs_30.09.2017.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,10733.0,13574.0,2017-09-30,be_bs_30.09.2017.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,13371.0,10558.0,2017-09-30,be_bs_30.09.2017.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,6090.0,6088.0,2017-09-30,be_bs_30.09.2017.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,151326.0,152791.0,2017-09-30,be_bs_30.09.2017.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6061.0,6042.0,2017-09-30,be_bs_30.09.2017.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,388.0,486.0,2017-09-30,be_bs_30.09.2017.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2017-09-30,be_bs_30.09.2017.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,695.0,657.0,2017-09-30,be_bs_30.09.2017.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,230755.0,239066.0,2017-09-30,be_bs_30.09.2017.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,203631.0,210608.0,2017-09-30,be_bs_30.09.2017.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2043.0,2043.0,2017-09-30,be_bs_30.09.2017.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1013.0,1031.0,2017-09-30,be_bs_30.09.2017.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2017-09-30,be_bs_30.09.2017.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,432.0,534.0,2017-09-30,be_bs_30.09.2017.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,207118.0,214216.0,2017-09-30,be_bs_30.09.2017.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,21337.0,21337.0,2017-09-30,be_bs_30.09.2017.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2017-09-30,be_bs_30.09.2017.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,0.0,2017-09-30,be_bs_30.09.2017.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2198.0,3411.0,2017-09-30,be_bs_30.09.2017.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2017-09-30,be_bs_30.09.2017.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,23637.0,24850.0,2017-09-30,be_bs_30.09.2017.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,230755.0,239066.0,2017-09-30,be_bs_30.09.2017.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2018-09-30,be_bs_30.09.2018.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,39147.0,60428.0,2018-09-30,be_bs_30.09.2018.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,11646.0,11445.0,2018-09-30,be_bs_30.09.2018.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,5262.0,5389.0,2018-09-30,be_bs_30.09.2018.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,19495.0,16286.0,2018-09-30,be_bs_30.09.2018.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,166762.0,164597.0,2018-09-30,be_bs_30.09.2018.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6182.0,6258.0,2018-09-30,be_bs_30.09.2018.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,496.0,466.0,2018-09-30,be_bs_30.09.2018.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2018-09-30,be_bs_30.09.2018.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,616.0,738.0,2018-09-30,be_bs_30.09.2018.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,249607.0,265607.0,2018-09-30,be_bs_30.09.2018.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,219524.0,234445.0,2018-09-30,be_bs_30.09.2018.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2082.0,2086.0,2018-09-30,be_bs_30.09.2018.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1013.0,1031.0,2018-09-30,be_bs_30.09.2018.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2018-09-30,be_bs_30.09.2018.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,513.0,476.0,2018-09-30,be_bs_30.09.2018.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,223132.0,238038.0,2018-09-30,be_bs_30.09.2018.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,24544.0,24544.0,2018-09-30,be_bs_30.09.2018.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,-122.0,-1.0,2018-09-30,be_bs_30.09.2018.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,35.0,35.0,2018-09-30,be_bs_30.09.2018.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2019.0,2992.0,2018-09-30,be_bs_30.09.2018.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2018-09-30,be_bs_30.09.2018.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,26475.0,27570.0,2018-09-30,be_bs_30.09.2018.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,249607.0,265607.0,2018-09-30,be_bs_30.09.2018.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2019-09-30,be_bs_30.09.2019.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,48371.0,45940.0,2019-09-30,be_bs_30.09.2019.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,12791.0,13684.0,2019-09-30,be_bs_30.09.2019.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,5122.0,5158.0,2019-09-30,be_bs_30.09.2019.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,19453.0,26707.0,2019-09-30,be_bs_30.09.2019.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,190627.0,199486.0,2019-09-30,be_bs_30.09.2019.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6823.0,6794.0,2019-09-30,be_bs_30.09.2019.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,578.0,546.0,2019-09-30,be_bs_30.09.2019.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2019-09-30,be_bs_30.09.2019.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1429.0,1585.0,2019-09-30,be_bs_30.09.2019.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,285194.0,299900.0,2019-09-30,be_bs_30.09.2019.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,250168.0,264672.0,2019-09-30,be_bs_30.09.2019.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2066.0,2097.0,2019-09-30,be_bs_30.09.2019.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1013.0,1031.0,2019-09-30,be_bs_30.09.2019.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2019-09-30,be_bs_30.09.2019.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,776.0,456.0,2019-09-30,be_bs_30.09.2019.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,254022.0,268257.0,2019-09-30,be_bs_30.09.2019.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,24544.0,27761.0,2019-09-30,be_bs_30.09.2019.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,238.0,270.0,2019-09-30,be_bs_30.09.2019.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,4718.0,0.0,2019-09-30,be_bs_30.09.2019.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1672.0,3612.0,2019-09-30,be_bs_30.09.2019.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2019-09-30,be_bs_30.09.2019.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,31171.0,31643.0,2019-09-30,be_bs_30.09.2019.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,285194.0,299900.0,2019-09-30,be_bs_30.09.2019.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2020-09-30,be_bs_30.09.2020.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,31382.0,31349.0,2020-09-30,be_bs_30.09.2020.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,9811.0,10481.0,2020-09-30,be_bs_30.09.2020.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2020-09-30,be_bs_30.09.2020.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,41826.0,41926.0,2020-09-30,be_bs_30.09.2020.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,223647.0,234051.0,2020-09-30,be_bs_30.09.2020.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,9382.0,9119.0,2020-09-30,be_bs_30.09.2020.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,514.0,510.0,2020-09-30,be_bs_30.09.2020.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2020-09-30,be_bs_30.09.2020.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,3060.0,3012.0,2020-09-30,be_bs_30.09.2020.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,319621.0,330448.0,2020-09-30,be_bs_30.09.2020.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,279593.0,290447.0,2020-09-30,be_bs_30.09.2020.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,3103.0,2078.0,2020-09-30,be_bs_30.09.2020.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2020-09-30,be_bs_30.09.2020.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2020-09-30,be_bs_30.09.2020.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,2920.0,2565.0,2020-09-30,be_bs_30.09.2020.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,285616.0,295090.0,2020-09-30,be_bs_30.09.2020.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,27761.0,31122.0,2020-09-30,be_bs_30.09.2020.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,-170.0,-70.0,2020-09-30,be_bs_30.09.2020.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,5361.0,2000.0,2020-09-30,be_bs_30.09.2020.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1052.0,2306.0,2020-09-30,be_bs_30.09.2020.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2020-09-30,be_bs_30.09.2020.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,34005.0,35358.0,2020-09-30,be_bs_30.09.2020.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,319621.0,330448.0,2020-09-30,be_bs_30.09.2020.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2021-09-30,be_bs_30.09.2021.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,39805.0,73281.0,2021-09-30,be_bs_30.09.2021.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,23969.0,13451.0,2021-09-30,be_bs_30.09.2021.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2021-09-30,be_bs_30.09.2021.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,37812.0,16729.0,2021-09-30,be_bs_30.09.2021.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,296920.0,314281.0,2021-09-30,be_bs_30.09.2021.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,13756.0,13801.0,2021-09-30,be_bs_30.09.2021.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,782.0,855.0,2021-09-30,be_bs_30.09.2021.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2021-09-30,be_bs_30.09.2021.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,4036.0,4156.0,2021-09-30,be_bs_30.09.2021.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,417080.0,436552.0,2021-09-30,be_bs_30.09.2021.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,370850.0,388342.0,2021-09-30,be_bs_30.09.2021.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2113.0,1085.0,2021-09-30,be_bs_30.09.2021.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2021-09-30,be_bs_30.09.2021.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2021-09-30,be_bs_30.09.2021.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,2382.0,3117.0,2021-09-30,be_bs_30.09.2021.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,375345.0,392544.0,2021-09-30,be_bs_30.09.2021.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2021-09-30,be_bs_30.09.2021.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,5522.0,4799.0,2021-09-30,be_bs_30.09.2021.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,4009.0,4009.0,2021-09-30,be_bs_30.09.2021.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2782.0,5.779,2021-09-30,be_bs_30.09.2021.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2021-09-30,be_bs_30.09.2021.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,41735.0,44008.0,2021-09-30,be_bs_30.09.2021.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,417080.0,436552.0,2021-09-30,be_bs_30.09.2021.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2022-09-30,be_bs_30.09.2022.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,54280.0,99430.0,2022-09-30,be_bs_30.09.2022.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,21433.0,12922.0,2022-09-30,be_bs_30.09.2022.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2022-09-30,be_bs_30.09.2022.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,9993.0,20593.0,2022-09-30,be_bs_30.09.2022.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,347769.0,358536.0,2022-09-30,be_bs_30.09.2022.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,13683.0,14071.0,2022-09-30,be_bs_30.09.2022.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,702.0,751.0,2022-09-30,be_bs_30.09.2022.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2022-09-30,be_bs_30.09.2022.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,5486.0,8272.0,2022-09-30,be_bs_30.09.2022.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,453344.0,514576.0,2022-09-30,be_bs_30.09.2022.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,395713.0,461516.0,2022-09-30,be_bs_30.09.2022.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,1089.0,93.0,2022-09-30,be_bs_30.09.2022.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2022-09-30,be_bs_30.09.2022.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2022-09-30,be_bs_30.09.2022.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,8140.0,2475.0,2022-09-30,be_bs_30.09.2022.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,404942.0,464084.0,2022-09-30,be_bs_30.09.2022.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2022-09-30,be_bs_30.09.2022.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4698.0,4659.0,2022-09-30,be_bs_30.09.2022.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,9087.0,9087.0,2022-09-30,be_bs_30.09.2022.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,5196.0,7324.0,2022-09-30,be_bs_30.09.2022.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2022-09-30,be_bs_30.09.2022.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,48402.0,50492.0,2022-09-30,be_bs_30.09.2022.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,453344.0,514576.0,2022-09-30,be_bs_30.09.2022.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,57446.0,79257.0,2023-09-30,be_bs_30.09.2023.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,10243.0,28330.0,2023-09-30,be_bs_30.09.2023.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2023-09-30,be_bs_30.09.2023.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,4654.0,3127.0,2023-09-30,be_bs_30.09.2023.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,444832.0,438930.0,2023-09-30,be_bs_30.09.2023.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14908.0,15023.0,2023-09-30,be_bs_30.09.2023.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,938.0,1132.0,2023-09-30,be_bs_30.09.2023.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2023-09-30,be_bs_30.09.2023.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,11500.0,12443.0,2023-09-30,be_bs_30.09.2023.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,544522.0,578242.0,2023-09-30,be_bs_30.09.2023.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,475570.0,510682.0,2023-09-30,be_bs_30.09.2023.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,188.0,119.0,2023-09-30,be_bs_30.09.2023.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2023-09-30,be_bs_30.09.2023.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2023-09-30,be_bs_30.09.2023.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,8495.0,4853.0,2023-09-30,be_bs_30.09.2023.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,484253.0,515655.0,2023-09-30,be_bs_30.09.2023.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2023-09-30,be_bs_30.09.2023.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4795.0,4745.0,2023-09-30,be_bs_30.09.2023.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,19107.0,19107.0,2023-09-30,be_bs_30.09.2023.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,6945.0,9313.0,2023-09-30,be_bs_30.09.2023.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2023-09-30,be_bs_30.09.2023.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,60269.0,62587.0,2023-09-30,be_bs_30.09.2023.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,544522.0,578242.0,2023-09-30,be_bs_30.09.2023.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,51501.0,57024.0,2024-09-30,be_bs_30.09.2024.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,23429.0,27488.0,2024-09-30,be_bs_30.09.2024.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2024-09-30,be_bs_30.09.2024.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,83216.0,62093.0,2024-09-30,be_bs_30.09.2024.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,472430.0,484317.0,2024-09-30,be_bs_30.09.2024.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,13903.0,14514.0,2024-09-30,be_bs_30.09.2024.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,2097.0,2018.0,2024-09-30,be_bs_30.09.2024.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2024-09-30,be_bs_30.09.2024.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,11102.0,11644.0,2024-09-30,be_bs_30.09.2024.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,657678.0,659097.0,2024-09-30,be_bs_30.09.2024.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,584564.0,583904.0,2024-09-30,be_bs_30.09.2024.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2244.0,582.0,2024-09-30,be_bs_30.09.2024.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2024-09-30,be_bs_30.09.2024.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2024-09-30,be_bs_30.09.2024.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3918.0,4476.0,2024-09-30,be_bs_30.09.2024.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,590726.0,588962.0,2024-09-30,be_bs_30.09.2024.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2024-09-30,be_bs_30.09.2024.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4593.0,4653.0,2024-09-30,be_bs_30.09.2024.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,27833.0,27833.0,2024-09-30,be_bs_30.09.2024.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,5103.0,8227.0,2024-09-30,be_bs_30.09.2024.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2024-09-30,be_bs_30.09.2024.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,66952.0,70135.0,2024-09-30,be_bs_30.09.2024.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,657678.0,659097.0,2024-09-30,be_bs_30.09.2024.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2025-09-30,be_bs_30.09.2025.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,64726.0,65059.0,2025-09-30,be_bs_30.09.2025.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,22333.0,39203.0,2025-09-30,be_bs_30.09.2025.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2025-09-30,be_bs_30.09.2025.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,52046.0,96783.0,2025-09-30,be_bs_30.09.2025.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,511333.0,552014.0,2025-09-30,be_bs_30.09.2025.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,13368.0,14493.0,2025-09-30,be_bs_30.09.2025.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,2465.0,2279.0,2025-09-30,be_bs_30.09.2025.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2025-09-30,be_bs_30.09.2025.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,9153.0,10309.0,2025-09-30,be_bs_30.09.2025.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,675425.0,780141.0,2025-09-30,be_bs_30.09.2025.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,589249.0,679518.0,2025-09-30,be_bs_30.09.2025.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2497.0,2473.0,2025-09-30,be_bs_30.09.2025.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,2059.0,2098.0,2025-09-30,be_bs_30.09.2025.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2025-09-30,be_bs_30.09.2025.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4288.0,7186.0,2025-09-30,be_bs_30.09.2025.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,598094.0,691275.0,2025-09-30,be_bs_30.09.2025.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,38874.0,2025-09-30,be_bs_30.09.2025.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4797.0,4789.0,2025-09-30,be_bs_30.09.2025.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,38529.0,38529.0,2025-09-30,be_bs_30.09.2025.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,4584.0,6673.0,2025-09-30,be_bs_30.09.2025.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2025-09-30,be_bs_30.09.2025.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,77331.0,88865.0,2025-09-30,be_bs_30.09.2025.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,675425.0,780141.0,2025-09-30,be_bs_30.09.2025.pdf,45,3,BALANCE_SHEET
+Kërkesat ndaj bankave,10822.0,10192.0,2013-03-31,be_bs_31.03.2013.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,10807.0,10909.0,2013-03-31,be_bs_31.03.2013.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,93943.0,100690.0,2013-03-31,be_bs_31.03.2013.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,7580.0,7362.0,2013-03-31,be_bs_31.03.2013.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,109.0,95.0,2013-03-31,be_bs_31.03.2013.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2013-03-31,be_bs_31.03.2013.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1773.0,2024.0,2013-03-31,be_bs_31.03.2013.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,155346.0,159141.0,2013-03-31,be_bs_31.03.2013.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,140522.0,143506.0,2013-03-31,be_bs_31.03.2013.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2013-03-31,be_bs_31.03.2013.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2013-03-31,be_bs_31.03.2013.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2013-03-31,be_bs_31.03.2013.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3282.0,3800.0,2013-03-31,be_bs_31.03.2013.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,143804.0,147306.0,2013-03-31,be_bs_31.03.2013.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2013-03-31,be_bs_31.03.2013.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,101.0,101.0,2013-03-31,be_bs_31.03.2013.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-409.0,-3338.0,2013-03-31,be_bs_31.03.2013.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,-2929.0,293.0,2013-03-31,be_bs_31.03.2013.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2013-03-31,be_bs_31.03.2013.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,11542.0,11835.0,2013-03-31,be_bs_31.03.2013.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,155346.0,159141.0,2013-03-31,be_bs_31.03.2013.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,44791.0,22221.0,2014-03-31,be_bs_31.03.2014.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7839.0,6259.0,2014-03-31,be_bs_31.03.2014.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,13880.0,27873.0,2014-03-31,be_bs_31.03.2014.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,103112.0,103651.0,2014-03-31,be_bs_31.03.2014.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6957.0,6797.0,2014-03-31,be_bs_31.03.2014.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,68.0,111.0,2014-03-31,be_bs_31.03.2014.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,117.0,117.0,2014-03-31,be_bs_31.03.2014.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1499.0,1488.0,2014-03-31,be_bs_31.03.2014.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,178263.0,168517.0,2014-03-31,be_bs_31.03.2014.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,162211.0,152796.0,2014-03-31,be_bs_31.03.2014.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2014-03-31,be_bs_31.03.2014.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2014-03-31,be_bs_31.03.2014.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2014-03-31,be_bs_31.03.2014.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3264.0,3302.0,2014-03-31,be_bs_31.03.2014.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,165475.0,156098.0,2014-03-31,be_bs_31.03.2014.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2014-03-31,be_bs_31.03.2014.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,101.0,101.0,2014-03-31,be_bs_31.03.2014.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-3338.0,-2093.0,2014-03-31,be_bs_31.03.2014.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,1246.0,-368.0,2014-03-31,be_bs_31.03.2014.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2014-03-31,be_bs_31.03.2014.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,12788.0,12419.0,2014-03-31,be_bs_31.03.2014.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,178263.0,168517.0,2014-03-31,be_bs_31.03.2014.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,18697.0,22346.0,2015-03-31,be_bs_31.03.2015.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7621.0,7093.0,2015-03-31,be_bs_31.03.2015.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,27953.0,28219.0,2015-03-31,be_bs_31.03.2015.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,110131.0,113132.0,2015-03-31,be_bs_31.03.2015.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6388.0,6242.0,2015-03-31,be_bs_31.03.2015.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,306.0,291.0,2015-03-31,be_bs_31.03.2015.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2015-03-31,be_bs_31.03.2015.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1601.0,1433.0,2015-03-31,be_bs_31.03.2015.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,172697.0,178756.0,2015-03-31,be_bs_31.03.2015.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,155015.0,160380.0,2015-03-31,be_bs_31.03.2015.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2015-03-31,be_bs_31.03.2015.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1000.0,1000.0,2015-03-31,be_bs_31.03.2015.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2015-03-31,be_bs_31.03.2015.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3128.0,3271.0,2015-03-31,be_bs_31.03.2015.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,159143.0,164651.0,2015-03-31,be_bs_31.03.2015.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2015-03-31,be_bs_31.03.2015.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2015-03-31,be_bs_31.03.2015.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur /(humbja) nga vitet paraprake,-2268.0,-1327.0,2015-03-31,be_bs_31.03.2015.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,941.0,551.0,2015-03-31,be_bs_31.03.2015.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2015-03-31,be_bs_31.03.2015.pdf,43,3,BALANCE_SHEET
+Gjithsej  ekuiteti i aksionarëve,13554.0,14105.0,2015-03-31,be_bs_31.03.2015.pdf,44,3,BALANCE_SHEET
+Gjithsej  detyrimet  dhe ekuiteti i aksionarëve,172697.0,178756.0,2015-03-31,be_bs_31.03.2015.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,25480.0,30871.0,2016-03-31,be_bs_31.03.2016.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7489.0,7638.0,2016-03-31,be_bs_31.03.2016.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,19554.0,13889.0,2016-03-31,be_bs_31.03.2016.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,2056.0,7146.0,2016-03-31,be_bs_31.03.2016.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,122077.0,124610.0,2016-03-31,be_bs_31.03.2016.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6226.0,6194.0,2016-03-31,be_bs_31.03.2016.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,271.0,252.0,2016-03-31,be_bs_31.03.2016.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2016-03-31,be_bs_31.03.2016.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,766.0,1550.0,2016-03-31,be_bs_31.03.2016.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,183919.0,192150.0,2016-03-31,be_bs_31.03.2016.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,163751.0,168327.0,2016-03-31,be_bs_31.03.2016.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,1393.0,1328.0,2016-03-31,be_bs_31.03.2016.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1050.0,1000.0,2016-03-31,be_bs_31.03.2016.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2016-03-31,be_bs_31.03.2016.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,847.0,3192.0,2016-03-31,be_bs_31.03.2016.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,167041.0,173847.0,2016-03-31,be_bs_31.03.2016.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14778.0,14779.0,2016-03-31,be_bs_31.03.2016.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2016-03-31,be_bs_31.03.2016.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-1712.0,1998.0,2016-03-31,be_bs_31.03.2016.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,3710.0,1416.0,2016-03-31,be_bs_31.03.2016.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,8.0,2016-03-31,be_bs_31.03.2016.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,16878.0,18303.0,2016-03-31,be_bs_31.03.2016.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,183919.0,192150.0,2016-03-31,be_bs_31.03.2016.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2017-03-31,be_bs_31.03.2017.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,45058.0,41707.0,2017-03-31,be_bs_31.03.2017.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7922.0,10229.0,2017-03-31,be_bs_31.03.2017.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,11695.0,13365.0,2017-03-31,be_bs_31.03.2017.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,13075.0,12626.0,2017-03-31,be_bs_31.03.2017.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,137926.0,141241.0,2017-03-31,be_bs_31.03.2017.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6089.0,6012.0,2017-03-31,be_bs_31.03.2017.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,395.0,417.0,2017-03-31,be_bs_31.03.2017.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2017-03-31,be_bs_31.03.2017.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,844.0,696.0,2017-03-31,be_bs_31.03.2017.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,223004.0,226291.0,2017-03-31,be_bs_31.03.2017.pdf,31,3,BALANCE_SHEET
+Detyrime ndaj klientëve,197708.0,199938.0,2017-03-31,be_bs_31.03.2017.pdf,32,3,BALANCE_SHEET
+Detyrime ndaj bankave,2196.0,2027.0,2017-03-31,be_bs_31.03.2017.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1050.0,1069.0,2017-03-31,be_bs_31.03.2017.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2017-03-31,be_bs_31.03.2017.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,611.0,625.0,2017-03-31,be_bs_31.03.2017.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,201565.0,203659.0,2017-03-31,be_bs_31.03.2017.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,16777.0,16777.0,2017-03-31,be_bs_31.03.2017.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2017-03-31,be_bs_31.03.2017.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,4560.0,2017-03-31,be_bs_31.03.2017.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,4560.0,1193.0,2017-03-31,be_bs_31.03.2017.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2017-03-31,be_bs_31.03.2017.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,21439.0,22631.0,2017-03-31,be_bs_31.03.2017.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,223004.0,226291.0,2017-03-31,be_bs_31.03.2017.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2018-03-31,be_bs_31.03.2018.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,40416.0,47555.0,2018-03-31,be_bs_31.03.2018.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7025.0,13192.0,2018-03-31,be_bs_31.03.2018.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,10580.0,7239.0,2018-03-31,be_bs_31.03.2018.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,15876.0,13440.0,2018-03-31,be_bs_31.03.2018.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,157851.0,160879.0,2018-03-31,be_bs_31.03.2018.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6360.0,6257.0,2018-03-31,be_bs_31.03.2018.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,514.0,505.0,2018-03-31,be_bs_31.03.2018.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2018-03-31,be_bs_31.03.2018.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,703.0,664.0,2018-03-31,be_bs_31.03.2018.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,239325.0,249730.0,2018-03-31,be_bs_31.03.2018.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,209447.0,218726.0,2018-03-31,be_bs_31.03.2018.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2048.0,2056.0,2018-03-31,be_bs_31.03.2018.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1050.0,1069.0,2018-03-31,be_bs_31.03.2018.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2018-03-31,be_bs_31.03.2018.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,619.0,723.0,2018-03-31,be_bs_31.03.2018.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,213164.0,222574.0,2018-03-31,be_bs_31.03.2018.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,21337.0,21337.0,2018-03-31,be_bs_31.03.2018.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,118.0,13.0,2018-03-31,be_bs_31.03.2018.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,4706.0,2018-03-31,be_bs_31.03.2018.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,4706.0,1100.0,2018-03-31,be_bs_31.03.2018.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2018-03-31,be_bs_31.03.2018.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,26161.0,27156.0,2018-03-31,be_bs_31.03.2018.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,239325.0,249730.0,2018-03-31,be_bs_31.03.2018.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2019-03-31,be_bs_31.03.2019.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,64462.0,70052.0,2019-03-31,be_bs_31.03.2019.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,12166.0,10021.0,2019-03-31,be_bs_31.03.2019.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,5494.0,5022.0,2019-03-31,be_bs_31.03.2019.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,20002.0,20006.0,2019-03-31,be_bs_31.03.2019.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,170721.0,171922.0,2019-03-31,be_bs_31.03.2019.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6210.0,6181.0,2019-03-31,be_bs_31.03.2019.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,568.0,616.0,2019-03-31,be_bs_31.03.2019.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2019-03-31,be_bs_31.03.2019.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1490.0,1519.0,2019-03-31,be_bs_31.03.2019.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,281113.0,285339.0,2019-03-31,be_bs_31.03.2019.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,248181.0,251283.0,2019-03-31,be_bs_31.03.2019.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2091.0,2062.0,2019-03-31,be_bs_31.03.2019.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1050.0,1069.0,2019-03-31,be_bs_31.03.2019.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2019-03-31,be_bs_31.03.2019.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,430.0,463.0,2019-03-31,be_bs_31.03.2019.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,251752.0,254877.0,2019-03-31,be_bs_31.03.2019.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,24544.0,24544.0,2019-03-31,be_bs_31.03.2019.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,100.0,143.0,2019-03-31,be_bs_31.03.2019.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,4718.0,2019-03-31,be_bs_31.03.2019.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,4718.0,1058.0,2019-03-31,be_bs_31.03.2019.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2019-03-31,be_bs_31.03.2019.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,29361.0,30463.0,2019-03-31,be_bs_31.03.2019.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,281113.0,285339.0,2019-03-31,be_bs_31.03.2019.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2020-03-31,be_bs_31.03.2020.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,51990.0,44407.0,2020-03-31,be_bs_31.03.2020.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,14163.0,13302.0,2020-03-31,be_bs_31.03.2020.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,5218.0,0.0,2020-03-31,be_bs_31.03.2020.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,29883.0,35577.0,2020-03-31,be_bs_31.03.2020.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,208570.0,213370.0,2020-03-31,be_bs_31.03.2020.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,9925.0,7224.0,2020-03-31,be_bs_31.03.2020.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,565.0,492.0,2020-03-31,be_bs_31.03.2020.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2020-03-31,be_bs_31.03.2020.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,2187.0,2776.0,2020-03-31,be_bs_31.03.2020.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,322501.0,317148.0,2020-03-31,be_bs_31.03.2020.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,282683.0,278694.0,2020-03-31,be_bs_31.03.2020.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2100.0,2102.0,2020-03-31,be_bs_31.03.2020.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1050.0,1069.0,2020-03-31,be_bs_31.03.2020.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2020-03-31,be_bs_31.03.2020.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3222.0,648.0,2020-03-31,be_bs_31.03.2020.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,289055.0,282513.0,2020-03-31,be_bs_31.03.2020.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,27761.0,27761.0,2020-03-31,be_bs_31.03.2020.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,324.0,227.0,2020-03-31,be_bs_31.03.2020.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,5403.0,2020-03-31,be_bs_31.03.2020.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,5361.0,1243.0,2020-03-31,be_bs_31.03.2020.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2020-03-31,be_bs_31.03.2020.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,33446.0,34635.0,2020-03-31,be_bs_31.03.2020.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,322501.0,317148.0,2020-03-31,be_bs_31.03.2020.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2021-03-31,be_bs_31.03.2021.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,69657.0,51898.0,2021-03-31,be_bs_31.03.2021.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,12733.0,18066.0,2021-03-31,be_bs_31.03.2021.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2021-03-31,be_bs_31.03.2021.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,25365.0,39.032,2021-03-31,be_bs_31.03.2021.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,247123.0,259524.0,2021-03-31,be_bs_31.03.2021.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,8768.0,8361.0,2021-03-31,be_bs_31.03.2021.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,2813.0,690.0,2021-03-31,be_bs_31.03.2021.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2021-03-31,be_bs_31.03.2021.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1423.0,3751.0,2021-03-31,be_bs_31.03.2021.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,367882.0,381322.0,2021-03-31,be_bs_31.03.2021.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,330281.0,342329.0,2021-03-31,be_bs_31.03.2021.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2080.0,2082.0,2021-03-31,be_bs_31.03.2021.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2021-03-31,be_bs_31.03.2021.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2021-03-31,be_bs_31.03.2021.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,2189.0,2326.0,2021-03-31,be_bs_31.03.2021.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,334550.0,346737.0,2021-03-31,be_bs_31.03.2021.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29.442,29422.0,2021-03-31,be_bs_31.03.2021.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,-99.0,-88.0,2021-03-31,be_bs_31.03.2021.pdf,40,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,4.009,1066.0,2021-03-31,be_bs_31.03.2021.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2021-03-31,be_bs_31.03.2021.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,33332.0,34585.0,2021-03-31,be_bs_31.03.2021.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,367882.0,381322.0,2021-03-31,be_bs_31.03.2021.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2022-03-31,be_bs_31.03.2022.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,91928.0,55448.0,2022-03-31,be_bs_31.03.2022.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,15695.0,17122.0,2022-03-31,be_bs_31.03.2022.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2022-03-31,be_bs_31.03.2022.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,5000.0,5010.0,2022-03-31,be_bs_31.03.2022.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,329296.0,336354.0,2022-03-31,be_bs_31.03.2022.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,13796.0,14036.0,2022-03-31,be_bs_31.03.2022.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,792.0,815.0,2022-03-31,be_bs_31.03.2022.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2022-03-31,be_bs_31.03.2022.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,4277.0,4853.0,2022-03-31,be_bs_31.03.2022.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,460784.0,433639.0,2022-03-31,be_bs_31.03.2022.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,411106.0,380977.0,2022-03-31,be_bs_31.03.2022.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,1086.0,1088.0,2022-03-31,be_bs_31.03.2022.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2022-03-31,be_bs_31.03.2022.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2022-03-31,be_bs_31.03.2022.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3402.0,3479.0,2022-03-31,be_bs_31.03.2022.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,415595.0,385544.0,2022-03-31,be_bs_31.03.2022.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2022-03-31,be_bs_31.03.2022.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4680.0,4688.0,2022-03-31,be_bs_31.03.2022.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,4009.0,11087.0,2022-03-31,be_bs_31.03.2022.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,7078.0,2897.0,2022-03-31,be_bs_31.03.2022.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2022-03-31,be_bs_31.03.2022.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,45189.0,48094.0,2022-03-31,be_bs_31.03.2022.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,460784.0,433639.0,2022-03-31,be_bs_31.03.2022.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2023-03-31,be_bs_31.03.2023.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,107408.0,59546.0,2023-03-31,be_bs_31.03.2023.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,20181.0,18064.0,2023-03-31,be_bs_31.03.2023.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2023-03-31,be_bs_31.03.2023.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,28225.0,30860.0,2023-03-31,be_bs_31.03.2023.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,379892.0,408957.0,2023-03-31,be_bs_31.03.2023.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14988.0,15299.0,2023-03-31,be_bs_31.03.2023.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,654.0,618.0,2023-03-31,be_bs_31.03.2023.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2023-03-31,be_bs_31.03.2023.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,11718.0,11832.0,2023-03-31,be_bs_31.03.2023.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,563066.0,545174.0,2023-03-31,be_bs_31.03.2023.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,505342.0,483101.0,2023-03-31,be_bs_31.03.2023.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,93.0,801.0,2023-03-31,be_bs_31.03.2023.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2023-03-31,be_bs_31.03.2023.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2023-03-31,be_bs_31.03.2023.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4363.0,4467.0,2023-03-31,be_bs_31.03.2023.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,509798.0,488369.0,2023-03-31,be_bs_31.03.2023.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2023-03-31,be_bs_31.03.2023.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4739.0,4784.0,2023-03-31,be_bs_31.03.2023.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,9087.0,19107.0,2023-03-31,be_bs_31.03.2023.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,10020.0,3492.0,2023-03-31,be_bs_31.03.2023.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2023-03-31,be_bs_31.03.2023.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,53268.0,56805.0,2023-03-31,be_bs_31.03.2023.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,563066.0,545174.0,2023-03-31,be_bs_31.03.2023.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,87808.0,51096.0,2024-03-31,be_bs_31.03.2024.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,40852.0,31013.0,2024-03-31,be_bs_31.03.2024.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2024-03-31,be_bs_31.03.2024.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,10605.0,50160.0,2024-03-31,be_bs_31.03.2024.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,441298.0,452265.0,2024-03-31,be_bs_31.03.2024.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14472.0,14187.0,2024-03-31,be_bs_31.03.2024.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,1578.0,1619.0,2024-03-31,be_bs_31.03.2024.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2024-03-31,be_bs_31.03.2024.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,11317.0,9898.0,2024-03-31,be_bs_31.03.2024.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,607931.0,610237.0,2024-03-31,be_bs_31.03.2024.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,537067.0,537814.0,2024-03-31,be_bs_31.03.2024.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,1487.0,1943.0,2024-03-31,be_bs_31.03.2024.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2024-03-31,be_bs_31.03.2024.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2024-03-31,be_bs_31.03.2024.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4490.0,4436.0,2024-03-31,be_bs_31.03.2024.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,543044.0,544193.0,2024-03-31,be_bs_31.03.2024.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2024-03-31,be_bs_31.03.2024.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4633.0,4712.0,2024-03-31,be_bs_31.03.2024.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,19107.0,29893.0,2024-03-31,be_bs_31.03.2024.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,11726.0,2017.0,2024-03-31,be_bs_31.03.2024.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2024-03-31,be_bs_31.03.2024.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,64887.0,66044.0,2024-03-31,be_bs_31.03.2024.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,607931.0,610237.0,2024-03-31,be_bs_31.03.2024.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2025-03-31,be_bs_31.03.2025.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,78309.0,59145.0,2025-03-31,be_bs_31.03.2025.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,22407.0,23012.0,2025-03-31,be_bs_31.03.2025.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2025-03-31,be_bs_31.03.2025.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,55749.0,60498.0,2025-03-31,be_bs_31.03.2025.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,491220.0,497536.0,2025-03-31,be_bs_31.03.2025.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14271.0,13670.0,2025-03-31,be_bs_31.03.2025.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,2470.0,2532.0,2025-03-31,be_bs_31.03.2025.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2025-03-31,be_bs_31.03.2025.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,10855.0,9804.0,2025-03-31,be_bs_31.03.2025.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,675281.0,666196.0,2025-03-31,be_bs_31.03.2025.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,596936.0,583768.0,2025-03-31,be_bs_31.03.2025.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,1.096,2503.0,2025-03-31,be_bs_31.03.2025.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2025-03-31,be_bs_31.03.2025.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2025-03-31,be_bs_31.03.2025.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4527.0,4315.0,2025-03-31,be_bs_31.03.2025.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,602559.0,590586.0,2025-03-31,be_bs_31.03.2025.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2025-03-31,be_bs_31.03.2025.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4774.0,4854.0,2025-03-31,be_bs_31.03.2025.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,27833.0,38529.0,2025-03-31,be_bs_31.03.2025.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,10694.0,2805.0,2025-03-31,be_bs_31.03.2025.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2025-03-31,be_bs_31.03.2025.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,72722.0,75610.0,2025-03-31,be_bs_31.03.2025.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,675281.0,666196.0,2025-03-31,be_bs_31.03.2025.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,34673.0,30312.0,2012-12-31,be_bs_31.12.2012.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,13295.0,10822.0,2012-12-31,be_bs_31.12.2012.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,5602.0,10807.0,2012-12-31,be_bs_31.12.2012.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,92803.0,93943.0,2012-12-31,be_bs_31.12.2012.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,7742.0,7580.0,2012-12-31,be_bs_31.12.2012.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,99.0,109.0,2012-12-31,be_bs_31.12.2012.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2012-12-31,be_bs_31.12.2012.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1801.0,1773.0,2012-12-31,be_bs_31.12.2012.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,156015.0,155346.0,2012-12-31,be_bs_31.12.2012.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,140633.0,140522.0,2012-12-31,be_bs_31.12.2012.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2012-12-31,be_bs_31.12.2012.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2012-12-31,be_bs_31.12.2012.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2012-12-31,be_bs_31.12.2012.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3484.0,3282.0,2012-12-31,be_bs_31.12.2012.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,144117.0,143804.0,2012-12-31,be_bs_31.12.2012.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2012-12-31,be_bs_31.12.2012.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,101.0,101.0,2012-12-31,be_bs_31.12.2012.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-409.0,-409.0,2012-12-31,be_bs_31.12.2012.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,-2573.0,-2929.0,2012-12-31,be_bs_31.12.2012.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2012-12-31,be_bs_31.12.2012.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,11898.0,11542.0,2012-12-31,be_bs_31.12.2012.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,156015.0,155346.0,2012-12-31,be_bs_31.12.2012.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,36767.0,44791.0,2013-12-31,be_bs_31.12.2013.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7810.0,7839.0,2013-12-31,be_bs_31.12.2013.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,14534.0,13880.0,2013-12-31,be_bs_31.12.2013.pdf,22,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,102692.0,103112.0,2013-12-31,be_bs_31.12.2013.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,7037.0,6957.0,2013-12-31,be_bs_31.12.2013.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,76.0,68.0,2013-12-31,be_bs_31.12.2013.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,117.0,2013-12-31,be_bs_31.12.2013.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1565.0,1499.0,2013-12-31,be_bs_31.12.2013.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,170481.0,178263.0,2013-12-31,be_bs_31.12.2013.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,153725.0,162211.0,2013-12-31,be_bs_31.12.2013.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,0.0,0.0,2013-12-31,be_bs_31.12.2013.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2013-12-31,be_bs_31.12.2013.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2013-12-31,be_bs_31.12.2013.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3022.0,3264.0,2013-12-31,be_bs_31.12.2013.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,156747.0,165475.0,2013-12-31,be_bs_31.12.2013.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14779.0,2013-12-31,be_bs_31.12.2013.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,101.0,101.0,2013-12-31,be_bs_31.12.2013.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-3338.0,-3338.0,2013-12-31,be_bs_31.12.2013.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2192.0,1246.0,2013-12-31,be_bs_31.12.2013.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2013-12-31,be_bs_31.12.2013.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,13734.0,12788.0,2013-12-31,be_bs_31.12.2013.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,170481.0,178263.0,2013-12-31,be_bs_31.12.2013.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,25906.0,25480.0,2015-12-31,be_bs_31.12.2015.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7852.0,7489.0,2015-12-31,be_bs_31.12.2015.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,25236.0,19554.0,2015-12-31,be_bs_31.12.2015.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,2045.0,2056.0,2015-12-31,be_bs_31.12.2015.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,117816.0,122077.0,2015-12-31,be_bs_31.12.2015.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,5932.0,6226.0,2015-12-31,be_bs_31.12.2015.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,257.0,271.0,2015-12-31,be_bs_31.12.2015.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2015-12-31,be_bs_31.12.2015.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1276.0,766.0,2015-12-31,be_bs_31.12.2015.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,186320.0,183919.0,2015-12-31,be_bs_31.12.2015.pdf,31,3,BALANCE_SHEET
+Detyrime ndaj klientëve,166068.0,163751.0,2015-12-31,be_bs_31.12.2015.pdf,32,3,BALANCE_SHEET
+Detyrime ndaj bankave,328.0,1393.0,2015-12-31,be_bs_31.12.2015.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1000.0,1050.0,2015-12-31,be_bs_31.12.2015.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2015-12-31,be_bs_31.12.2015.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3248.0,847.0,2015-12-31,be_bs_31.12.2015.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,170644.0,167041.0,2015-12-31,be_bs_31.12.2015.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,14779.0,14778.0,2015-12-31,be_bs_31.12.2015.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2015-12-31,be_bs_31.12.2015.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,-1327.0,-1712.0,2015-12-31,be_bs_31.12.2015.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2122.0,3710.0,2015-12-31,be_bs_31.12.2015.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2015-12-31,be_bs_31.12.2015.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,15676.0,16878.0,2015-12-31,be_bs_31.12.2015.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,186320.0,183919.0,2015-12-31,be_bs_31.12.2015.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2016-12-31,be_bs_31.12.2016.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,36655.0,45058.0,2016-12-31,be_bs_31.12.2016.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,7798.0,7922.0,2016-12-31,be_bs_31.12.2016.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,18762.0,11695.0,2016-12-31,be_bs_31.12.2016.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,3826.0,13075.0,2016-12-31,be_bs_31.12.2016.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,132644.0,137926.0,2016-12-31,be_bs_31.12.2016.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6158.0,6089.0,2016-12-31,be_bs_31.12.2016.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,298.0,395.0,2016-12-31,be_bs_31.12.2016.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2016-12-31,be_bs_31.12.2016.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,917.0,844.0,2016-12-31,be_bs_31.12.2016.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,207058.0,223004.0,2016-12-31,be_bs_31.12.2016.pdf,31,3,BALANCE_SHEET
+Detyrime ndaj klientëve,182608.0,197708.0,2016-12-31,be_bs_31.12.2016.pdf,32,3,BALANCE_SHEET
+Detyrime ndaj bankave,2040.0,2196.0,2016-12-31,be_bs_31.12.2016.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1031.0,1050.0,2016-12-31,be_bs_31.12.2016.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2016-12-31,be_bs_31.12.2016.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,814.0,611.0,2016-12-31,be_bs_31.12.2016.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,186493.0,201565.0,2016-12-31,be_bs_31.12.2016.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,16777.0,16777.0,2016-12-31,be_bs_31.12.2016.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,102.0,2016-12-31,be_bs_31.12.2016.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,0.0,2016-12-31,be_bs_31.12.2016.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,3590.0,4560.0,2016-12-31,be_bs_31.12.2016.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,97.0,0.0,2016-12-31,be_bs_31.12.2016.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,20565.0,21439.0,2016-12-31,be_bs_31.12.2016.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,207058.0,223004.0,2016-12-31,be_bs_31.12.2016.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2017-12-31,be_bs_31.12.2017.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,48870.0,40416.0,2017-12-31,be_bs_31.12.2017.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,13574.0,7025.0,2017-12-31,be_bs_31.12.2017.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,10558.0,10580.0,2017-12-31,be_bs_31.12.2017.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,6088.0,15876.0,2017-12-31,be_bs_31.12.2017.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,152791.0,157851.0,2017-12-31,be_bs_31.12.2017.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6042.0,6360.0,2017-12-31,be_bs_31.12.2017.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,486.0,514.0,2017-12-31,be_bs_31.12.2017.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2017-12-31,be_bs_31.12.2017.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,657.0,703.0,2017-12-31,be_bs_31.12.2017.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,239066.0,239325.0,2017-12-31,be_bs_31.12.2017.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,210608.0,209447.0,2017-12-31,be_bs_31.12.2017.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2043.0,2048.0,2017-12-31,be_bs_31.12.2017.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1031.0,1050.0,2017-12-31,be_bs_31.12.2017.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2017-12-31,be_bs_31.12.2017.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,534.0,619.0,2017-12-31,be_bs_31.12.2017.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,214216.0,213164.0,2017-12-31,be_bs_31.12.2017.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,21337.0,21337.0,2017-12-31,be_bs_31.12.2017.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,102.0,118.0,2017-12-31,be_bs_31.12.2017.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,0.0,2017-12-31,be_bs_31.12.2017.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,3411.0,4706.0,2017-12-31,be_bs_31.12.2017.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2017-12-31,be_bs_31.12.2017.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,24850.0,26161.0,2017-12-31,be_bs_31.12.2017.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,239066.0,239325.0,2017-12-31,be_bs_31.12.2017.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2018-12-31,be_bs_31.12.2018.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,60428.0,64462.0,2018-12-31,be_bs_31.12.2018.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,11445.0,12166.0,2018-12-31,be_bs_31.12.2018.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,5389.0,5494.0,2018-12-31,be_bs_31.12.2018.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,16286.0,20002.0,2018-12-31,be_bs_31.12.2018.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,164597.0,170721.0,2018-12-31,be_bs_31.12.2018.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6258.0,6210.0,2018-12-31,be_bs_31.12.2018.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,466.0,568.0,2018-12-31,be_bs_31.12.2018.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2018-12-31,be_bs_31.12.2018.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,738.0,1490.0,2018-12-31,be_bs_31.12.2018.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,265607.0,281113.0,2018-12-31,be_bs_31.12.2018.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,234445.0,248181.0,2018-12-31,be_bs_31.12.2018.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2086.0,2091.0,2018-12-31,be_bs_31.12.2018.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1031.0,1050.0,2018-12-31,be_bs_31.12.2018.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2018-12-31,be_bs_31.12.2018.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,476.0,430.0,2018-12-31,be_bs_31.12.2018.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,238038.0,251752.0,2018-12-31,be_bs_31.12.2018.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,24544.0,24544.0,2018-12-31,be_bs_31.12.2018.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,-1.0,100.0,2018-12-31,be_bs_31.12.2018.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,35.0,0.0,2018-12-31,be_bs_31.12.2018.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2992.0,4718.0,2018-12-31,be_bs_31.12.2018.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2018-12-31,be_bs_31.12.2018.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,27570.0,29361.0,2018-12-31,be_bs_31.12.2018.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,265607.0,281113.0,2018-12-31,be_bs_31.12.2018.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2019-12-31,be_bs_31.12.2019.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,45940.0,51990.0,2019-12-31,be_bs_31.12.2019.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,13684.0,14163.0,2019-12-31,be_bs_31.12.2019.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,5158.0,5218.0,2019-12-31,be_bs_31.12.2019.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,26707.0,29883.0,2019-12-31,be_bs_31.12.2019.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,199486.0,208570.0,2019-12-31,be_bs_31.12.2019.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,6794.0,9925.0,2019-12-31,be_bs_31.12.2019.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,546.0,565.0,2019-12-31,be_bs_31.12.2019.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2019-12-31,be_bs_31.12.2019.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,1585.0,2187.0,2019-12-31,be_bs_31.12.2019.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,299900.0,322501.0,2019-12-31,be_bs_31.12.2019.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,264672.0,282683.0,2019-12-31,be_bs_31.12.2019.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2097.0,2100.0,2019-12-31,be_bs_31.12.2019.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,1031.0,1050.0,2019-12-31,be_bs_31.12.2019.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2019-12-31,be_bs_31.12.2019.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,456.0,3222.0,2019-12-31,be_bs_31.12.2019.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,268257.0,289055.0,2019-12-31,be_bs_31.12.2019.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,27761.0,27761.0,2019-12-31,be_bs_31.12.2019.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,270.0,324.0,2019-12-31,be_bs_31.12.2019.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,0.0,2019-12-31,be_bs_31.12.2019.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,3612.0,5361.0,2019-12-31,be_bs_31.12.2019.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2019-12-31,be_bs_31.12.2019.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,31643.0,33446.0,2019-12-31,be_bs_31.12.2019.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,299900.0,322501.0,2019-12-31,be_bs_31.12.2019.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2020-12-31,be_bs_31.12.2020.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,31349.0,69657.0,2020-12-31,be_bs_31.12.2020.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,10481.0,12733.0,2020-12-31,be_bs_31.12.2020.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2020-12-31,be_bs_31.12.2020.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,41926.0,25365.0,2020-12-31,be_bs_31.12.2020.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,234051.0,247123.0,2020-12-31,be_bs_31.12.2020.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,9119.0,8768.0,2020-12-31,be_bs_31.12.2020.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,510.0,2813.0,2020-12-31,be_bs_31.12.2020.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2020-12-31,be_bs_31.12.2020.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,3012.0,1423.0,2020-12-31,be_bs_31.12.2020.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,330448.0,367882.0,2020-12-31,be_bs_31.12.2020.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,290447.0,330281.0,2020-12-31,be_bs_31.12.2020.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2078.0,2080.0,2020-12-31,be_bs_31.12.2020.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2020-12-31,be_bs_31.12.2020.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2020-12-31,be_bs_31.12.2020.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,2565.0,2189.0,2020-12-31,be_bs_31.12.2020.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,295090.0,334550.0,2020-12-31,be_bs_31.12.2020.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,31112.0,29422.0,2020-12-31,be_bs_31.12.2020.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,-70.0,-99.0,2020-12-31,be_bs_31.12.2020.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,2000.0,0.0,2020-12-31,be_bs_31.12.2020.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,2306.0,4009.0,2020-12-31,be_bs_31.12.2020.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2020-12-31,be_bs_31.12.2020.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,35358.0,33332.0,2020-12-31,be_bs_31.12.2020.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,330448.0,367882.0,2020-12-31,be_bs_31.12.2020.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2021-12-31,be_bs_31.12.2021.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,73281.0,91928.0,2021-12-31,be_bs_31.12.2021.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,13451.0,15695.0,2021-12-31,be_bs_31.12.2021.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2021-12-31,be_bs_31.12.2021.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,16729.0,5000.0,2021-12-31,be_bs_31.12.2021.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,314281.0,329296.0,2021-12-31,be_bs_31.12.2021.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,13801.0,13796.0,2021-12-31,be_bs_31.12.2021.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,855.0,792.0,2021-12-31,be_bs_31.12.2021.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2021-12-31,be_bs_31.12.2021.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,4156.0,4277.0,2021-12-31,be_bs_31.12.2021.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,436552.0,460784.0,2021-12-31,be_bs_31.12.2021.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,388342.0,411106.0,2021-12-31,be_bs_31.12.2021.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,1085.0,1086.0,2021-12-31,be_bs_31.12.2021.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2021-12-31,be_bs_31.12.2021.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2021-12-31,be_bs_31.12.2021.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,3117.0,3402.0,2021-12-31,be_bs_31.12.2021.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,392544.0,415595.0,2021-12-31,be_bs_31.12.2021.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29442.0,29422.0,2021-12-31,be_bs_31.12.2021.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4799.0,4680.0,2021-12-31,be_bs_31.12.2021.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,4009.0,4009.0,2021-12-31,be_bs_31.12.2021.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,5779.0,7078.0,2021-12-31,be_bs_31.12.2021.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2021-12-31,be_bs_31.12.2021.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,44008.0,45189.0,2021-12-31,be_bs_31.12.2021.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,436552.0,460784.0,2021-12-31,be_bs_31.12.2021.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2022-12-31,be_bs_31.12.2022.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,99430.0,107408.0,2022-12-31,be_bs_31.12.2022.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,12922.0,20181.0,2022-12-31,be_bs_31.12.2022.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2022-12-31,be_bs_31.12.2022.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,20593.0,28225.0,2022-12-31,be_bs_31.12.2022.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,358536.0,379892.0,2022-12-31,be_bs_31.12.2022.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14071.0,14988.0,2022-12-31,be_bs_31.12.2022.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,751.0,654.0,2022-12-31,be_bs_31.12.2022.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2022-12-31,be_bs_31.12.2022.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,8272.0,11718.0,2022-12-31,be_bs_31.12.2022.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,514576.0,563066.0,2022-12-31,be_bs_31.12.2022.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,461516.0,505342.0,2022-12-31,be_bs_31.12.2022.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,93.0,93.0,2022-12-31,be_bs_31.12.2022.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2022-12-31,be_bs_31.12.2022.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2022-12-31,be_bs_31.12.2022.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,2475.0,4362.0,2022-12-31,be_bs_31.12.2022.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,464084.0,509797.0,2022-12-31,be_bs_31.12.2022.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2022-12-31,be_bs_31.12.2022.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4659.0,4739.0,2022-12-31,be_bs_31.12.2022.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,9087.0,9087.0,2022-12-31,be_bs_31.12.2022.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,7324.0,10020.0,2022-12-31,be_bs_31.12.2022.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2022-12-31,be_bs_31.12.2022.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,50492.0,53269.0,2022-12-31,be_bs_31.12.2022.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,514576.0,563066.0,2022-12-31,be_bs_31.12.2022.pdf,45,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,79257.0,87808.0,2023-12-31,be_bs_31.12.2023.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,28330.0,40852.0,2023-12-31,be_bs_31.12.2023.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2023-12-31,be_bs_31.12.2023.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,3127.0,10605.0,2023-12-31,be_bs_31.12.2023.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,438930.0,441298.0,2023-12-31,be_bs_31.12.2023.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,15023.0,14472.0,2023-12-31,be_bs_31.12.2023.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,1132.0,1578.0,2023-12-31,be_bs_31.12.2023.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2023-12-31,be_bs_31.12.2023.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,12443.0,11317.0,2023-12-31,be_bs_31.12.2023.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,578242.0,607931.0,2023-12-31,be_bs_31.12.2023.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,510682.0,537067.0,2023-12-31,be_bs_31.12.2023.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,119.0,1487.0,2023-12-31,be_bs_31.12.2023.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2023-12-31,be_bs_31.12.2023.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2023-12-31,be_bs_31.12.2023.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4853.0,4490.0,2023-12-31,be_bs_31.12.2023.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,515655.0,543044.0,2023-12-31,be_bs_31.12.2023.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2023-12-31,be_bs_31.12.2023.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4745.0,4633.0,2023-12-31,be_bs_31.12.2023.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,19107.0,19107.0,2023-12-31,be_bs_31.12.2023.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,9313.0,11726.0,2023-12-31,be_bs_31.12.2023.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2023-12-31,be_bs_31.12.2023.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,62587.0,64887.0,2023-12-31,be_bs_31.12.2023.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,578242.0,607931.0,2023-12-31,be_bs_31.12.2023.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2024-12-31,be_bs_31.12.2024.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,57024.0,78309.0,2024-12-31,be_bs_31.12.2024.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,27488.0,22407.0,2024-12-31,be_bs_31.12.2024.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2024-12-31,be_bs_31.12.2024.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,62093.0,55749.0,2024-12-31,be_bs_31.12.2024.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,484317.0,491220.0,2024-12-31,be_bs_31.12.2024.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14514.0,14271.0,2024-12-31,be_bs_31.12.2024.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,2018.0,2470.0,2024-12-31,be_bs_31.12.2024.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2024-12-31,be_bs_31.12.2024.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,11644.0,10855.0,2024-12-31,be_bs_31.12.2024.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,659097.0,675281.0,2024-12-31,be_bs_31.12.2024.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,538904.0,596936.0,2024-12-31,be_bs_31.12.2024.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,582.0,1096.0,2024-12-31,be_bs_31.12.2024.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,0.0,0.0,2024-12-31,be_bs_31.12.2024.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2024-12-31,be_bs_31.12.2024.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,4476.0,4527.0,2024-12-31,be_bs_31.12.2024.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,588962.0,602559.0,2024-12-31,be_bs_31.12.2024.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,29422.0,29422.0,2024-12-31,be_bs_31.12.2024.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4653.0,4774.0,2024-12-31,be_bs_31.12.2024.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,27833.0,27833.0,2024-12-31,be_bs_31.12.2024.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,8227.0,10694.0,2024-12-31,be_bs_31.12.2024.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2024-12-31,be_bs_31.12.2024.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,70135.0,72722.0,2024-12-31,be_bs_31.12.2024.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,659097.0,675281.0,2024-12-31,be_bs_31.12.2024.pdf,45,3,BALANCE_SHEET
+,0.0,0.0,2025-12-31,be_bs_31.12.2025.pdf,,3,BALANCE_SHEET
+Paraja e gatshme dhe gjendja me BQK-në,65059.0,86432.0,2025-12-31,be_bs_31.12.2025.pdf,20,3,BALANCE_SHEET
+Kërkesat ndaj bankave,39203.0,26191.0,2025-12-31,be_bs_31.12.2025.pdf,21,3,BALANCE_SHEET
+Bonot e thesarit,0.0,0.0,2025-12-31,be_bs_31.12.2025.pdf,22,3,BALANCE_SHEET
+Investimet në letra me vlerë,96871.0,99952.0,2025-12-31,be_bs_31.12.2025.pdf,23,3,BALANCE_SHEET
+Kreditë dhe paradhëniet ndaj klientëve,552014.0,561627.0,2025-12-31,be_bs_31.12.2025.pdf,26,3,BALANCE_SHEET
+Patundshmëritë dhe pajisjet,14106.0,14685.0,2025-12-31,be_bs_31.12.2025.pdf,27,3,BALANCE_SHEET
+Pasuritë e paprekshme,2279.0,2174.0,2025-12-31,be_bs_31.12.2025.pdf,28,3,BALANCE_SHEET
+Pasuritë tatimore të shtyra,0.0,0.0,2025-12-31,be_bs_31.12.2025.pdf,29,3,BALANCE_SHEET
+Pasuritë tjera,21631.0,8957.0,2025-12-31,be_bs_31.12.2025.pdf,30,3,BALANCE_SHEET
+Gjithsej pasuritë,791162.0,800019.0,2025-12-31,be_bs_31.12.2025.pdf,31,3,BALANCE_SHEET
+Depozitat e klientëve,679519.0,695660.0,2025-12-31,be_bs_31.12.2025.pdf,32,3,BALANCE_SHEET
+Detyrimet ndaj bankave,2473.0,2588.0,2025-12-31,be_bs_31.12.2025.pdf,33,3,BALANCE_SHEET
+Fondet tjera të huazuara,2098.0,2136.0,2025-12-31,be_bs_31.12.2025.pdf,34,3,BALANCE_SHEET
+Detyrimet tatimore të shtyra,0.0,0.0,2025-12-31,be_bs_31.12.2025.pdf,35,3,BALANCE_SHEET
+Detyrimet tjera,15674.0,5145.0,2025-12-31,be_bs_31.12.2025.pdf,36,3,BALANCE_SHEET
+Gjithsej detyrimet,699763.0,705529.0,2025-12-31,be_bs_31.12.2025.pdf,37,3,BALANCE_SHEET
+Kapitali aksionar,38874.0,38874.0,2025-12-31,be_bs_31.12.2025.pdf,38,3,BALANCE_SHEET
+Rezervat e kapitalit,4789.0,4914.0,2025-12-31,be_bs_31.12.2025.pdf,40,3,BALANCE_SHEET
+Fitimi i mbajtur/(humbja) nga vitet paraprake,38529.0,38529.0,2025-12-31,be_bs_31.12.2025.pdf,41,3,BALANCE_SHEET
+Fitimi/(humbja) e vitit aktual,9207.0,12173.0,2025-12-31,be_bs_31.12.2025.pdf,42,3,BALANCE_SHEET
+Përbërësit tjerë të ekuitetit,0.0,0.0,2025-12-31,be_bs_31.12.2025.pdf,43,3,BALANCE_SHEET
+Gjithsej ekuiteti i aksionarëve,91399.0,94490.0,2025-12-31,be_bs_31.12.2025.pdf,44,3,BALANCE_SHEET
+Gjithsej detyrimet dhe ekuiteti i aksionarëve,791162.0,800019.0,2025-12-31,be_bs_31.12.2025.pdf,45,3,BALANCE_SHEET
