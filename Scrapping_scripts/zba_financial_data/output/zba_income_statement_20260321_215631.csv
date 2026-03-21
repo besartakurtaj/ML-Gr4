@@ -1,0 +1,600 @@
+INCOME_CATEGORY,PREVIOUS_INCOME_VALUE,CURRENT_INCOME_VALUE,DT_REPORT,FILE_NAME,CATEGORY_CODE,BANK_ID,STATEMENT_TYPE
+Gjithsej të hyrat,0,133,2015-03-31,zba_is_31.12.2015.pdf,10,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,0,133,2015-03-31,zba_is_31.12.2015.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,0,133,2015-03-31,zba_is_31.12.2015.pdf,16,9,INCOME_STATEMENT
+Gjithsej të hyrat,0,404,2015-06-30,zba_is_31.12.2015.pdf,10,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,0,414,2015-06-30,zba_is_31.12.2015.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,0,414,2015-06-30,zba_is_31.12.2015.pdf,16,9,INCOME_STATEMENT
+Shpenzimet e interesit,0,4,2016-03-31,zba_is_31.12.2016.pdf,2,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,0,5,2016-03-31,zba_is_31.12.2016.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,0,1,2016-03-31,zba_is_31.12.2016.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,0,691,2016-03-31,zba_is_31.12.2016.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,0,661,2016-03-31,zba_is_31.12.2016.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,0,16,2016-03-31,zba_is_31.12.2016.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,0,677,2016-03-31,zba_is_31.12.2016.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,0,677,2016-03-31,zba_is_31.12.2016.pdf,16,9,INCOME_STATEMENT
+Shpenzimet e interesit,0,3,2016-06-30,zba_is_31.12.2016.pdf,2,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,0,1,2016-06-30,zba_is_31.12.2016.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,0,212,2016-06-30,zba_is_31.12.2016.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,0,167,2016-06-30,zba_is_31.12.2016.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,0,6,2016-06-30,zba_is_31.12.2016.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,0,172,2016-06-30,zba_is_31.12.2016.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,0,172,2016-06-30,zba_is_31.12.2016.pdf,16,9,INCOME_STATEMENT
+Të hyrat nga interesi,106,222,2016-09-30,zba_is_31.12.2016.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,16,35,2016-09-30,zba_is_31.12.2016.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,90,187,2016-09-30,zba_is_31.12.2016.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,13,20,2016-09-30,zba_is_31.12.2016.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,3,6,2016-09-30,zba_is_31.12.2016.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,10,14,2016-09-30,zba_is_31.12.2016.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,0,2,2016-09-30,zba_is_31.12.2016.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,439,702,2016-09-30,zba_is_31.12.2016.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,339,499,2016-09-30,zba_is_31.12.2016.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,43,58,2016-09-30,zba_is_31.12.2016.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,382,557,2016-09-30,zba_is_31.12.2016.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,382,557,2016-09-30,zba_is_31.12.2016.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,382,557,2016-09-30,zba_is_31.12.2016.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,222,374,2016-12-31,zba_is_31.12.2016.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,35,57,2016-12-31,zba_is_31.12.2016.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,187,318,2016-12-31,zba_is_31.12.2016.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,20,17,2016-12-31,zba_is_31.12.2016.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,6,8,2016-12-31,zba_is_31.12.2016.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,14,9,2016-12-31,zba_is_31.12.2016.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,2,2,2016-12-31,zba_is_31.12.2016.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,702,974,2016-12-31,zba_is_31.12.2016.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,499,646,2016-12-31,zba_is_31.12.2016.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,58,73,2016-12-31,zba_is_31.12.2016.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,557,719,2016-12-31,zba_is_31.12.2016.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,79,2016-12-31,zba_is_31.12.2016.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,557,640,2016-12-31,zba_is_31.12.2016.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,557,640,2016-12-31,zba_is_31.12.2016.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,374,167,2017-03-31,zba_is_31.12.2017.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,57,24,2017-03-31,zba_is_31.12.2017.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,318,143,2017-03-31,zba_is_31.12.2017.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,17,4,2017-03-31,zba_is_31.12.2017.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,8,2,2017-03-31,zba_is_31.12.2017.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,9,2,2017-03-31,zba_is_31.12.2017.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,2,0,2017-03-31,zba_is_31.12.2017.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2017-03-31,zba_is_31.12.2017.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,974,231,2017-03-31,zba_is_31.12.2017.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,646,86,2017-03-31,zba_is_31.12.2017.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,73,31,2017-03-31,zba_is_31.12.2017.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,719,117,2017-03-31,zba_is_31.12.2017.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,640,117,2017-03-31,zba_is_31.12.2017.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,640,117,2017-03-31,zba_is_31.12.2017.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,167,375,2017-06-30,zba_is_31.12.2017.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,24,60,2017-06-30,zba_is_31.12.2017.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,143,314,2017-06-30,zba_is_31.12.2017.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,4,11,2017-06-30,zba_is_31.12.2017.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,2,6,2017-06-30,zba_is_31.12.2017.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,2,5,2017-06-30,zba_is_31.12.2017.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,0,0,2017-06-30,zba_is_31.12.2017.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2017-06-30,zba_is_31.12.2017.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,231,500,2017-06-30,zba_is_31.12.2017.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,86,180,2017-06-30,zba_is_31.12.2017.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,31,35,2017-06-30,zba_is_31.12.2017.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,117,215,2017-06-30,zba_is_31.12.2017.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,117,215,2017-06-30,zba_is_31.12.2017.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,117,215,2017-06-30,zba_is_31.12.2017.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,375,582,2017-09-30,zba_is_31.12.2017.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,60,104,2017-09-30,zba_is_31.12.2017.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,314,478,2017-09-30,zba_is_31.12.2017.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,11,16,2017-09-30,zba_is_31.12.2017.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,6,10,2017-09-30,zba_is_31.12.2017.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,5,6,2017-09-30,zba_is_31.12.2017.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,0,0,2017-09-30,zba_is_31.12.2017.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,2,2017-09-30,zba_is_31.12.2017.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,500,760,2017-09-30,zba_is_31.12.2017.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,180,274,2017-09-30,zba_is_31.12.2017.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,35,40,2017-09-30,zba_is_31.12.2017.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,215,314,2017-09-30,zba_is_31.12.2017.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,215,314,2017-09-30,zba_is_31.12.2017.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,215,314,2017-09-30,zba_is_31.12.2017.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,582,800,2017-12-31,zba_is_31.12.2017.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,104,150,2017-12-31,zba_is_31.12.2017.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,478,650,2017-12-31,zba_is_31.12.2017.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,16,22,2017-12-31,zba_is_31.12.2017.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,10,13,2017-12-31,zba_is_31.12.2017.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,6,9,2017-12-31,zba_is_31.12.2017.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,0,2,2017-12-31,zba_is_31.12.2017.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,2,0,2017-12-31,zba_is_31.12.2017.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,760,1041,2017-12-31,zba_is_31.12.2017.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,274,379,2017-12-31,zba_is_31.12.2017.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,40,80,2017-12-31,zba_is_31.12.2017.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,314,459,2017-12-31,zba_is_31.12.2017.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,314,459,2017-12-31,zba_is_31.12.2017.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,314,459,2017-12-31,zba_is_31.12.2017.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,792,238,2018-03-31,zba_is_31.12.2018.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,154,44,2018-03-31,zba_is_31.12.2018.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,637,194,2018-03-31,zba_is_31.12.2018.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,31,6,2018-03-31,zba_is_31.12.2018.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,13,2,2018-03-31,zba_is_31.12.2018.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,18,3,2018-03-31,zba_is_31.12.2018.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,2,3,2018-03-31,zba_is_31.12.2018.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1041,275,2018-03-31,zba_is_31.12.2018.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,384,75,2018-03-31,zba_is_31.12.2018.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,80,0,2018-03-31,zba_is_31.12.2018.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,464,76,2018-03-31,zba_is_31.12.2018.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,415,76,2018-03-31,zba_is_31.12.2018.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,415,76,2018-03-31,zba_is_31.12.2018.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,238,511,2018-06-30,zba_is_31.12.2018.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,44,107,2018-06-30,zba_is_31.12.2018.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,194,404,2018-06-30,zba_is_31.12.2018.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,6,14,2018-06-30,zba_is_31.12.2018.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,2,6,2018-06-30,zba_is_31.12.2018.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,3,8,2018-06-30,zba_is_31.12.2018.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,3,0,2018-06-30,zba_is_31.12.2018.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,1,2018-06-30,zba_is_31.12.2018.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,275,592,2018-06-30,zba_is_31.12.2018.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,75,178,2018-06-30,zba_is_31.12.2018.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,0,45,2018-06-30,zba_is_31.12.2018.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,76,223,2018-06-30,zba_is_31.12.2018.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,76,223,2018-06-30,zba_is_31.12.2018.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,76,223,2018-06-30,zba_is_31.12.2018.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,511,915,2018-09-30,zba_is_31.12.2018.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,107,200,2018-09-30,zba_is_31.12.2018.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,404,715,2018-09-30,zba_is_31.12.2018.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,14,36,2018-09-30,zba_is_31.12.2018.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,6,13,2018-09-30,zba_is_31.12.2018.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,8,23,2018-09-30,zba_is_31.12.2018.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,0,0,2018-09-30,zba_is_31.12.2018.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,1,2,2018-09-30,zba_is_31.12.2018.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,592,927,2018-09-30,zba_is_31.12.2018.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,178,186,2018-09-30,zba_is_31.12.2018.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,45,167,2018-09-30,zba_is_31.12.2018.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,223,353,2018-09-30,zba_is_31.12.2018.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,223,353,2018-09-30,zba_is_31.12.2018.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,223,353,2018-09-30,zba_is_31.12.2018.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,915,1440,2018-12-31,zba_is_31.12.2018.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,200,335,2018-12-31,zba_is_31.12.2018.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,715,1105,2018-12-31,zba_is_31.12.2018.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,36,54,2018-12-31,zba_is_31.12.2018.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,13,126,2018-12-31,zba_is_31.12.2018.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,23,72,2018-12-31,zba_is_31.12.2018.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,0,1,2018-12-31,zba_is_31.12.2018.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,2,3,2018-12-31,zba_is_31.12.2018.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,927,1275,2018-12-31,zba_is_31.12.2018.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,186,238,2018-12-31,zba_is_31.12.2018.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,167,276,2018-12-31,zba_is_31.12.2018.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,353,514,2018-12-31,zba_is_31.12.2018.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,56,2018-12-31,zba_is_31.12.2018.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,353,458,2018-12-31,zba_is_31.12.2018.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,353,458,2018-12-31,zba_is_31.12.2018.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,1440,586,2019-03-31,zba_is_31.12.2019.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,335,165,2019-03-31,zba_is_31.12.2019.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1105,421,2019-03-31,zba_is_31.12.2019.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,54,17,2019-03-31,zba_is_31.12.2019.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,126,36,2019-03-31,zba_is_31.12.2019.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,72,19,2019-03-31,zba_is_31.12.2019.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,1,0,2019-03-31,zba_is_31.12.2019.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,3,1,2019-03-31,zba_is_31.12.2019.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1275,395,2019-03-31,zba_is_31.12.2019.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,238,8,2019-03-31,zba_is_31.12.2019.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,276,22,2019-03-31,zba_is_31.12.2019.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,514,14,2019-03-31,zba_is_31.12.2019.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,458,14,2019-03-31,zba_is_31.12.2019.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,458,14,2019-03-31,zba_is_31.12.2019.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,586,1160,2019-06-30,zba_is_31.12.2019.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,165,345,2019-06-30,zba_is_31.12.2019.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,421,815,2019-06-30,zba_is_31.12.2019.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,17,37,2019-06-30,zba_is_31.12.2019.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,36,70,2019-06-30,zba_is_31.12.2019.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,19,32,2019-06-30,zba_is_31.12.2019.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,0,0,2019-06-30,zba_is_31.12.2019.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,1,5,2019-06-30,zba_is_31.12.2019.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,395,755,2019-06-30,zba_is_31.12.2019.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,8,33,2019-06-30,zba_is_31.12.2019.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,22,139,2019-06-30,zba_is_31.12.2019.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,14,106,2019-06-30,zba_is_31.12.2019.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,14,106,2019-06-30,zba_is_31.12.2019.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,14,106,2019-06-30,zba_is_31.12.2019.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,1160,1959,2019-09-30,zba_is_31.12.2019.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,345,556,2019-09-30,zba_is_31.12.2019.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,815,1403,2019-09-30,zba_is_31.12.2019.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,37,63,2019-09-30,zba_is_31.12.2019.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,70,110,2019-09-30,zba_is_31.12.2019.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,32,47,2019-09-30,zba_is_31.12.2019.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,5,5,2019-09-30,zba_is_31.12.2019.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2019-09-30,zba_is_31.12.2019.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,755,1168,2019-09-30,zba_is_31.12.2019.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,33,193,2019-09-30,zba_is_31.12.2019.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,139,178,2019-09-30,zba_is_31.12.2019.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,106,15,2019-09-30,zba_is_31.12.2019.pdf,14,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,106,15,2019-09-30,zba_is_31.12.2019.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,106,15,2019-09-30,zba_is_31.12.2019.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,1959,2579,2019-12-31,zba_is_31.12.2019.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,556,779,2019-12-31,zba_is_31.12.2019.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1403,1800,2019-12-31,zba_is_31.12.2019.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,63,188,2019-12-31,zba_is_31.12.2019.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,110,154,2019-12-31,zba_is_31.12.2019.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,47,34,2019-12-31,zba_is_31.12.2019.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,5,8,2019-12-31,zba_is_31.12.2019.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2019-12-31,zba_is_31.12.2019.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1168,1620,2019-12-31,zba_is_31.12.2019.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,193,221,2019-12-31,zba_is_31.12.2019.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,178,219,2019-12-31,zba_is_31.12.2019.pdf,12,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,15,10,2019-12-31,zba_is_31.12.2019.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,4,2019-12-31,zba_is_31.12.2019.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,15,14,2019-12-31,zba_is_31.12.2019.pdf,16,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,15,14,2019-12-31,zba_is_31.12.2019.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,2579,744,2020-03-31,zba_is_31.12.2020.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,779,220,2020-03-31,zba_is_31.12.2020.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1800,524,2020-03-31,zba_is_31.12.2020.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,188,239,2020-03-31,zba_is_31.12.2020.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,154,37,2020-03-31,zba_is_31.12.2020.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,34,202,2020-03-31,zba_is_31.12.2020.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,8,2,2020-03-31,zba_is_31.12.2020.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,2,2020-03-31,zba_is_31.12.2020.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1620,413,2020-03-31,zba_is_31.12.2020.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,221,317,2020-03-31,zba_is_31.12.2020.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,219,44,2020-03-31,zba_is_31.12.2020.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,8,7,2020-03-31,zba_is_31.12.2020.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,10,368,2020-03-31,zba_is_31.12.2020.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,4,0,2020-03-31,zba_is_31.12.2020.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,14,368,2020-03-31,zba_is_31.12.2020.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2020-03-31,zba_is_31.12.2020.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,14,368,2020-03-31,zba_is_31.12.2020.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,744,1559,2020-06-30,zba_is_31.12.2020.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,220,506,2020-06-30,zba_is_31.12.2020.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,524,1053,2020-06-30,zba_is_31.12.2020.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,239,368,2020-06-30,zba_is_31.12.2020.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,37,81,2020-06-30,zba_is_31.12.2020.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,202,287,2020-06-30,zba_is_31.12.2020.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,2,7,2020-06-30,zba_is_31.12.2020.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,2,2,2020-06-30,zba_is_31.12.2020.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,413,823,2020-06-30,zba_is_31.12.2020.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,317,525,2020-06-30,zba_is_31.12.2020.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,44,57,2020-06-30,zba_is_31.12.2020.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,7,3,2020-06-30,zba_is_31.12.2020.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,368,466,2020-06-30,zba_is_31.12.2020.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2020-06-30,zba_is_31.12.2020.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,368,466,2020-06-30,zba_is_31.12.2020.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2020-06-30,zba_is_31.12.2020.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,368,466,2020-06-30,zba_is_31.12.2020.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,1559,2441,2020-09-30,zba_is_31.12.2020.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,506,789,2020-09-30,zba_is_31.12.2020.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1053,1652,2020-09-30,zba_is_31.12.2020.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,368,492,2020-09-30,zba_is_31.12.2020.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,81,118,2020-09-30,zba_is_31.12.2020.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,287,375,2020-09-30,zba_is_31.12.2020.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,7,10,2020-09-30,zba_is_31.12.2020.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,2,2,2020-09-30,zba_is_31.12.2020.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,823,1229,2020-09-30,zba_is_31.12.2020.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,525,809,2020-09-30,zba_is_31.12.2020.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,57,53,2020-09-30,zba_is_31.12.2020.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,3,1,2020-09-30,zba_is_31.12.2020.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,466,758,2020-09-30,zba_is_31.12.2020.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2020-09-30,zba_is_31.12.2020.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,466,758,2020-09-30,zba_is_31.12.2020.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2020-09-30,zba_is_31.12.2020.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,466,758,2020-09-30,zba_is_31.12.2020.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,2441,3371,2020-12-31,zba_is_31.12.2020.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,789,1080,2020-12-31,zba_is_31.12.2020.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1652,2291,2020-12-31,zba_is_31.12.2020.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,492,609,2020-12-31,zba_is_31.12.2020.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,118,145,2020-12-31,zba_is_31.12.2020.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,375,464,2020-12-31,zba_is_31.12.2020.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,10,13,2020-12-31,zba_is_31.12.2020.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,2,2,2020-12-31,zba_is_31.12.2020.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1229,1634,2020-12-31,zba_is_31.12.2020.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,809,1135,2020-12-31,zba_is_31.12.2020.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,53,114,2020-12-31,zba_is_31.12.2020.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,1,3,2020-12-31,zba_is_31.12.2020.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,758,1018,2020-12-31,zba_is_31.12.2020.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2020-12-31,zba_is_31.12.2020.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,758,1018,2020-12-31,zba_is_31.12.2020.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2020-12-31,zba_is_31.12.2020.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,758,1018,2020-12-31,zba_is_31.12.2020.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,3371,1201,2021-03-31,zba_is_31.12.2021.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,1080,305,2021-03-31,zba_is_31.12.2021.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,2291,896,2021-03-31,zba_is_31.12.2021.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,609,124,2021-03-31,zba_is_31.12.2021.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,145,39,2021-03-31,zba_is_31.12.2021.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,464,85,2021-03-31,zba_is_31.12.2021.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,13,1,2021-03-31,zba_is_31.12.2021.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2021-03-31,zba_is_31.12.2021.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1614,446,2021-03-31,zba_is_31.12.2021.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,1153,533,2021-03-31,zba_is_31.12.2021.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,39,351,2021-03-31,zba_is_31.12.2021.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,0,4,2021-03-31,zba_is_31.12.2021.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,1114,178,2021-03-31,zba_is_31.12.2021.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2021-03-31,zba_is_31.12.2021.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,124,0,2021-03-31,zba_is_31.12.2021.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,990,178,2021-03-31,zba_is_31.12.2021.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,3,0,2021-03-31,zba_is_31.12.2021.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,993,178,2021-03-31,zba_is_31.12.2021.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,1201,2272,2021-06-30,zba_is_31.12.2021.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,305,634,2021-06-30,zba_is_31.12.2021.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,896,1638,2021-06-30,zba_is_31.12.2021.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,124,254,2021-06-30,zba_is_31.12.2021.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,39,79,2021-06-30,zba_is_31.12.2021.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,85,175,2021-06-30,zba_is_31.12.2021.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,1,3,2021-06-30,zba_is_31.12.2021.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2021-06-30,zba_is_31.12.2021.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,446,871,2021-06-30,zba_is_31.12.2021.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,533,945,2021-06-30,zba_is_31.12.2021.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,351,630,2021-06-30,zba_is_31.12.2021.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,4,17,2021-06-30,zba_is_31.12.2021.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,178,299,2021-06-30,zba_is_31.12.2021.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2021-06-30,zba_is_31.12.2021.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2021-06-30,zba_is_31.12.2021.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,178,299,2021-06-30,zba_is_31.12.2021.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2021-06-30,zba_is_31.12.2021.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,178,299,2021-06-30,zba_is_31.12.2021.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,2272,3230,2021-09-30,zba_is_31.12.2021.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,634,1012,2021-09-30,zba_is_31.12.2021.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1638,2218,2021-09-30,zba_is_31.12.2021.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,254,391,2021-09-30,zba_is_31.12.2021.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,79,122,2021-09-30,zba_is_31.12.2021.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,175,269,2021-09-30,zba_is_31.12.2021.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,3,6,2021-09-30,zba_is_31.12.2021.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2021-09-30,zba_is_31.12.2021.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,871,1358,2021-09-30,zba_is_31.12.2021.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,945,1135,2021-09-30,zba_is_31.12.2021.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,630,770,2021-09-30,zba_is_31.12.2021.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,17,8,2021-09-30,zba_is_31.12.2021.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,299,357,2021-09-30,zba_is_31.12.2021.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2021-09-30,zba_is_31.12.2021.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2021-09-30,zba_is_31.12.2021.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,299,357,2021-09-30,zba_is_31.12.2021.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2021-09-30,zba_is_31.12.2021.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,299,357,2021-09-30,zba_is_31.12.2021.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,3230,4231,2021-12-31,zba_is_31.12.2021.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,1012,1289,2021-12-31,zba_is_31.12.2021.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,2218,2942,2021-12-31,zba_is_31.12.2021.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,391,522,2021-12-31,zba_is_31.12.2021.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,122,167,2021-12-31,zba_is_31.12.2021.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,269,356,2021-12-31,zba_is_31.12.2021.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,6,13,2021-12-31,zba_is_31.12.2021.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2021-12-31,zba_is_31.12.2021.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1358,1784,2021-12-31,zba_is_31.12.2021.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,1135,1526,2021-12-31,zba_is_31.12.2021.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,770,854,2021-12-31,zba_is_31.12.2021.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,8,0,2021-12-31,zba_is_31.12.2021.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,357,672,2021-12-31,zba_is_31.12.2021.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,107,2021-12-31,zba_is_31.12.2021.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2021-12-31,zba_is_31.12.2021.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,357,565,2021-12-31,zba_is_31.12.2021.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2021-12-31,zba_is_31.12.2021.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,357,565,2021-12-31,zba_is_31.12.2021.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,4231,1127,2022-03-31,zba_is_31.12.2022.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,1289,334,2022-03-31,zba_is_31.12.2022.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,2942,792,2022-03-31,zba_is_31.12.2022.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,522,121,2022-03-31,zba_is_31.12.2022.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,167,41,2022-03-31,zba_is_31.12.2022.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,356,80,2022-03-31,zba_is_31.12.2022.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,13,3,2022-03-31,zba_is_31.12.2022.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2022-03-31,zba_is_31.12.2022.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1784,285,2022-03-31,zba_is_31.12.2022.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,1526,591,2022-03-31,zba_is_31.12.2022.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,854,268,2022-03-31,zba_is_31.12.2022.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,0,0,2022-03-31,zba_is_31.12.2022.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,672,323,2022-03-31,zba_is_31.12.2022.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,107,0,2022-03-31,zba_is_31.12.2022.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,2,2022-03-31,zba_is_31.12.2022.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,565,321,2022-03-31,zba_is_31.12.2022.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2022-03-31,zba_is_31.12.2022.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,565,321,2022-03-31,zba_is_31.12.2022.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,1127,2386,2022-06-30,zba_is_31.12.2022.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,334,693,2022-06-30,zba_is_31.12.2022.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,792,1692,2022-06-30,zba_is_31.12.2022.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,121,277,2022-06-30,zba_is_31.12.2022.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,41,83,2022-06-30,zba_is_31.12.2022.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,80,194,2022-06-30,zba_is_31.12.2022.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,3,9,2022-06-30,zba_is_31.12.2022.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2022-06-30,zba_is_31.12.2022.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,285,765,2022-06-30,zba_is_31.12.2022.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,591,1131,2022-06-30,zba_is_31.12.2022.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,268,582,2022-06-30,zba_is_31.12.2022.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,2,3,2022-06-30,zba_is_31.12.2022.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,321,546,2022-06-30,zba_is_31.12.2022.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,37,2022-06-30,zba_is_31.12.2022.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2022-06-30,zba_is_31.12.2022.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,321,509,2022-06-30,zba_is_31.12.2022.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2022-06-30,zba_is_31.12.2022.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,321,509,2022-06-30,zba_is_31.12.2022.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,2386,3819,2022-09-30,zba_is_31.12.2022.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,693,1130,2022-09-30,zba_is_31.12.2022.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1692,2689,2022-09-30,zba_is_31.12.2022.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,277,405,2022-09-30,zba_is_31.12.2022.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,83,136,2022-09-30,zba_is_31.12.2022.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,194,269,2022-09-30,zba_is_31.12.2022.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,9,16,2022-09-30,zba_is_31.12.2022.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2022-09-30,zba_is_31.12.2022.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,765,1271,2022-09-30,zba_is_31.12.2022.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,1131,1702,2022-09-30,zba_is_31.12.2022.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,582,1254,2022-09-30,zba_is_31.12.2022.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,3,4,2022-09-30,zba_is_31.12.2022.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,546,445,2022-09-30,zba_is_31.12.2022.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,37,56,2022-09-30,zba_is_31.12.2022.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2022-09-30,zba_is_31.12.2022.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,509,389,2022-09-30,zba_is_31.12.2022.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2022-09-30,zba_is_31.12.2022.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,509,389,2022-09-30,zba_is_31.12.2022.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,3819,5505,2022-12-31,zba_is_31.12.2022.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,1130,1760,2022-12-31,zba_is_31.12.2022.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,2689,3745,2022-12-31,zba_is_31.12.2022.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,405,463,2022-12-31,zba_is_31.12.2022.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,136,190,2022-12-31,zba_is_31.12.2022.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,269,273,2022-12-31,zba_is_31.12.2022.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,16,20,2022-12-31,zba_is_31.12.2022.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2022-12-31,zba_is_31.12.2022.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1271,2125,2022-12-31,zba_is_31.12.2022.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,1702,1912,2022-12-31,zba_is_31.12.2022.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,1254,1091,2022-12-31,zba_is_31.12.2022.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,4,65,2022-12-31,zba_is_31.12.2022.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,445,887,2022-12-31,zba_is_31.12.2022.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,56,152,2022-12-31,zba_is_31.12.2022.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2022-12-31,zba_is_31.12.2022.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,389,734,2022-12-31,zba_is_31.12.2022.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2022-12-31,zba_is_31.12.2022.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,389,734,2022-12-31,zba_is_31.12.2022.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,5212,1768,2023-03-31,zba_is_31.12.2023.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,1466,543,2023-03-31,zba_is_31.12.2023.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,3745,1225,2023-03-31,zba_is_31.12.2023.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,463,56,2023-03-31,zba_is_31.12.2023.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,190,59,2023-03-31,zba_is_31.12.2023.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,273,4,2023-03-31,zba_is_31.12.2023.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,20,1,2023-03-31,zba_is_31.12.2023.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2023-03-31,zba_is_31.12.2023.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,2035,568,2023-03-31,zba_is_31.12.2023.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,2002,654,2023-03-31,zba_is_31.12.2023.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,1091,260,2023-03-31,zba_is_31.12.2023.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,44,33,2023-03-31,zba_is_31.12.2023.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,868,427,2023-03-31,zba_is_31.12.2023.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,144,17,2023-03-31,zba_is_31.12.2023.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2023-03-31,zba_is_31.12.2023.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,724,410,2023-03-31,zba_is_31.12.2023.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2023-03-31,zba_is_31.12.2023.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,724,410,2023-03-31,zba_is_31.12.2023.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,1768,3381,2023-06-30,zba_is_31.12.2023.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,543,1039,2023-06-30,zba_is_31.12.2023.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1225,2343,2023-06-30,zba_is_31.12.2023.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,56,105,2023-06-30,zba_is_31.12.2023.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,59,108,2023-06-30,zba_is_31.12.2023.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,4,3,2023-06-30,zba_is_31.12.2023.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,1,3,2023-06-30,zba_is_31.12.2023.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,0,2023-06-30,zba_is_31.12.2023.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,568,1170,2023-06-30,zba_is_31.12.2023.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,654,1174,2023-06-30,zba_is_31.12.2023.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,260,574,2023-06-30,zba_is_31.12.2023.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,33,55,2023-06-30,zba_is_31.12.2023.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,427,654,2023-06-30,zba_is_31.12.2023.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,17,79,2023-06-30,zba_is_31.12.2023.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2023-06-30,zba_is_31.12.2023.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,410,575,2023-06-30,zba_is_31.12.2023.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2023-06-30,zba_is_31.12.2023.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,410,575,2023-06-30,zba_is_31.12.2023.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,3381,5088,2023-09-30,zba_is_31.12.2023.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,1039,1611,2023-09-30,zba_is_31.12.2023.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,2343,3477,2023-09-30,zba_is_31.12.2023.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,105,155,2023-09-30,zba_is_31.12.2023.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,108,160,2023-09-30,zba_is_31.12.2023.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,3,5,2023-09-30,zba_is_31.12.2023.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,3,7,2023-09-30,zba_is_31.12.2023.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,0,1,2023-09-30,zba_is_31.12.2023.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1170,1779,2023-09-30,zba_is_31.12.2023.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,1174,1701,2023-09-30,zba_is_31.12.2023.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,574,937,2023-09-30,zba_is_31.12.2023.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,55,37,2023-09-30,zba_is_31.12.2023.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,654,801,2023-09-30,zba_is_31.12.2023.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,79,119,2023-09-30,zba_is_31.12.2023.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2023-09-30,zba_is_31.12.2023.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,575,682,2023-09-30,zba_is_31.12.2023.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2023-09-30,zba_is_31.12.2023.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,575,682,2023-09-30,zba_is_31.12.2023.pdf,19,9,INCOME_STATEMENT
+Të hyrat nga interesi,5088,6850,2023-12-31,zba_is_31.12.2023.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,1611,2302,2023-12-31,zba_is_31.12.2023.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,3477,4549,2023-12-31,zba_is_31.12.2023.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,155,275,2023-12-31,zba_is_31.12.2023.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,160,214,2023-12-31,zba_is_31.12.2023.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,5,61,2023-12-31,zba_is_31.12.2023.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat nga tregtimi,7,17,2023-12-31,zba_is_31.12.2023.pdf,7,9,INCOME_STATEMENT
+Neto të hyrat nga instrumentet tjera financiare,1,1,2023-12-31,zba_is_31.12.2023.pdf,8,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1779,2426,2023-12-31,zba_is_31.12.2023.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,1701,2201,2023-12-31,zba_is_31.12.2023.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,937,4467,2023-12-31,zba_is_31.12.2023.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,37,4,2023-12-31,zba_is_31.12.2023.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,801,2270,2023-12-31,zba_is_31.12.2023.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,119,146,2023-12-31,zba_is_31.12.2023.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2023-12-31,zba_is_31.12.2023.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,682,2416,2023-12-31,zba_is_31.12.2023.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2023-12-31,zba_is_31.12.2023.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,682,2416,2023-12-31,zba_is_31.12.2023.pdf,19,9,INCOME_STATEMENT
+Shpenzimet e interesit,0,2125,2024-03-31,zba_is_31.12.2024.pdf,2,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,0,181,2024-03-31,zba_is_31.12.2024.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,0,1674,2024-03-31,zba_is_31.12.2024.pdf,9,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,0,523,2024-03-31,zba_is_31.12.2024.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,0,74,2024-03-31,zba_is_31.12.2024.pdf,13,9,INCOME_STATEMENT
+Shpenzimet e interesit,0,1318,2024-06-30,zba_is_31.12.2024.pdf,2,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,0,115,2024-06-30,zba_is_31.12.2024.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,0,1601,2024-06-30,zba_is_31.12.2024.pdf,9,9,INCOME_STATEMENT
+Provizionet tjera,0,36,2024-06-30,zba_is_31.12.2024.pdf,13,9,INCOME_STATEMENT
+Shpenzimet e interesit,0,648,2024-09-30,zba_is_31.12.2024.pdf,2,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,0,62,2024-09-30,zba_is_31.12.2024.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,0,3,2024-09-30,zba_is_31.12.2024.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,0,819,2024-09-30,zba_is_31.12.2024.pdf,9,9,INCOME_STATEMENT
+Provizionet tjera,0,5,2024-09-30,zba_is_31.12.2024.pdf,13,9,INCOME_STATEMENT
+Të hyrat nga interesi,6583,1568,2024-12-31,zba_is_31.12.2024.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,2111,648,2024-12-31,zba_is_31.12.2024.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,4472,920,2024-12-31,zba_is_31.12.2024.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,349,60,2024-12-31,zba_is_31.12.2024.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,214,62,2024-12-31,zba_is_31.12.2024.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,134,3,2024-12-31,zba_is_31.12.2024.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat tjera,79,6,2024-12-31,zba_is_31.12.2024.pdf,80,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,2563,819,2024-12-31,zba_is_31.12.2024.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,2123,105,2024-12-31,zba_is_31.12.2024.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,4171,184,2024-12-31,zba_is_31.12.2024.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,5,5,2024-12-31,zba_is_31.12.2024.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,2053,284,2024-12-31,zba_is_31.12.2024.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2024-12-31,zba_is_31.12.2024.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,94,0,2024-12-31,zba_is_31.12.2024.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,1959,284,2024-12-31,zba_is_31.12.2024.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2024-12-31,zba_is_31.12.2024.pdf,17,9,INCOME_STATEMENT
+Pasqyra e të ardhurave me: 31.12.2025,0,0,2025-03-31,zba_is_31.12.2025.pdf,,9,INCOME_STATEMENT
+Të hyrat nga interesi,6164,8007,2025-03-31,zba_is_31.12.2025.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,2643,3489,2025-03-31,zba_is_31.12.2025.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,3521,4518,2025-03-31,zba_is_31.12.2025.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,329,451,2025-03-31,zba_is_31.12.2025.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,348,591,2025-03-31,zba_is_31.12.2025.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,19,139,2025-03-31,zba_is_31.12.2025.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat tjera,65,159,2025-03-31,zba_is_31.12.2025.pdf,80,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,2605,3764,2025-03-31,zba_is_31.12.2025.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,962,773,2025-03-31,zba_is_31.12.2025.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,2001,3261,2025-03-31,zba_is_31.12.2025.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,76,437,2025-03-31,zba_is_31.12.2025.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,962,2051,2025-03-31,zba_is_31.12.2025.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2025-03-31,zba_is_31.12.2025.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2025-03-31,zba_is_31.12.2025.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,962,2051,2025-03-31,zba_is_31.12.2025.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2025-03-31,zba_is_31.12.2025.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,962,2051,2025-03-31,zba_is_31.12.2025.pdf,19,9,INCOME_STATEMENT
+Pasqyra e të ardhurave me: 30.09.2025,0,0,2025-06-30,zba_is_31.12.2025.pdf,,9,INCOME_STATEMENT
+Të hyrat nga interesi,4200,6164,2025-06-30,zba_is_31.12.2025.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,1847,2643,2025-06-30,zba_is_31.12.2025.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,2353,3521,2025-06-30,zba_is_31.12.2025.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,202,329,2025-06-30,zba_is_31.12.2025.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,206,348,2025-06-30,zba_is_31.12.2025.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,4,19,2025-06-30,zba_is_31.12.2025.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat tjera,37,65,2025-06-30,zba_is_31.12.2025.pdf,80,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,1705,2605,2025-06-30,zba_is_31.12.2025.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,680,962,2025-06-30,zba_is_31.12.2025.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,1847,2001,2025-06-30,zba_is_31.12.2025.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,69,76,2025-06-30,zba_is_31.12.2025.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,1236,962,2025-06-30,zba_is_31.12.2025.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,0,0,2025-06-30,zba_is_31.12.2025.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2025-06-30,zba_is_31.12.2025.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,1236,962,2025-06-30,zba_is_31.12.2025.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2025-06-30,zba_is_31.12.2025.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,1236,962,2025-06-30,zba_is_31.12.2025.pdf,19,9,INCOME_STATEMENT
+Pasqyra e të ardhurave me: 30.06.2025,0,0,2025-09-30,zba_is_31.12.2025.pdf,,9,INCOME_STATEMENT
+Të hyrat nga interesi,2141,4200,2025-09-30,zba_is_31.12.2025.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,966,1847,2025-09-30,zba_is_31.12.2025.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,1175,2353,2025-09-30,zba_is_31.12.2025.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,87,202,2025-09-30,zba_is_31.12.2025.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,98,206,2025-09-30,zba_is_31.12.2025.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,11,4,2025-09-30,zba_is_31.12.2025.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat tjera,18,37,2025-09-30,zba_is_31.12.2025.pdf,80,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,813,1705,2025-09-30,zba_is_31.12.2025.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,370,680,2025-09-30,zba_is_31.12.2025.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,1025,1847,2025-09-30,zba_is_31.12.2025.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,54,69,2025-09-30,zba_is_31.12.2025.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,601,1236,2025-09-30,zba_is_31.12.2025.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,30,0,2025-09-30,zba_is_31.12.2025.pdf,15,9,INCOME_STATEMENT
+Shpenzimet e tatimit të shtyer,0,0,2025-09-30,zba_is_31.12.2025.pdf,15,9,INCOME_STATEMENT
+Fitimi/(humbja) neto,631,1236,2025-09-30,zba_is_31.12.2025.pdf,16,9,INCOME_STATEMENT
+Të ardhurat tjera gjithëpërfshirëse,0,0,2025-09-30,zba_is_31.12.2025.pdf,17,9,INCOME_STATEMENT
+Gjithsej të ardhurat gjithëpërfshirëse,631,1236,2025-09-30,zba_is_31.12.2025.pdf,19,9,INCOME_STATEMENT
+Pasqyra e të ardhurave për tremujorin që përfundon me:,0,0,2025-12-31,zba_is_31.12.2025.pdf,,9,INCOME_STATEMENT
+Të hyrat nga interesi,7351,2141,2025-12-31,zba_is_31.12.2025.pdf,1,9,INCOME_STATEMENT
+Shpenzimet e interesit,3054,966,2025-12-31,zba_is_31.12.2025.pdf,2,9,INCOME_STATEMENT
+Neto të hyrat nga interesi,4297,1175,2025-12-31,zba_is_31.12.2025.pdf,3,9,INCOME_STATEMENT
+Të hyrat nga tarifat dhe komisionet,479,87,2025-12-31,zba_is_31.12.2025.pdf,4,9,INCOME_STATEMENT
+Shpenzimet e tarifave dhe komisioneve,353,98,2025-12-31,zba_is_31.12.2025.pdf,5,9,INCOME_STATEMENT
+Neto të hyrat nga tarifat dhe komisionet,126,11,2025-12-31,zba_is_31.12.2025.pdf,6,9,INCOME_STATEMENT
+Neto të hyrat tjera,150,18,2025-12-31,zba_is_31.12.2025.pdf,80,9,INCOME_STATEMENT
+Neto të hyrat (shpenzimet) tjera operative,3396,813,2025-12-31,zba_is_31.12.2025.pdf,9,9,INCOME_STATEMENT
+Gjithsej të hyrat,1175,370,2025-12-31,zba_is_31.12.2025.pdf,10,9,INCOME_STATEMENT
+Provizionet për humbjet nga kreditë,2271,1025,2025-12-31,zba_is_31.12.2025.pdf,12,9,INCOME_STATEMENT
+Provizionet tjera,382,54,2025-12-31,zba_is_31.12.2025.pdf,13,9,INCOME_STATEMENT
+Fitimi/(humbja) para tatimit,1477,601,2025-12-31,zba_is_31.12.2025.pdf,14,9,INCOME_STATEMENT
+Shpenzimet e tatimit në fitim,29,30,2025-12-31,zba_is_31.12.2025.pdf,15,9,INCOME_STATEMENT
