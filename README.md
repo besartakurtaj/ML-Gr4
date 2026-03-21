@@ -65,6 +65,8 @@ Dataset-i përmban të dhëna të strukturuara për çdo bankë, duke përfshir�
 - Të dhënat janë të organizuara sipas bankave dhe periudhave vjetore/trimestrale.  
 - Janë identifikuar kategoritë kryesore financiare për modelin e parashikimit të performancës së bankave.
 
+![image alt](https://github.com/besartakurtaj/ML-Gr4/blob/d0d5a5d8c11930d9a42756d3a1a625b8d58bb805/Screenshot%202026-03-21%20at%2023.02.45.png)
+
 ## Mapping i kategorive financiare
 
 Këto janë kodet që përdoren për kategorizimin e të dhënave të nxjerra nga raportet e bankave:
