@@ -1,0 +1,1326 @@
+,ORIGINAL_CATEGORY,PREVIOUS_VALUE,CURRENT_VALUE,DT_REPORT,FILE_NAME,CATEGORY_TYPE,STATEMENT_TYPE,REPORT_DATE,EXTRACTION_DATE,DATA_SOURCE,CATEGORY_CODE
+0,Paraja e gatshme dhe gjendja me BQK-në,194448,202370,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,20
+1,Kërkesat ndaj bankave,69259,71418,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,21
+2,Bonot e thesarit,0,0,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,22
+3,Investimet në letra me vlerë,170718,170885,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,23
+4,Kreditë dhe paradhëniet ndaj klientëve,1130,91,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,26
+5,Patundshmëritë dhe pajisjet,11451,12447,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,27
+6,Pasuritë e paprekshme,1520,1856,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,28
+7,Pasuritë tatimore të shtyra,614,729,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,29
+8,Pasuritë tjera,4007,6132,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,30
+9,Gjithsej pasuritë,1582,108,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,31
+10,Depozitat e klientëve,1237,757,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,32
+11,Detyrimet ndaj bankave,125646,85081,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,BALANCE,BALANCE_SHEET,2026-03-18,2026-03-18,NLB Bank,33
+12,Të hyrat nga interesi,52850,71706,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,1
+13,Shpenzimet e interesit,-12731,-17704,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,2
+14,Neto të hyrat nga interesi,40118,54002,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,3
+15,Të hyrat nga tarifat dhe komisionet,12628,17627,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,4
+16,Shpenzimet e tarifave dhe komisioneve,-4472,-6054,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,5
+17,Neto të hyrat nga tarifat dhe komisionet,8156,11573,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,6
+18,Neto të hyrat nga tregtimi,453,643,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,7
+19,Neto të hyrat nga instrumentet tjera financiare,-79,-133,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,8
+20,Neto të hyrat (shpenzimet) tjera operative,-16895,-22610,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,9
+21,Gjithsej të hyrat,31754,43475,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,10
+22,Provizionet për humbjet nga kreditë,1849,1484,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,11
+23,Shpenzimet e tatimit në fitim,-3453,-4560,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,15
+24,Të ardhurat tjera gjithëpërfshirëse,-139,-182,2026-03-18,Pasqyrat Financiare 31 Dhjetor 2025.pdf,INCOME,INCOME_STATEMENT,2026-03-18,2026-03-18,NLB Bank,16
+25,Paraja e gatshme dhe gjendja me BQK-në,63186,51460,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,20
+26,Kërkesat ndaj bankave,77113,68529,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,21
+27,Bonot e thesarit,0,0,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,22
+28,Investimet në letra me vlerë,60521,66661,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,23
+29,Kreditë dhe paradhëniet ndaj klientëve,246547,253425,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,26
+30,Patundshmëritë dhe pajisjet,10573,12467,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,27
+31,Pasuritë e paprekshme,538,508,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,28
+32,Pasuritë tatimore të shtyra,297,297,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,29
+33,Pasuritë tjera,2362,2529,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,30
+34,Gjithsej pasuritë,461137,455877,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,31
+35,Depozitat e klientëve,398346,392772,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,32
+36,Detyrimet ndaj bankave,5269,4019,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,BALANCE,BALANCE_SHEET,2014-06-30,2026-03-18,NLB Bank,33
+37,Të hyrat nga interesi,6397,13006,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,1
+38,Shpenzimet e interesit,-2843,-5537,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,2
+39,Neto të hyrat nga interesi,3554,7469,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,3
+40,Të hyrat nga tarifat dhe komisionet,1219,2603,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,4
+41,Shpenzimet e tarifave dhe komisioneve,-261,-517,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,5
+42,Neto të hyrat nga tarifat dhe komisionet,958,2086,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,6
+43,Neto të hyrat nga tregtimi,0,0,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,7
+44,Neto të hyrat nga instrumentet tjera financiare,99,172,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,8
+45,Neto të hyrat (shpenzimet) tjera operative,-2555,-5260,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,9
+46,Gjithsej të hyrat,2057,4466,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,10
+47,Provizionet për humbjet nga kreditë,-585,-1416,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,11
+48,Shpenzimet e tatimit në fitim,-147,-311,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,15
+49,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2014,Pasqyrat Financiare 30.06.2014.pdf,INCOME,INCOME_STATEMENT,2014-06-30,2026-03-18,NLB Bank,16
+50,Paraja e gatshme dhe gjendja me BQK-në,49353,44235,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,20
+51,Kërkesat ndaj bankave,91210,53960,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,21
+52,Bonot e thesarit,0,0,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,22
+53,Investimet në letra me vlerë,50657,62831,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,23
+54,Kreditë dhe paradhëniet ndaj klientëve,258047,279935,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,26
+55,Patundshmëritë dhe pajisjet,12174,11946,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,27
+56,Pasuritë e paprekshme,426,464,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,28
+57,Pasuritë tatimore të shtyra,177,177,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,29
+58,Pasuritë tjera,2206,2376,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,30
+59,Gjithsej pasuritë,464251,455924,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,31
+60,Depozitat e klientëve,399246,391978,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,32
+61,Detyrimet ndaj bankave,2616,1363,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,BALANCE,BALANCE_SHEET,2015-06-30,2026-03-18,NLB Bank,33
+62,Të hyrat nga interesi,6314,12980,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,1
+63,Shpenzimet e interesit,-1334,-2492,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,2
+64,Neto të hyrat nga interesi,4980,10488,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,3
+65,Të hyrat nga tarifat dhe komisionet,1322,2751,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,4
+66,Shpenzimet e tarifave dhe komisioneve,-297,-625,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,5
+67,Neto të hyrat nga tarifat dhe komisionet,1025,2126,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,6
+68,Neto të hyrat nga tregtimi,0,0,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,7
+69,Neto të hyrat nga instrumentet tjera financiare,211,327,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,8
+70,Neto të hyrat (shpenzimet) tjera operative,-3177,-6590,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,9
+71,Gjithsej të hyrat,3039,6351,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,10
+72,Provizionet për humbjet nga kreditë,-1131,-2399,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,11
+73,Shpenzimet e tatimit në fitim,-191,-395,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,15
+74,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2015,Pasqyrat Financiare 30.06.2015.pdf,INCOME,INCOME_STATEMENT,2015-06-30,2026-03-18,NLB Bank,16
+75,Paraja e gatshme dhe gjendja me BQK-në,48961,49564,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,20
+76,Kërkesat ndaj bankave,42627,33250,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,21
+77,Bonot e thesarit,0,0,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,22
+78,Investimet në letra me vlerë,61838,53784,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,23
+79,Kreditë dhe paradhëniet ndaj klientëve,298391,322107,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,26
+80,Patundshmëritë dhe pajisjet,11440,11420,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,27
+81,Pasuritë e paprekshme,452,463,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,28
+82,Pasuritë tatimore të shtyra,202,202,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,29
+83,Pasuritë tjera,2202,1081,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,30
+84,Gjithsej pasuritë,466114,471871,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,31
+85,Depozitat e klientëve,393792,401455,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,32
+86,Detyrimet ndaj bankave,111,108,30.06.2016,Pasqyrat Financiare.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,33
+87,Paraja e gatshme dhe gjendja me BQK-në,48961,49564,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,20
+88,Kërkesat ndaj bankave,42627,33250,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,21
+89,Bonot e thesarit,0,0,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,22
+90,Investimet në letra me vlerë,61838,53784,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,23
+91,Kreditë dhe paradhëniet ndaj klientëve,298391,322107,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,26
+92,Patundshmëritë dhe pajisjet,11440,11420,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,27
+93,Pasuritë e paprekshme,452,463,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,28
+94,Pasuritë tatimore të shtyra,202,202,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,29
+95,Pasuritë tjera,2202,1081,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,30
+96,Gjithsej pasuritë,466114,471871,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,31
+97,Depozitat e klientëve,393792,401455,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,32
+98,Detyrimet ndaj bankave,111,108,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,BALANCE,BALANCE_SHEET,2016-06-30,2026-03-18,NLB Bank,33
+99,Të hyrat nga interesi,6406,13440,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,1
+100,Shpenzimet e interesit,-876,-1733,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,2
+101,Neto të hyrat nga interesi,5530,11707,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,3
+102,Të hyrat nga tarifat dhe komisionet,1624,2776,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,4
+103,Shpenzimet e tarifave dhe komisioneve,-407,-547,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,5
+104,Neto të hyrat nga tarifat dhe komisionet,1216,2229,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,6
+105,Neto të hyrat nga tregtimi,0,0,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,7
+106,Neto të hyrat nga instrumentet tjera financiare,135,230,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,8
+107,Neto të hyrat (shpenzimet) tjera operative,-3245,-5241,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,9
+108,Gjithsej të hyrat,3637,8926,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,10
+109,Provizionet për humbjet nga kreditë,-904,-2721,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,11
+110,Shpenzimet e tatimit në fitim,-275,-622,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,15
+111,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2016,Pasqyrat Financiare.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,16
+112,Të hyrat nga interesi,6406,13440,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,1
+113,Shpenzimet e interesit,-876,-1733,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,2
+114,Neto të hyrat nga interesi,5530,11707,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,3
+115,Të hyrat nga tarifat dhe komisionet,1624,2776,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,4
+116,Shpenzimet e tarifave dhe komisioneve,-407,-547,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,5
+117,Neto të hyrat nga tarifat dhe komisionet,1216,2229,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,6
+118,Neto të hyrat nga tregtimi,0,0,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,7
+119,Neto të hyrat nga instrumentet tjera financiare,135,230,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,8
+120,Neto të hyrat (shpenzimet) tjera operative,-3245,-5241,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,9
+121,Gjithsej të hyrat,3637,8926,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,10
+122,Provizionet për humbjet nga kreditë,-904,-2721,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,11
+123,Shpenzimet e tatimit në fitim,-275,-622,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,15
+124,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2016,Pasqyrat Financiare 30.06.2016.pdf,INCOME,INCOME_STATEMENT,2016-06-30,2026-03-18,NLB Bank,16
+125,Paraja e gatshme dhe gjendja me BQK-në,56585,48448,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,20
+126,Kërkesat ndaj bankave,42532,29001,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,21
+127,Bonot e thesarit,0,0,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,22
+128,Investimet në letra me vlerë,62804,63105,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,23
+129,Kreditë dhe paradhëniet ndaj klientëve,351093,372389,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,26
+130,Patundshmëritë dhe pajisjet,11199,11126,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,27
+131,Pasuritë e paprekshme,843,786,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,28
+132,Pasuritë tatimore të shtyra,332,332,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,29
+133,Pasuritë tjera,638,853,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,30
+134,Gjithsej pasuritë,526025,526041,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,31
+135,Depozitat e klientëve,450007,454500,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,32
+136,Detyrimet ndaj bankave,835,4157,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,BALANCE,BALANCE_SHEET,2017-06-30,2026-03-18,NLB Bank,33
+137,Të hyrat nga interesi,6851,13796,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,1
+138,Shpenzimet e interesit,-866,-1722,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,2
+139,Neto të hyrat nga interesi,5985,12075,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,3
+140,Të hyrat nga tarifat dhe komisionet,1512,3164,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,4
+141,Shpenzimet e tarifave dhe komisioneve,-293,-631,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,5
+142,Neto të hyrat nga tarifat dhe komisionet,1219,2533,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,6
+143,Neto të hyrat nga tregtimi,0,0,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,7
+144,Neto të hyrat nga instrumentet tjera financiare,73,127,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,8
+145,Neto të hyrat (shpenzimet) tjera operative,-2795,-5737,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,9
+146,Gjithsej të hyrat,4482,8998,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,10
+147,Provizionet për humbjet nga kreditë,-623,-1324,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,11
+148,Shpenzimet e tatimit në fitim,-387,-768,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,15
+149,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2017,Pasqyrat Financiare 30.06.2017.pdf,INCOME,INCOME_STATEMENT,2017-06-30,2026-03-18,NLB Bank,16
+150,Paraja e gatshme dhe gjendja me BQK-në,68337,62080,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,20
+151,Kërkesat ndaj bankave,39118,28967,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,21
+152,Bonot e thesarit,0,0,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,22
+153,Investimet në letra me vlerë,72463,68704,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,23
+154,Kreditë dhe paradhëniet ndaj klientëve,403939,440344,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,26
+155,Patundshmëritë dhe pajisjet,11245,11132,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,27
+156,Pasuritë e paprekshme,687,710,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,28
+157,Pasuritë tatimore të shtyra,295,298,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,29
+158,Pasuritë tjera,1100,729,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,30
+159,Gjithsej pasuritë,597184,612964,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,31
+160,Depozitat e klientëve,516966,530716,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,32
+161,Detyrimet ndaj bankave,344,756,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,BALANCE,BALANCE_SHEET,2018-06-30,2026-03-18,NLB Bank,33
+162,Të hyrat nga interesi,6990,14555,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,1
+163,Shpenzimet e interesit,-816,-1593,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,2
+164,Neto të hyrat nga interesi,6174,12962,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,3
+165,Të hyrat nga tarifat dhe komisionet,1582,3497,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,4
+166,Shpenzimet e tarifave dhe komisioneve,-315,-777,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,5
+167,Neto të hyrat nga tarifat dhe komisionet,1267,2719,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,6
+168,Neto të hyrat nga tregtimi,0,0,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,7
+169,Neto të hyrat nga instrumentet tjera financiare,48,167,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,8
+170,Neto të hyrat (shpenzimet) tjera operative,-3001,-6217,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,9
+171,Gjithsej të hyrat,4489,9630,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,10
+172,Provizionet për humbjet nga kreditë,-483,-1409,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,11
+173,Shpenzimet e tatimit në fitim,-383,-797,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,15
+174,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2018,Pasqyrat Financiare 30.06.2018.pdf,INCOME,INCOME_STATEMENT,2018-06-30,2026-03-18,NLB Bank,16
+175,Paraja e gatshme dhe gjendja me BQK-në,69100,71902,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,20
+176,Kërkesat ndaj bankave,43574,40166,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,21
+177,Bonot e thesarit,0,0,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,22
+178,Investimet në letra me vlerë,75302,70299,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,23
+179,Kreditë dhe paradhëniet ndaj klientëve,485123,509726,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,26
+180,Patundshmëritë dhe pajisjet,10693,10401,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,27
+181,Pasuritë e paprekshme,669,619,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,28
+182,Pasuritë tatimore të shtyra,295,277,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,29
+183,Pasuritë tjera,780,1670,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,30
+184,Gjithsej pasuritë,685534,705061,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,31
+185,Depozitat e klientëve,598879,599425,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,32
+186,Detyrimet ndaj bankave,210,837,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,BALANCE,BALANCE_SHEET,2019-06-30,2026-03-18,NLB Bank,33
+187,Të hyrat nga interesi,8099,16660,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,1
+188,Shpenzimet e interesit,-720,-1484,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,2
+189,Neto të hyrat nga interesi,7379,15176,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,3
+190,Të hyrat nga tarifat dhe komisionet,2102,4611,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,4
+191,Shpenzimet e tarifave dhe komisioneve,-547,-1144,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,5
+192,Neto të hyrat nga tarifat dhe komisionet,1555,3467,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,6
+193,Neto të hyrat nga tregtimi,0,0,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,7
+194,Neto të hyrat nga instrumentet tjera financiare,79,179,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,8
+195,Neto të hyrat (shpenzimet) tjera operative,-3235,-6544,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,9
+196,Gjithsej të hyrat,5778,12278,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,10
+197,Provizionet për humbjet nga kreditë,-434,-1744,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,11
+198,Shpenzimet e tatimit në fitim,-547,-1069,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,15
+199,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2019,Pasqyrat Financiare 30.06.2019.pdf,INCOME,INCOME_STATEMENT,2019-06-30,2026-03-18,NLB Bank,16
+200,Paraja e gatshme dhe gjendja me BQK-në,96550,110917,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,20
+201,Kërkesat ndaj bankave,59977,66420,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,21
+202,Bonot e thesarit,0,0,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,22
+203,Investimet në letra me vlerë,75074,68164,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,23
+204,Kreditë dhe paradhëniet ndaj klientëve,554314,562719,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,26
+205,Patundshmëritë dhe pajisjet,14237,14001,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,27
+206,Pasuritë e paprekshme,1103,1052,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,28
+207,Pasuritë tatimore të shtyra,256,273,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,29
+208,Pasuritë tjera,1221,1819,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,30
+209,Gjithsej pasuritë,802732,825368,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,31
+210,Depozitat e klientëve,683094,700653,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,32
+211,Detyrimet ndaj bankave,1286,675,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,BALANCE,BALANCE_SHEET,2020-06-30,2026-03-18,NLB Bank,33
+212,Të hyrat nga interesi,9220,18210,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,1
+213,Shpenzimet e interesit,-1063,-2116,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,2
+214,Neto të hyrat nga interesi,8157,16094,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,3
+215,Të hyrat nga tarifat dhe komisionet,2795,5231,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,4
+216,Shpenzimet e tarifave dhe komisioneve,-818,-1583,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,5
+217,Neto të hyrat nga tarifat dhe komisionet,1977,3647,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,6
+218,Neto të hyrat nga tregtimi,0,32,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,7
+219,Neto të hyrat nga instrumentet tjera financiare,97,168,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,8
+220,Neto të hyrat (shpenzimet) tjera operative,-3858,-6825,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,9
+221,Gjithsej të hyrat,6373,13116,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,10
+222,Provizionet për humbjet nga kreditë,-669,-3795,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,11
+223,Shpenzimet e tatimit në fitim,-608,-1045,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,15
+224,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2020,Pasqyrat Financiare 30.06.2020.pdf,INCOME,INCOME_STATEMENT,2020-06-30,2026-03-18,NLB Bank,16
+225,Paraja e gatshme dhe gjendja me BQK-në,102394,106849,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,20
+226,Kërkesat ndaj bankave,104473,93873,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,21
+227,Bonot e thesarit,0,0,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,22
+228,Investimet në letra me vlerë,106163,110490,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,23
+229,Kreditë dhe paradhëniet ndaj klientëve,568850,589151,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,26
+230,Patundshmëritë dhe pajisjet,13809,13497,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,27
+231,Pasuritë e paprekshme,1055,979,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,28
+232,Pasuritë tatimore të shtyra,272,297,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,29
+233,Pasuritë tjera,1430,1510,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,30
+234,Gjithsej pasuritë,898446,916645,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,31
+235,Depozitat e klientëve,763688,773056,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,32
+236,Detyrimet ndaj bankave,425,779,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,BALANCE,BALANCE_SHEET,2021-06-30,2026-03-18,NLB Bank,33
+237,Të hyrat nga interesi,9092,18526,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,1
+238,Shpenzimet e interesit,-1013,-1983,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,2
+239,Neto të hyrat nga interesi,8079,16543,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,3
+240,Të hyrat nga tarifat dhe komisionet,2927,5961,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,4
+241,Shpenzimet e tarifave dhe komisioneve,-924,-2008,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,5
+242,Neto të hyrat nga tarifat dhe komisionet,2003,3953,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,6
+243,Neto të hyrat nga tregtimi,-3,84,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,7
+244,Neto të hyrat nga instrumentet tjera financiare,96,177,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,8
+245,Neto të hyrat (shpenzimet) tjera operative,-3697,-7530,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,9
+246,Gjithsej të hyrat,6477,13228,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,10
+247,Provizionet për humbjet nga kreditë,-116,548,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,11
+248,Shpenzimet e tatimit në fitim,-656,-1410,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,15
+249,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2021,Pasqyrat Financiare 30.06.2021.pdf,INCOME,INCOME_STATEMENT,2021-06-30,2026-03-18,NLB Bank,16
+250,Paraja e gatshme dhe gjendja me BQK-në,114103,142406,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,20
+251,Kërkesat ndaj bankave,27141,37452,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,21
+252,Bonot e thesarit,0,0,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,22
+253,Investimet në letra me vlerë,89731,61157,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,23
+254,Kreditë dhe paradhëniet ndaj klientëve,683758,722595,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,26
+255,Patundshmëritë dhe pajisjet,12957,12866,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,27
+256,Pasuritë e paprekshme,1347,1249,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,28
+257,Pasuritë tatimore të shtyra,283,311,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,29
+258,Pasuritë tjera,1254,1400,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,30
+259,Gjithsej pasuritë,930574,979436,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,31
+260,Depozitat e klientëve,789542,792587,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,32
+261,Detyrimet ndaj bankave,598,40093,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,BALANCE,BALANCE_SHEET,2022-06-30,2026-03-18,NLB Bank,33
+262,Të hyrat nga interesi,10018,20750,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,1
+263,Shpenzimet e interesit,-691,-1388,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,2
+264,Neto të hyrat nga interesi,9327,19361,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,3
+265,Të hyrat nga tarifat dhe komisionet,3358,7020,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,4
+266,Shpenzimet e tarifave dhe komisioneve,-1172,-2415,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,5
+267,Neto të hyrat nga tarifat dhe komisionet,2186,4605,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,6
+268,Neto të hyrat nga tregtimi,130,292,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,7
+269,Neto të hyrat nga instrumentet tjera financiare,-12,-18,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,8
+270,Neto të hyrat (shpenzimet) tjera operative,-3986,-7969,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,9
+271,Gjithsej të hyrat,7645,16272,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,10
+272,Provizionet për humbjet nga kreditë,704,2287,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,11
+273,Shpenzimet e tatimit në fitim,-834,-1884,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,15
+274,Të ardhurat tjera gjithëpërfshirëse,0,0,30.06.2022,Pasqyrat Financiare 30.06.2022.pdf,INCOME,INCOME_STATEMENT,2022-06-30,2026-03-18,NLB Bank,16
+275,Paraja e gatshme dhe gjendja me BQK-në,148705,143909,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,20
+276,Kërkesat ndaj bankave,23621,55563,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,21
+277,Bonot e thesarit,0,0,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,22
+278,Investimet në letra me vlerë,119560,134124,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,23
+279,Kreditë dhe paradhëniet ndaj klientëve,924916,948719,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,26
+280,Patundshmëritë dhe pajisjet,12230,12134,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,27
+281,Pasuritë e paprekshme,1019,1142,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,28
+282,Pasuritë tatimore të shtyra,642,666,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,29
+283,Pasuritë tjera,2422,4907,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,30
+284,Gjithsej pasuritë,1233,115,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,31
+285,Depozitat e klientëve,981175,1039,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,32
+286,Detyrimet ndaj bankave,71733,51795,30.06.2024,Pasqyrat financiare me 30.09.2024.pdf,BALANCE,BALANCE_SHEET,2024-06-30,2026-03-18,NLB Bank,33
+287,Paraja e gatshme dhe gjendja me BQK-në,172166,181286,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,20
+288,Kërkesat ndaj bankave,68590,17451,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,21
+289,Bonot e thesarit,0,0,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,22
+290,Investimet në letra me vlerë,152810,151254,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,23
+291,Kreditë dhe paradhëniet ndaj klientëve,1069,490,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,26
+292,Patundshmëritë dhe pajisjet,12156,11848,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,27
+293,Pasuritë e paprekshme,1252,1401,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,28
+294,Pasuritë tatimore të shtyra,671,633,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,29
+295,Pasuritë tjera,2889,3350,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,30
+296,Gjithsej pasuritë,1480,24,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,31
+297,Depozitat e klientëve,1168,104,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,32
+298,Detyrimet ndaj bankave,107660,123347,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,BALANCE,BALANCE_SHEET,2025-06-30,2026-03-18,NLB Bank,33
+299,Të hyrat nga interesi,16638,34467,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,1
+300,Shpenzimet e interesit,-3764,-8003,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,2
+301,Neto të hyrat nga interesi,12874,26464,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,3
+302,Të hyrat nga tarifat dhe komisionet,4017,8035,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,4
+303,Shpenzimet e tarifave dhe komisioneve,-1417,-2815,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,5
+304,Neto të hyrat nga tarifat dhe komisionet,2600,5220,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,6
+305,Neto të hyrat nga tregtimi,145,296,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,7
+306,Neto të hyrat nga instrumentet tjera financiare,-14,-21,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,8
+307,Neto të hyrat (shpenzimet) tjera operative,-5427,-10965,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,9
+308,Gjithsej të hyrat,10178,20995,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,10
+309,Provizionet për humbjet nga kreditë,-728,746,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,11
+310,Shpenzimet e tatimit në fitim,-884,-2104,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,15
+311,Të ardhurat tjera gjithëpërfshirëse,73,132,30.06.2025,Pasqyrat financiare 30.06.2025.pdf,INCOME,INCOME_STATEMENT,2025-06-30,2026-03-18,NLB Bank,16
+312,Paraja e gatshme dhe gjendja me BQK-në,44235,58811,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,20
+313,Kërkesat ndaj bankave,53960,42473,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,21
+314,Bonot e thesarit,0,0,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,22
+315,Investimet në letra me vlerë,62831,65594,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,23
+316,Kreditë dhe paradhëniet ndaj klientëve,279935,282075,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,26
+317,Patundshmëritë dhe pajisjet,11946,11691,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,27
+318,Pasuritë e paprekshme,464,494,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,28
+319,Pasuritë tatimore të shtyra,177,177,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,29
+320,Pasuritë tjera,2376,2074,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,30
+321,Gjithsej pasuritë,455924,463389,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,31
+322,Depozitat e klientëve,391978,396551,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,32
+323,Detyrimet ndaj bankave,1363,1351,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,BALANCE,BALANCE_SHEET,2015-09-30,2026-03-18,NLB Bank,33
+324,Të hyrat nga interesi,12980,19691,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,1
+325,Shpenzimet e interesit,-2492,-3542,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,2
+326,Neto të hyrat nga interesi,10488,16150,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,3
+327,Të hyrat nga tarifat dhe komisionet,2751,4257,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,4
+328,Shpenzimet e tarifave dhe komisioneve,-625,-1016,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,5
+329,Neto të hyrat nga tarifat dhe komisionet,2126,3240,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,6
+330,Neto të hyrat nga tregtimi,0,0,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,7
+331,Neto të hyrat nga instrumentet tjera financiare,327,371,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,8
+332,Neto të hyrat (shpenzimet) tjera operative,-6590,-9723,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,9
+333,Gjithsej të hyrat,6351,10038,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,10
+334,Provizionet për humbjet nga kreditë,-2399,-3582,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,11
+335,Shpenzimet e tatimit në fitim,-395,-653,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,15
+336,Të ardhurat tjera gjithëpërfshirëse,0,0,30.09.2015,Pasqyrat Financiare 30.09.2015.pdf,INCOME,INCOME_STATEMENT,2015-09-30,2026-03-18,NLB Bank,16
+337,Paraja e gatshme dhe gjendja me BQK-në,49564,56102,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,20
+338,Kërkesat ndaj bankave,33250,45441,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,21
+339,Bonot e thesarit,0,0,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,22
+340,Investimet në letra me vlerë,53784,54885,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,23
+341,Kreditë dhe paradhëniet ndaj klientëve,322107,327587,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,26
+342,Patundshmëritë dhe pajisjet,11420,11208,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,27
+343,Pasuritë e paprekshme,463,428,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,28
+344,Pasuritë tatimore të shtyra,202,202,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,29
+345,Pasuritë tjera,1081,924,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,30
+346,Gjithsej pasuritë,471871,496777,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,31
+347,Depozitat e klientëve,401455,428927,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,32
+348,Detyrimet ndaj bankave,108,81,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,BALANCE,BALANCE_SHEET,2016-09-30,2026-03-18,NLB Bank,33
+349,Të hyrat nga interesi,13440,20272,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,1
+350,Shpenzimet e interesit,-1733,-2630,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,2
+351,Neto të hyrat nga interesi,11707,17643,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,3
+352,Të hyrat nga tarifat dhe komisionet,2776,4193,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,4
+353,Shpenzimet e tarifave dhe komisioneve,-547,-848,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,5
+354,Neto të hyrat nga tarifat dhe komisionet,2229,3345,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,6
+355,Neto të hyrat nga tregtimi,0,0,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,7
+356,Neto të hyrat nga instrumentet tjera financiare,230,384,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,8
+357,Neto të hyrat (shpenzimet) tjera operative,-5241,-8193,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,9
+358,Gjithsej të hyrat,8926,13179,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,10
+359,Provizionet për humbjet nga kreditë,-2721,-3661,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,11
+360,Shpenzimet e tatimit në fitim,-622,-940,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,15
+361,Të ardhurat tjera gjithëpërfshirëse,0,0,30.09.2016,Pasqyrat Financiare 30.09.2016.pdf,INCOME,INCOME_STATEMENT,2016-09-30,2026-03-18,NLB Bank,16
+362,Paraja e gatshme dhe gjendja me BQK-në,48448,61502,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,20
+363,Kërkesat ndaj bankave,29001,33515,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,21
+364,Bonot e thesarit,0,0,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,22
+365,Investimet në letra me vlerë,63105,65965,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,23
+366,Kreditë dhe paradhëniet ndaj klientëve,372389,378583,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,26
+367,Patundshmëritë dhe pajisjet,11126,11736,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,27
+368,Pasuritë e paprekshme,786,738,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,28
+369,Pasuritë tatimore të shtyra,332,357,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,29
+370,Pasuritë tjera,853,967,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,30
+371,Gjithsej pasuritë,526041,553363,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,31
+372,Depozitat e klientëve,454500,479438,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,32
+373,Detyrimet ndaj bankave,4157,821,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,BALANCE,BALANCE_SHEET,2017-09-30,2026-03-18,NLB Bank,33
+374,Të hyrat nga interesi,13796,20792,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,1
+375,Shpenzimet e interesit,-1722,-2556,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,2
+376,Neto të hyrat nga interesi,12075,18237,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,3
+377,Të hyrat nga tarifat dhe komisionet,3164,4914,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,4
+378,Shpenzimet e tarifave dhe komisioneve,-631,-1044,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,5
+379,Neto të hyrat nga tarifat dhe komisionet,2533,3870,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,6
+380,Neto të hyrat nga tregtimi,0,0,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,7
+381,Neto të hyrat nga instrumentet tjera financiare,127,201,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,8
+382,Neto të hyrat (shpenzimet) tjera operative,-5737,-8631,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,9
+383,Gjithsej të hyrat,8998,13678,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,10
+384,Provizionet për humbjet nga kreditë,-1324,-2510,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,11
+385,Shpenzimet e tatimit në fitim,-768,-1087,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,15
+386,Të ardhurat tjera gjithëpërfshirëse,0,0,30.09.2017,Pasqyrat Financaire 30.09.2017.pdf,INCOME,INCOME_STATEMENT,2017-09-30,2026-03-18,NLB Bank,16
+387,Paraja e gatshme dhe gjendja me BQK-në,62080,65882,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,20
+388,Kërkesat ndaj bankave,28967,37699,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,21
+389,Bonot e thesarit,0,0,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,22
+390,Investimet në letra me vlerë,68704,72806,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,23
+391,Kreditë dhe paradhëniet ndaj klientëve,440344,453273,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,26
+392,Patundshmëritë dhe pajisjet,11132,10994,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,27
+393,Pasuritë e paprekshme,710,688,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,28
+394,Pasuritë tatimore të shtyra,298,310,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,29
+395,Pasuritë tjera,729,798,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,30
+396,Gjithsej pasuritë,612964,642449,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,31
+397,Depozitat e klientëve,530716,555831,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,32
+398,Detyrimet ndaj bankave,756,1435,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,BALANCE,BALANCE_SHEET,2018-09-30,2026-03-18,NLB Bank,33
+399,Të hyrat nga interesi,14555,22613,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,1
+400,Shpenzimet e interesit,-1593,-2374,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,2
+401,Neto të hyrat nga interesi,12962,20239,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,3
+402,Të hyrat nga tarifat dhe komisionet,3497,5683,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,4
+403,Shpenzimet e tarifave dhe komisioneve,-777,-1309,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,5
+404,Neto të hyrat nga tarifat dhe komisionet,2719,4375,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,6
+405,Neto të hyrat nga tregtimi,0,0,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,7
+406,Neto të hyrat nga instrumentet tjera financiare,167,281,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,8
+407,Neto të hyrat (shpenzimet) tjera operative,-6217,-9220,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,9
+408,Gjithsej të hyrat,9630,15675,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,10
+409,Provizionet për humbjet nga kreditë,-1409,-3279,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,11
+410,Shpenzimet e tatimit në fitim,-797,-1199,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,15
+411,Të ardhurat tjera gjithëpërfshirëse,0,0,30.09.2018,Pasqyrat Financiare 30.09.2018.pdf,INCOME,INCOME_STATEMENT,2018-09-30,2026-03-18,NLB Bank,16
+412,Paraja e gatshme dhe gjendja me BQK-në,71902,87991,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,20
+413,Kërkesat ndaj bankave,40166,46525,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,21
+414,Bonot e thesarit,0,0,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,22
+415,Investimet në letra me vlerë,70299,79390,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,23
+416,Kreditë dhe paradhëniet ndaj klientëve,509726,527344,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,26
+417,Patundshmëritë dhe pajisjet,10401,13256,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,27
+418,Pasuritë e paprekshme,619,919,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,28
+419,Pasuritë tatimore të shtyra,277,198,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,29
+420,Pasuritë tjera,1670,1704,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,30
+421,Gjithsej pasuritë,705061,757327,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,31
+422,Depozitat e klientëve,599425,648387,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,32
+423,Detyrimet ndaj bankave,837,1530,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,BALANCE,BALANCE_SHEET,2019-09-30,2026-03-18,NLB Bank,33
+424,Të hyrat nga interesi,16660,25484,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,1
+425,Shpenzimet e interesit,-1484,-2452,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,2
+426,Neto të hyrat nga interesi,15176,23033,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,3
+427,Të hyrat nga tarifat dhe komisionet,4611,7643,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,4
+428,Shpenzimet e tarifave dhe komisioneve,-1144,-1730,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,5
+429,Neto të hyrat nga tarifat dhe komisionet,3467,5913,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,6
+430,Neto të hyrat nga tregtimi,0,25,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,7
+431,Neto të hyrat nga instrumentet tjera financiare,179,297,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,8
+432,Neto të hyrat (shpenzimet) tjera operative,-6544,-10641,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,9
+433,Gjithsej të hyrat,12278,18627,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,10
+434,Provizionet për humbjet nga kreditë,-1744,-2080,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,11
+435,Shpenzimet e tatimit në fitim,-1069,-1754,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,15
+436,Të ardhurat tjera gjithëpërfshirëse,0,0,30.09.2019,Pasqyrat Financiare 30.09.2019.pdf,INCOME,INCOME_STATEMENT,2019-09-30,2026-03-18,NLB Bank,16
+437,Paraja e gatshme dhe gjendja me BQK-në,106849,95175,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,20
+438,Kërkesat ndaj bankave,93873,83723,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,21
+439,Bonot e thesarit,0,0,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,22
+440,Investimet në letra me vlerë,110490,113121,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,23
+441,Kreditë dhe paradhëniet ndaj klientëve,589151,602399,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,26
+442,Patundshmëritë dhe pajisjet,13497,12972,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,27
+443,Pasuritë e paprekshme,979,930,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,28
+444,Pasuritë tatimore të shtyra,297,269,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,29
+445,Pasuritë tjera,1510,1420,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,30
+446,Gjithsej pasuritë,916645,910009,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,31
+447,Depozitat e klientëve,773056,763432,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,32
+448,Detyrimet ndaj bankave,779,433,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,BALANCE,BALANCE_SHEET,2021-09-30,2026-03-18,NLB Bank,33
+449,Të hyrat nga interesi,18526,28089,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,1
+450,Shpenzimet e interesit,-1983,-2853,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,2
+451,Neto të hyrat nga interesi,16543,25236,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,3
+452,Të hyrat nga tarifat dhe komisionet,5961,9730,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,4
+453,Shpenzimet e tarifave dhe komisioneve,-2008,-3400,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,5
+454,Neto të hyrat nga tarifat dhe komisionet,3953,6330,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,6
+455,Neto të hyrat nga tregtimi,84,0,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,7
+456,Neto të hyrat nga instrumentet tjera financiare,177,332,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,8
+457,Neto të hyrat (shpenzimet) tjera operative,-7530,-11381,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,9
+458,Gjithsej të hyrat,13228,20517,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,10
+459,Provizionet për humbjet nga kreditë,548,420,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,11
+460,Shpenzimet e tatimit në fitim,-1410,-2153,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,15
+461,Të ardhurat tjera gjithëpërfshirëse,0,0,30.09.2021,Pasqyrat Financiare 30.09.2021.pdf,INCOME,INCOME_STATEMENT,2021-09-30,2026-03-18,NLB Bank,16
+462,Paraja e gatshme dhe gjendja me BQK-në,142406,140902,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,20
+463,Kërkesat ndaj bankave,37452,64352,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,21
+464,Bonot e thesarit,0,0,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,22
+465,Investimet në letra me vlerë,61157,80508,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,23
+466,Kreditë dhe paradhëniet ndaj klientëve,722595,734007,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,26
+467,Patundshmëritë dhe pajisjet,12866,12440,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,27
+468,Pasuritë e paprekshme,1249,1233,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,28
+469,Pasuritë tatimore të shtyra,311,292,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,29
+470,Pasuritë tjera,1400,1362,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,30
+471,Gjithsej pasuritë,979436,1035,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,31
+472,Depozitat e klientëve,792587,841500,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,32
+473,Detyrimet ndaj bankave,40093,40230,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,BALANCE,BALANCE_SHEET,2022-09-30,2026-03-18,NLB Bank,33
+474,Të hyrat nga interesi,20750,31706,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,1
+475,Shpenzimet e interesit,-1388,-2315,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,2
+476,Neto të hyrat nga interesi,19361,29391,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,3
+477,Të hyrat nga tarifat dhe komisionet,7020,11190,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,4
+478,Shpenzimet e tarifave dhe komisioneve,-2415,-3988,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,5
+479,Neto të hyrat nga tarifat dhe komisionet,4605,7202,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,6
+480,Neto të hyrat nga tregtimi,292,486,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,7
+481,Neto të hyrat nga instrumentet tjera financiare,-18,2,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,8
+482,Neto të hyrat (shpenzimet) tjera operative,-7969,-11987,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,9
+483,Gjithsej të hyrat,16272,25094,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,10
+484,Provizionet për humbjet nga kreditë,2287,2307,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,11
+485,Shpenzimet e tatimit në fitim,-1884,-2787,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,15
+486,Të ardhurat tjera gjithëpërfshirëse,0,0,30.09.2022,Pasqyrat Financiare 30.09.2022.pdf,INCOME,INCOME_STATEMENT,2022-09-30,2026-03-18,NLB Bank,16
+487,Paraja e gatshme dhe gjendja me BQK-në,110376,127519,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,20
+488,Kërkesat ndaj bankave,49883,69951,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,21
+489,Bonot e thesarit,0,0,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,22
+490,Investimet në letra me vlerë,129070,148601,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,23
+491,Kreditë dhe paradhëniet ndaj klientëve,802079,815755,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,26
+492,Patundshmëritë dhe pajisjet,12534,12355,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,27
+493,Pasuritë e paprekshme,1106,1022,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,28
+494,Pasuritë tatimore të shtyra,395,375,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,29
+495,Pasuritë tjera,1691,1701,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,30
+496,Gjithsej pasuritë,1107,134,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,31
+497,Depozitat e klientëve,912700,971719,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,32
+498,Detyrimet ndaj bankave,31119,32102,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,BALANCE,BALANCE_SHEET,2023-09-30,2026-03-18,NLB Bank,33
+499,Të hyrat nga interesi,25048,38881,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,1
+500,Shpenzimet e interesit,-2763,-4503,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,2
+501,Neto të hyrat nga interesi,22285,34378,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,3
+502,Të hyrat nga tarifat dhe komisionet,7022,11036,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,4
+503,Shpenzimet e tarifave dhe komisioneve,-2341,-3873,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,5
+504,Neto të hyrat nga tarifat dhe komisionet,4681,7164,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,6
+505,Neto të hyrat nga tregtimi,349,570,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,7
+506,Neto të hyrat nga instrumentet tjera financiare,-12,-19,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,8
+507,Neto të hyrat (shpenzimet) tjera operative,-8981,-13437,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,9
+508,Gjithsej të hyrat,18321,28656,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,10
+509,Provizionet për humbjet nga kreditë,2657,1848,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,11
+510,Shpenzimet e tatimit në fitim,-2185,-3200,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,15
+511,Të ardhurat tjera gjithëpërfshirëse,0,0,30.09.2023,Pasqyrat Financiare 30.9.2023.pdf,INCOME,INCOME_STATEMENT,2023-09-30,2026-03-18,NLB Bank,16
+512,Të hyrat nga interesi,30226,46087,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,1
+513,Shpenzimet e interesit,-4555,-7586,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,2
+514,Neto të hyrat nga interesi,25671,38500,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,3
+515,Të hyrat nga tarifat dhe komisionet,7636,11976,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,4
+516,Shpenzimet e tarifave dhe komisioneve,-2401,-4238,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,5
+517,Neto të hyrat nga tarifat dhe komisionet,5235,7738,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,6
+518,Neto të hyrat nga tregtimi,291,465,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,7
+519,Neto të hyrat nga instrumentet tjera financiare,-53,-72,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,8
+520,Neto të hyrat (shpenzimet) tjera operative,-10178,-15078,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,9
+521,Gjithsej të hyrat,20966,31553,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,10
+522,Provizionet për humbjet nga kreditë,1364,272,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,11
+523,Shpenzimet e tatimit në fitim,-2279,-3138,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,15
+524,Të ardhurat tjera gjithëpërfshirëse,-545,-152,30.09.2024,Pasqyrat financiare me 30.09.2024.pdf,INCOME,INCOME_STATEMENT,2024-09-30,2026-03-18,NLB Bank,16
+525,Paraja e gatshme dhe gjendja me BQK-në,181286,194448,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,20
+526,Kërkesat ndaj bankave,17451,69259,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,21
+527,Bonot e thesarit,0,0,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,22
+528,Investimet në letra me vlerë,151254,170718,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,23
+529,Kreditë dhe paradhëniet ndaj klientëve,1137,690,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,26
+530,Patundshmëritë dhe pajisjet,11848,11451,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,27
+531,Pasuritë e paprekshme,1401,1520,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,28
+532,Pasuritë tatimore të shtyra,633,614,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,29
+533,Pasuritë tjera,3350,4007,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,30
+534,Gjithsej pasuritë,1504,913,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,31
+535,Depozitat e klientëve,1169,909,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,32
+536,Detyrimet ndaj bankave,123347,125646,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,BALANCE,BALANCE_SHEET,2025-09-30,2026-03-18,NLB Bank,33
+537,Të hyrat nga interesi,34467,52850,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,1
+538,Shpenzimet e interesit,-8003,-12731,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,2
+539,Neto të hyrat nga interesi,26464,40118,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,3
+540,Të hyrat nga tarifat dhe komisionet,8035,12628,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,4
+541,Shpenzimet e tarifave dhe komisioneve,-2815,-4472,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,5
+542,Neto të hyrat nga tarifat dhe komisionet,5220,8156,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,6
+543,Neto të hyrat nga tregtimi,296,453,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,7
+544,Neto të hyrat nga instrumentet tjera financiare,-21,-79,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,8
+545,Neto të hyrat (shpenzimet) tjera operative,-10965,-16895,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,9
+546,Gjithsej të hyrat,20995,31754,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,10
+547,Provizionet për humbjet nga kreditë,746,1849,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,11
+548,Shpenzimet e tatimit në fitim,-2104,-3453,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,15
+549,Të ardhurat tjera gjithëpërfshirëse,132,-139,30.09.2025,Pasqyrat financiare 30.09.2025.pdf,INCOME,INCOME_STATEMENT,2025-09-30,2026-03-18,NLB Bank,16
+550,Paraja e gatshme dhe gjendja me BQK-në,54465,49353,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,20
+551,Kërkesat ndaj bankave,93639,91210,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,21
+552,Bonot e thesarit,0,0,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,22
+553,Investimet në letra me vlerë,49234,50657,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,23
+554,Kreditë dhe paradhëniet ndaj klientëve,252161,258047,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,26
+555,Patundshmëritë dhe pajisjet,12160,12174,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,27
+556,Pasuritë e paprekshme,482,426,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,28
+557,Pasuritë tatimore të shtyra,177,177,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,29
+558,Pasuritë tjera,2294,2206,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,30
+559,Gjithsej pasuritë,464613,464251,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,31
+560,Depozitat e klientëve,402673,399246,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,32
+561,Detyrimet ndaj bankave,2641,2616,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,BALANCE,BALANCE_SHEET,2015-03-31,2026-03-18,NLB Bank,33
+562,Të hyrat nga interesi,26352,6314,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,1
+563,Shpenzimet e interesit,-9603,-1334,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,2
+564,Neto të hyrat nga interesi,16749,4980,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,3
+565,Të hyrat nga tarifat dhe komisionet,5620,1322,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,4
+566,Shpenzimet e tarifave dhe komisioneve,-1157,-297,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,5
+567,Neto të hyrat nga tarifat dhe komisionet,4463,1025,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,6
+568,Neto të hyrat nga tregtimi,0,0,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,7
+569,Neto të hyrat nga instrumentet tjera financiare,446,211,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,8
+570,Neto të hyrat (shpenzimet) tjera operative,-11218,-3177,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,9
+571,Gjithsej të hyrat,10441,3039,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,10
+572,Provizionet për humbjet nga kreditë,-4332,-1131,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,11
+573,Shpenzimet e tatimit në fitim,-708,-191,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,15
+574,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2015,Pasqyrat Financiare 31.03.2015.pdf,INCOME,INCOME_STATEMENT,2015-03-31,2026-03-18,NLB Bank,16
+575,Paraja e gatshme dhe gjendja me BQK-në,50593,48961,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,20
+576,Kërkesat ndaj bankave,44290,42627,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,21
+577,Bonot e thesarit,0,0,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,22
+578,Investimet në letra me vlerë,67924,61838,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,23
+579,Kreditë dhe paradhëniet ndaj klientëve,289791,298391,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,26
+580,Patundshmëritë dhe pajisjet,11533,11440,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,27
+581,Pasuritë e paprekshme,494,452,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,28
+582,Pasuritë tatimore të shtyra,202,202,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,29
+583,Pasuritë tjera,1468,2202,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,30
+584,Gjithsej pasuritë,466296,466114,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,31
+585,Depozitat e klientëve,398932,393792,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,32
+586,Detyrimet ndaj bankave,82,111,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,BALANCE,BALANCE_SHEET,2016-03-31,2026-03-18,NLB Bank,33
+587,Të hyrat nga interesi,26359,6406,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,1
+588,Shpenzimet e interesit,-4485,-876,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,2
+589,Neto të hyrat nga interesi,21873,5530,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,3
+590,Të hyrat nga tarifat dhe komisionet,5816,1624,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,4
+591,Shpenzimet e tarifave dhe komisioneve,-1393,-407,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,5
+592,Neto të hyrat nga tarifat dhe komisionet,4423,1216,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,6
+593,Neto të hyrat nga tregtimi,0,0,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,7
+594,Neto të hyrat nga instrumentet tjera financiare,533,135,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,8
+595,Neto të hyrat (shpenzimet) tjera operative,-13141,-3245,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,9
+596,Gjithsej të hyrat,13688,3637,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,10
+597,Provizionet për humbjet nga kreditë,-4440,-904,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,11
+598,Shpenzimet e tatimit në fitim,-1016,-275,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,15
+599,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2016,Pasqyrat Financiare 31.03.2016.pdf,INCOME,INCOME_STATEMENT,2016-03-31,2026-03-18,NLB Bank,16
+600,Paraja e gatshme dhe gjendja me BQK-në,83592,68337,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,20
+601,Kërkesat ndaj bankave,35289,39118,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,21
+602,Bonot e thesarit,0,0,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,22
+603,Investimet në letra me vlerë,65228,72463,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,23
+604,Kreditë dhe paradhëniet ndaj klientëve,387689,403939,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,26
+605,Patundshmëritë dhe pajisjet,11399,11245,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,27
+606,Pasuritë e paprekshme,728,687,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,28
+607,Pasuritë tatimore të shtyra,276,295,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,29
+608,Pasuritë tjera,666,1100,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,30
+609,Gjithsej pasuritë,584868,597184,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,31
+610,Depozitat e klientëve,506749,516966,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,32
+611,Detyrimet ndaj bankave,537,344,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,BALANCE,BALANCE_SHEET,2018-03-31,2026-03-18,NLB Bank,33
+612,Të hyrat nga interesi,27957,6990,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,1
+613,Shpenzimet e interesit,-3399,-816,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,2
+614,Neto të hyrat nga interesi,24558,6174,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,3
+615,Të hyrat nga tarifat dhe komisionet,6804,1582,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,4
+616,Shpenzimet e tarifave dhe komisioneve,-1409,-315,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,5
+617,Neto të hyrat nga tarifat dhe komisionet,5394,1267,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,6
+618,Neto të hyrat nga tregtimi,0,0,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,7
+619,Neto të hyrat nga instrumentet tjera financiare,255,48,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,8
+620,Neto të hyrat (shpenzimet) tjera operative,-11813,-3001,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,9
+621,Gjithsej të hyrat,18394,4489,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,10
+622,Provizionet për humbjet nga kreditë,-3689,-483,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,11
+623,Shpenzimet e tatimit në fitim,-1576,-383,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,15
+624,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2018,Pasqyrat Financiare 31.01.2018.pdf,INCOME,INCOME_STATEMENT,2018-03-31,2026-03-18,NLB Bank,16
+625,Paraja e gatshme dhe gjendja me BQK-në,88836,69100,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,20
+626,Kërkesat ndaj bankave,35109,43574,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,21
+627,Bonot e thesarit,0,0,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,22
+628,Investimet në letra me vlerë,64733,75302,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,23
+629,Kreditë dhe paradhëniet ndaj klientëve,464560,485123,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,26
+630,Patundshmëritë dhe pajisjet,10870,10693,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,27
+631,Pasuritë e paprekshme,659,669,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,28
+632,Pasuritë tatimore të shtyra,305,295,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,29
+633,Pasuritë tjera,789,780,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,30
+634,Gjithsej pasuritë,665861,685534,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,31
+635,Depozitat e klientëve,585860,598879,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,32
+636,Detyrimet ndaj bankave,451,210,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,BALANCE,BALANCE_SHEET,2019-03-31,2026-03-18,NLB Bank,33
+637,Të hyrat nga interesi,30678,8099,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,1
+638,Shpenzimet e interesit,-3138,-720,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,2
+639,Neto të hyrat nga interesi,27540,7379,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,3
+640,Të hyrat nga tarifat dhe komisionet,7827,2102,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,4
+641,Shpenzimet e tarifave dhe komisioneve,-1847,-547,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,5
+642,Neto të hyrat nga tarifat dhe komisionet,5980,1555,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,6
+643,Neto të hyrat nga tregtimi,0,0,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,7
+644,Neto të hyrat nga instrumentet tjera financiare,375,79,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,8
+645,Neto të hyrat (shpenzimet) tjera operative,-12671,-3235,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,9
+646,Gjithsej të hyrat,21224,5778,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,10
+647,Provizionet për humbjet nga kreditë,-4369,-434,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,11
+648,Shpenzimet e tatimit në fitim,-1995,-547,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,15
+649,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2019,Pasqyrat Financiare 31.03.2019.pdf,INCOME,INCOME_STATEMENT,2019-03-31,2026-03-18,NLB Bank,16
+650,Paraja e gatshme dhe gjendja me BQK-në,101661,96550,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,20
+651,Kërkesat ndaj bankave,65666,59977,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,21
+652,Bonot e thesarit,0,0,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,22
+653,Investimet në letra me vlerë,77977,75074,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,23
+654,Kreditë dhe paradhëniet ndaj klientëve,538425,554314,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,26
+655,Patundshmëritë dhe pajisjet,13721,14237,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,27
+656,Pasuritë e paprekshme,1032,1103,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,28
+657,Pasuritë tatimore të shtyra,266,256,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,29
+658,Pasuritë tjera,687,1221,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,30
+659,Gjithsej pasuritë,799435,802732,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,31
+660,Depozitat e klientëve,685388,683094,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,32
+661,Detyrimet ndaj bankave,632,1286,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,BALANCE,BALANCE_SHEET,2020-03-31,2026-03-18,NLB Bank,33
+662,Të hyrat nga interesi,34536,9220,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,1
+663,Shpenzimet e interesit,-3440,-1063,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,2
+664,Neto të hyrat nga interesi,31096,8157,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,3
+665,Të hyrat nga tarifat dhe komisionet,10612,2795,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,4
+666,Shpenzimet e tarifave dhe komisioneve,-3241,-818,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,5
+667,Neto të hyrat nga tarifat dhe komisionet,7371,1977,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,6
+668,Neto të hyrat nga tregtimi,41,0,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,7
+669,Neto të hyrat nga instrumentet tjera financiare,356,97,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,8
+670,Neto të hyrat (shpenzimet) tjera operative,-13848,-3858,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,9
+671,Gjithsej të hyrat,25016,6373,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,10
+672,Provizionet për humbjet nga kreditë,-2327,-669,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,11
+673,Shpenzimet e tatimit në fitim,-2304,-608,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,15
+674,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2020,Pasqyrat Financiare 31.03.2020.pdf,INCOME,INCOME_STATEMENT,2020-03-31,2026-03-18,NLB Bank,16
+675,Paraja e gatshme dhe gjendja me BQK-në,169346,102394,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,20
+676,Kërkesat ndaj bankave,29836,104473,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,21
+677,Bonot e thesarit,0,0,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,22
+678,Investimet në letra me vlerë,102710,106163,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,23
+679,Kreditë dhe paradhëniet ndaj klientëve,559224,568850,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,26
+680,Patundshmëritë dhe pajisjet,13472,13809,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,27
+681,Pasuritë e paprekshme,1138,1055,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,28
+682,Pasuritë tatimore të shtyra,327,272,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,29
+683,Pasuritë tjera,3011,1430,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,30
+684,Gjithsej pasuritë,879065,898446,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,31
+685,Depozitat e klientëve,748317,763688,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,32
+686,Detyrimet ndaj bankave,1172,425,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,BALANCE,BALANCE_SHEET,2021-03-31,2026-03-18,NLB Bank,33
+687,Të hyrat nga interesi,36494,9092,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,1
+688,Shpenzimet e interesit,-4209,-1013,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,2
+689,Neto të hyrat nga interesi,32285,8079,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,3
+690,Të hyrat nga tarifat dhe komisionet,11204,2927,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,4
+691,Shpenzimet e tarifave dhe komisioneve,-3501,-924,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,5
+692,Neto të hyrat nga tarifat dhe komisionet,7704,2003,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,6
+693,Neto të hyrat nga tregtimi,32,-3,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,7
+694,Neto të hyrat nga instrumentet tjera financiare,339,96,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,8
+695,Neto të hyrat (shpenzimet) tjera operative,-13967,-3697,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,9
+696,Gjithsej të hyrat,26393,6477,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,10
+697,Provizionet për humbjet nga kreditë,-11348,-116,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,11
+698,Shpenzimet e tatimit në fitim,-1711,-656,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,15
+699,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2021,Pasqyrat Financiare 31.03.2021.pdf,INCOME,INCOME_STATEMENT,2021-03-31,2026-03-18,NLB Bank,16
+700,Paraja e gatshme dhe gjendja me BQK-në,117749,114103,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,20
+701,Kërkesat ndaj bankave,43228,27141,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,21
+702,Bonot e thesarit,0,0,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,22
+703,Investimet në letra me vlerë,118980,89731,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,23
+704,Kreditë dhe paradhëniet ndaj klientëve,634530,683758,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,26
+705,Patundshmëritë dhe pajisjet,12774,12957,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,27
+706,Pasuritë e paprekshme,1344,1347,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,28
+707,Pasuritë tatimore të shtyra,290,283,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,29
+708,Pasuritë tjera,1650,1254,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,30
+709,Gjithsej pasuritë,930545,930574,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,31
+710,Depozitat e klientëve,798789,789542,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,32
+711,Detyrimet ndaj bankave,558,598,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,BALANCE,BALANCE_SHEET,2022-03-31,2026-03-18,NLB Bank,33
+712,Të hyrat nga interesi,38083,10018,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,1
+713,Shpenzimet e interesit,-3624,-691,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,2
+714,Neto të hyrat nga interesi,34460,9327,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,3
+715,Të hyrat nga tarifat dhe komisionet,13423,3358,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,4
+716,Shpenzimet e tarifave dhe komisioneve,-4619,-1172,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,5
+717,Neto të hyrat nga tarifat dhe komisionet,8805,2186,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,6
+718,Neto të hyrat nga tregtimi,458,130,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,7
+719,Neto të hyrat nga instrumentet tjera financiare,16,-12,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,8
+720,Neto të hyrat (shpenzimet) tjera operative,-15453,-3986,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,9
+721,Gjithsej të hyrat,28287,7645,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,10
+722,Provizionet për humbjet nga kreditë,-1063,704,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,11
+723,Shpenzimet e tatimit në fitim,-2787,-834,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,15
+724,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2022,Pasqyrat Financiare 31.03.2022.pdf,INCOME,INCOME_STATEMENT,2022-03-31,2026-03-18,NLB Bank,16
+725,Paraja e gatshme dhe gjendja me BQK-në,105379,110376,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,20
+726,Kërkesat ndaj bankave,68305,49883,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,21
+727,Bonot e thesarit,0,0,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,22
+728,Investimet në letra me vlerë,138579,129070,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,23
+729,Kreditë dhe paradhëniet ndaj klientëve,770367,802079,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,26
+730,Patundshmëritë dhe pajisjet,13021,12534,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,27
+731,Pasuritë e paprekshme,1123,1106,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,28
+732,Pasuritë tatimore të shtyra,382,395,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,29
+733,Pasuritë tjera,1468,1691,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,30
+734,Gjithsej pasuritë,1098,624,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,31
+735,Depozitat e klientëve,902420,912700,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,32
+736,Detyrimet ndaj bankave,40897,31119,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,33
+737,Paraja e gatshme dhe gjendja me BQK-në,124929,105379,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,20
+738,Kërkesat ndaj bankave,66865,68305,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,21
+739,Bonot e thesarit,0,0,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,22
+740,Investimet në letra me vlerë,133777,138579,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,23
+741,Kreditë dhe paradhëniet ndaj klientëve,740776,770367,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,26
+742,Patundshmëritë dhe pajisjet,12452,13021,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,27
+743,Pasuritë e paprekshme,1140,1123,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,28
+744,Pasuritë tatimore të shtyra,361,382,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,29
+745,Pasuritë tjera,3339,1468,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,30
+746,Gjithsej pasuritë,1083,638,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,31
+747,Depozitat e klientëve,894241,902420,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,32
+748,Detyrimet ndaj bankave,40425,40897,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,BALANCE,BALANCE_SHEET,2023-03-31,2026-03-18,NLB Bank,33
+749,Të hyrat nga interesi,12094,25048,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,1
+750,Shpenzimet e interesit,-1370,-2763,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,2
+751,Neto të hyrat nga interesi,10724,22285,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,3
+752,Të hyrat nga tarifat dhe komisionet,3485,7022,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,4
+753,Shpenzimet e tarifave dhe komisioneve,-1197,-2341,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,5
+754,Neto të hyrat nga tarifat dhe komisionet,2288,4681,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,6
+755,Neto të hyrat nga tregtimi,170,349,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,7
+756,Neto të hyrat nga instrumentet tjera financiare,-8,-12,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,8
+757,Neto të hyrat (shpenzimet) tjera operative,-4378,-8981,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,9
+758,Gjithsej të hyrat,8795,18321,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,10
+759,Provizionet për humbjet nga kreditë,643,2657,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,11
+760,Shpenzimet e tatimit në fitim,-934,-2185,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,15
+761,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2023,Pasqyrat financiare 30.06.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,16
+762,Të hyrat nga interesi,43333,12094,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,1
+763,Shpenzimet e interesit,-3487,-1370,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,2
+764,Neto të hyrat nga interesi,39846,10724,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,3
+765,Të hyrat nga tarifat dhe komisionet,14963,3485,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,4
+766,Shpenzimet e tarifave dhe komisioneve,-5209,-1197,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,5
+767,Neto të hyrat nga tarifat dhe komisionet,9754,2288,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,6
+768,Neto të hyrat nga tregtimi,86,170,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,7
+769,Neto të hyrat nga instrumentet tjera financiare,615,-8,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,8
+770,Neto të hyrat (shpenzimet) tjera operative,-16258,-4378,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,9
+771,Gjithsej të hyrat,34043,8795,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,10
+772,Provizionet për humbjet nga kreditë,2050,643,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,11
+773,Shpenzimet e tatimit në fitim,-3693,-934,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,15
+774,Të ardhurat tjera gjithëpërfshirëse,0,0,31.03.2023,Pasqyrat financiare 31.03.2023.pdf,INCOME,INCOME_STATEMENT,2023-03-31,2026-03-18,NLB Bank,16
+775,Paraja e gatshme dhe gjendja me BQK-në,120549,148705,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,20
+776,Kërkesat ndaj bankave,49001,23621,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,21
+777,Bonot e thesarit,0,0,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,22
+778,Investimet në letra me vlerë,159307,119560,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,23
+779,Kreditë dhe paradhëniet ndaj klientëve,865641,924916,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,26
+780,Patundshmëritë dhe pajisjet,12525,12230,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,27
+781,Pasuritë e paprekshme,1087,1019,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,28
+782,Pasuritë tatimore të shtyra,610,642,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,29
+783,Pasuritë tjera,2212,2422,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,30
+784,Gjithsej pasuritë,1210,933,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,31
+785,Depozitat e klientëve,1007,886,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,32
+786,Detyrimet ndaj bankave,31484,71733,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,33
+787,Paraja e gatshme dhe gjendja me BQK-në,129664,120549,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,20
+788,Kërkesat ndaj bankave,75655,49001,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,21
+789,Bonot e thesarit,0,0,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,22
+790,Investimet në letra me vlerë,175373,159307,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,23
+791,Kreditë dhe paradhëniet ndaj klientëve,831333,865641,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,26
+792,Patundshmëritë dhe pajisjet,12184,12525,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,27
+793,Pasuritë e paprekshme,1094,1087,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,28
+794,Pasuritë tatimore të shtyra,520,610,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,29
+795,Pasuritë tjera,3933,2212,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,30
+796,Gjithsej pasuritë,1229,757,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,31
+797,Depozitat e klientëve,1008,264,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,32
+798,Detyrimet ndaj bankave,31191,31484,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,BALANCE,BALANCE_SHEET,2024-03-31,2026-03-18,NLB Bank,33
+799,Të hyrat nga interesi,15002,30226,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,1
+800,Shpenzimet e interesit,-2218,-4555,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,2
+801,Neto të hyrat nga interesi,12784,25671,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,3
+802,Të hyrat nga tarifat dhe komisionet,3735,7636,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,4
+803,Shpenzimet e tarifave dhe komisioneve,-1337,-2401,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,5
+804,Neto të hyrat nga tarifat dhe komisionet,2398,5235,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,6
+805,Neto të hyrat nga tregtimi,135,291,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,7
+806,Neto të hyrat nga instrumentet tjera financiare,-28,-53,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,8
+807,Neto të hyrat (shpenzimet) tjera operative,-4897,-10178,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,9
+808,Gjithsej të hyrat,10391,20966,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,10
+809,Provizionet për humbjet nga kreditë,-930,1364,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,11
+810,Shpenzimet e tatimit në fitim,-949,-2279,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,15
+811,Të ardhurat tjera gjithëpërfshirëse,-428,-545,31.03.2024,Pasqyrat financiare me 30.06.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,16
+812,Të hyrat nga interesi,53699,15002,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,1
+813,Shpenzimet e interesit,-6534,-2218,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,2
+814,Neto të hyrat nga interesi,47165,12784,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,3
+815,Të hyrat nga tarifat dhe komisionet,14769,3735,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,4
+816,Shpenzimet e tarifave dhe komisioneve,-5387,-1337,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,5
+817,Neto të hyrat nga tarifat dhe komisionet,9382,2398,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,6
+818,Neto të hyrat nga tregtimi,783,135,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,7
+819,Neto të hyrat nga instrumentet tjera financiare,-23,-28,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,8
+820,Neto të hyrat (shpenzimet) tjera operative,-18117,-4897,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,9
+821,Gjithsej të hyrat,39191,10391,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,10
+822,Provizionet për humbjet nga kreditë,770,-930,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,11
+823,Shpenzimet e tatimit në fitim,-3994,-949,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,15
+824,Të ardhurat tjera gjithëpërfshirëse,-142,-428,31.03.2024,Pasqyrat financiare 31.03.2024.pdf,INCOME,INCOME_STATEMENT,2024-03-31,2026-03-18,NLB Bank,16
+825,Paraja e gatshme dhe gjendja me BQK-në,173857,172166,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,20
+826,Kërkesat ndaj bankave,85366,68590,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,21
+827,Bonot e thesarit,0,0,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,22
+828,Investimet në letra me vlerë,154104,152810,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,23
+829,Kreditë dhe paradhëniet ndaj klientëve,996784,1069,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,26
+830,Patundshmëritë dhe pajisjet,11890,12156,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,27
+831,Pasuritë e paprekshme,1314,1252,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,28
+832,Pasuritë tatimore të shtyra,694,671,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,29
+833,Pasuritë tjera,2853,2889,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,30
+834,Gjithsej pasuritë,1426,863,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,31
+835,Depozitat e klientëve,1138,256,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,32
+836,Detyrimet ndaj bankave,81958,107660,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,BALANCE,BALANCE_SHEET,2025-03-31,2026-03-18,NLB Bank,33
+837,Të hyrat nga interesi,62688,16638,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,1
+838,Shpenzimet e interesit,-11246,-3764,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,2
+839,Neto të hyrat nga interesi,51442,12874,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,3
+840,Të hyrat nga tarifat dhe komisionet,15966,4017,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,4
+841,Shpenzimet e tarifave dhe komisioneve,-5670,-1417,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,5
+842,Neto të hyrat nga tarifat dhe komisionet,10296,2600,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,6
+843,Neto të hyrat nga tregtimi,634,145,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,7
+844,Neto të hyrat nga instrumentet tjera financiare,-54,-14,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,8
+845,Neto të hyrat (shpenzimet) tjera operative,-20274,-5427,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,9
+846,Gjithsej të hyrat,42044,10178,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,10
+847,Provizionet për humbjet nga kreditë,-1093,-728,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,11
+848,Shpenzimet e tatimit në fitim,-3923,-884,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,15
+849,Të ardhurat tjera gjithëpërfshirëse,-153,73,31.03.2025,Pasqyrat financiare me 31.03.2025.pdf,INCOME,INCOME_STATEMENT,2025-03-31,2026-03-18,NLB Bank,16
+850,Paraja e gatshme dhe gjendja me BQK-në,61785,92142,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,20
+851,Kërkesat ndaj bankave,60889,65040,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,21
+852,Bonot e thesarit,0,0,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,22
+853,Investimet në letra me vlerë,57288,54104,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,23
+854,Kreditë dhe paradhëniet ndaj klientëve,232260,240625,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,26
+855,Patundshmëritë dhe pajisjet,10780,10756,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,27
+856,Pasuritë e paprekshme,589,562,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,28
+857,Pasuritë tatimore të shtyra,322,297,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,29
+858,Pasuritë tjera,2307,2145,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,30
+859,Gjithsej pasuritë,426220,465671,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,31
+860,Depozitat e klientëve,364420,403558,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,32
+861,Detyrimet ndaj bankave,6698,5448,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,33
+862,Paraja e gatshme dhe gjendja me BQK-në,61785,92142,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,20
+863,Kërkesat ndaj bankave,60889,65040,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,21
+864,Bonot e thesarit,0,0,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,22
+865,Investimet në letra me vlerë,57288,54104,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,23
+866,Kreditë dhe paradhëniet ndaj klientëve,232260,240625,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,26
+867,Patundshmëritë dhe pajisjet,10780,10756,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,27
+868,Pasuritë e paprekshme,589,562,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,28
+869,Pasuritë tatimore të shtyra,322,297,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,29
+870,Pasuritë tjera,2307,2190,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,30
+871,Gjithsej pasuritë,426220,465715,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,31
+872,Depozitat e klientëve,364420,403510,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,32
+873,Detyrimet ndaj bankave,6698,5448,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,BALANCE,BALANCE_SHEET,2013-12-31,2026-03-18,NLB Bank,33
+874,Të hyrat nga interesi,19247,25581,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,1
+875,Shpenzimet e interesit,-9329,-12666,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,2
+876,Neto të hyrat nga interesi,9918,12914,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,3
+877,Të hyrat nga tarifat dhe komisionet,4197,5549,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,4
+878,Shpenzimet e tarifave dhe komisioneve,-727,-968,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,5
+879,Neto të hyrat nga tarifat dhe komisionet,3470,4581,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,6
+880,Neto të hyrat nga tregtimi,0,0,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,7
+881,Neto të hyrat nga instrumentet tjera financiare,338,497,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,8
+882,Neto të hyrat (shpenzimet) tjera operative,-8047,-10523,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,9
+883,Gjithsej të hyrat,5679,7469,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,10
+884,Provizionet për humbjet nga kreditë,-1577,-2361,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,11
+885,Shpenzimet e tatimit në fitim,-449,-570,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,15
+886,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2013,Pasqyrat Financiare 31.12.2013 Të audituara.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,16
+887,Të hyrat nga interesi,19247,25581,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,1
+888,Shpenzimet e interesit,-9329,-12666,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,2
+889,Neto të hyrat nga interesi,9918,12914,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,3
+890,Të hyrat nga tarifat dhe komisionet,4197,5589,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,4
+891,Shpenzimet e tarifave dhe komisioneve,-727,-974,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,5
+892,Neto të hyrat nga tarifat dhe komisionet,3470,4615,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,6
+893,Neto të hyrat nga tregtimi,0,0,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,7
+894,Neto të hyrat nga instrumentet tjera financiare,338,463,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,8
+895,Neto të hyrat (shpenzimet) tjera operative,-8047,-10523,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,9
+896,Gjithsej të hyrat,5679,7469,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,10
+897,Provizionet për humbjet nga kreditë,-1577,-2361,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,11
+898,Shpenzimet e tatimit në fitim,-449,-570,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,15
+899,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2013,Pasqyrat Financiare 31.12.2013.pdf,INCOME,INCOME_STATEMENT,2013-12-31,2026-03-18,NLB Bank,16
+900,Paraja e gatshme dhe gjendja me BQK-në,58811,50593,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,20
+901,Kërkesat ndaj bankave,42473,44290,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,21
+902,Bonot e thesarit,0,0,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,22
+903,Investimet në letra me vlerë,65594,67924,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,23
+904,Kreditë dhe paradhëniet ndaj klientëve,282075,289791,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,26
+905,Patundshmëritë dhe pajisjet,11691,11533,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,27
+906,Pasuritë e paprekshme,494,494,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,28
+907,Pasuritë tatimore të shtyra,177,202,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,29
+908,Pasuritë tjera,2074,1468,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,30
+909,Gjithsej pasuritë,463389,466296,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,31
+910,Depozitat e klientëve,396551,398932,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,32
+911,Detyrimet ndaj bankave,1351,82,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,33
+912,Paraja e gatshme dhe gjendja me BQK-në,58811,50593,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,20
+913,Kërkesat ndaj bankave,42473,44290,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,21
+914,Bonot e thesarit,0,0,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,22
+915,Investimet në letra me vlerë,65594,68293,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,23
+916,Kreditë dhe paradhëniet ndaj klientëve,282075,289791,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,26
+917,Patundshmëritë dhe pajisjet,11691,11441,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,27
+918,Pasuritë e paprekshme,494,494,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,28
+919,Pasuritë tatimore të shtyra,177,177,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,29
+920,Pasuritë tjera,2074,1524,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,30
+921,Gjithsej pasuritë,463389,466604,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,31
+922,Depozitat e klientëve,396551,398931,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,32
+923,Detyrimet ndaj bankave,1351,83,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,BALANCE,BALANCE_SHEET,2015-12-31,2026-03-18,NLB Bank,33
+924,Të hyrat nga interesi,19691,26359,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,1
+925,Shpenzimet e interesit,-3542,-4485,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,2
+926,Neto të hyrat nga interesi,16150,21873,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,3
+927,Të hyrat nga tarifat dhe komisionet,4257,5816,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,4
+928,Shpenzimet e tarifave dhe komisioneve,-1016,-1393,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,5
+929,Neto të hyrat nga tarifat dhe komisionet,3240,4423,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,6
+930,Neto të hyrat nga tregtimi,0,0,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,7
+931,Neto të hyrat nga instrumentet tjera financiare,371,533,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,8
+932,Neto të hyrat (shpenzimet) tjera operative,-9723,-13141,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,9
+933,Gjithsej të hyrat,10038,13688,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,10
+934,Provizionet për humbjet nga kreditë,-3582,-4440,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,11
+935,Shpenzimet e tatimit në fitim,-653,-1016,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,15
+936,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2015,Pasqyrat Financiare 31.12.2015 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,16
+937,Të hyrat nga interesi,19691,26359,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,1
+938,Shpenzimet e interesit,-3542,-4485,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,2
+939,Neto të hyrat nga interesi,16150,21873,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,3
+940,Të hyrat nga tarifat dhe komisionet,4257,5816,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,4
+941,Shpenzimet e tarifave dhe komisioneve,-1016,-1393,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,5
+942,Neto të hyrat nga tarifat dhe komisionet,3240,4423,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,6
+943,Neto të hyrat nga tregtimi,0,0,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,7
+944,Neto të hyrat nga instrumentet tjera financiare,371,516,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,8
+945,Neto të hyrat (shpenzimet) tjera operative,-9723,-13214,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,9
+946,Gjithsej të hyrat,10038,13599,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,10
+947,Provizionet për humbjet nga kreditë,-3582,-4440,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,11
+948,Shpenzimet e tatimit në fitim,-653,-951,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,15
+949,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2015,Pasqyrat Financiare 31.12.2015.pdf,INCOME,INCOME_STATEMENT,2015-12-31,2026-03-18,NLB Bank,16
+950,Paraja e gatshme dhe gjendja me BQK-në,61502,83592,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,20
+951,Kërkesat ndaj bankave,33515,35289,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,21
+952,Bonot e thesarit,0,0,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,22
+953,Investimet në letra me vlerë,65965,65228,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,23
+954,Kreditë dhe paradhëniet ndaj klientëve,378583,387689,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,26
+955,Patundshmëritë dhe pajisjet,11736,11399,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,27
+956,Pasuritë e paprekshme,738,728,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,28
+957,Pasuritë tatimore të shtyra,357,276,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,29
+958,Pasuritë tjera,967,666,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,30
+959,Gjithsej pasuritë,553363,584868,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,31
+960,Depozitat e klientëve,479438,506749,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,32
+961,Detyrimet ndaj bankave,821,537,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,33
+962,Paraja e gatshme dhe gjendja me BQK-në,61502,83592,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,20
+963,Kërkesat ndaj bankave,33515,35289,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,21
+964,Bonot e thesarit,0,0,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,22
+965,Investimet në letra me vlerë,65965,65228,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,23
+966,Kreditë dhe paradhëniet ndaj klientëve,378583,387689,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,26
+967,Patundshmëritë dhe pajisjet,11736,11399,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,27
+968,Pasuritë e paprekshme,738,728,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,28
+969,Pasuritë tatimore të shtyra,357,276,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,29
+970,Pasuritë tjera,967,666,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,30
+971,Gjithsej pasuritë,553363,584868,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,31
+972,Depozitat e klientëve,479438,506749,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,32
+973,Detyrimet ndaj bankave,821,537,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2017-12-31,2026-03-18,NLB Bank,33
+974,Të hyrat nga interesi,20792,27957,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,1
+975,Shpenzimet e interesit,-2556,-3399,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,2
+976,Neto të hyrat nga interesi,18237,24558,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,3
+977,Të hyrat nga tarifat dhe komisionet,4914,6804,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,4
+978,Shpenzimet e tarifave dhe komisioneve,-1044,-1409,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,5
+979,Neto të hyrat nga tarifat dhe komisionet,3870,5394,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,6
+980,Neto të hyrat nga tregtimi,0,0,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,7
+981,Neto të hyrat nga instrumentet tjera financiare,201,255,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,8
+982,Neto të hyrat (shpenzimet) tjera operative,-8631,-11813,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,9
+983,Gjithsej të hyrat,13678,18394,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,10
+984,Provizionet për humbjet nga kreditë,-2510,-3689,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,11
+985,Shpenzimet e tatimit në fitim,-1087,-1576,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,15
+986,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2017,Pasqyrat Financiare 31.12.2017.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,16
+987,Të hyrat nga interesi,20792,27957,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,1
+988,Shpenzimet e interesit,-2556,-3399,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,2
+989,Neto të hyrat nga interesi,18237,24558,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,3
+990,Të hyrat nga tarifat dhe komisionet,4914,6804,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,4
+991,Shpenzimet e tarifave dhe komisioneve,-1044,-1409,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,5
+992,Neto të hyrat nga tarifat dhe komisionet,3870,5394,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,6
+993,Neto të hyrat nga tregtimi,0,0,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,7
+994,Neto të hyrat nga instrumentet tjera financiare,201,255,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,8
+995,Neto të hyrat (shpenzimet) tjera operative,-8631,-11813,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,9
+996,Gjithsej të hyrat,13678,18394,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,10
+997,Provizionet për humbjet nga kreditë,-2510,-3689,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,11
+998,Shpenzimet e tatimit në fitim,-1087,-1576,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,15
+999,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2017,Pasqyrat Financiare 31.12.2017 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2017-12-31,2026-03-18,NLB Bank,16
+1000,Paraja e gatshme dhe gjendja me BQK-në,65882,88836,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,20
+1001,Kërkesat ndaj bankave,37699,35109,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,21
+1002,Bonot e thesarit,0,0,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,22
+1003,Investimet në letra me vlerë,72806,64733,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,23
+1004,Kreditë dhe paradhëniet ndaj klientëve,453273,464560,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,26
+1005,Patundshmëritë dhe pajisjet,10994,10870,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,27
+1006,Pasuritë e paprekshme,688,659,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,28
+1007,Pasuritë tatimore të shtyra,310,305,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,29
+1008,Pasuritë tjera,798,789,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,30
+1009,Gjithsej pasuritë,642449,665861,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,31
+1010,Depozitat e klientëve,555831,585860,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,32
+1011,Detyrimet ndaj bankave,1435,451,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,33
+1012,Paraja e gatshme dhe gjendja me BQK-në,65882,88836,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,20
+1013,Kërkesat ndaj bankave,37699,35109,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,21
+1014,Bonot e thesarit,0,0,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,22
+1015,Investimet në letra me vlerë,72806,64733,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,23
+1016,Kreditë dhe paradhëniet ndaj klientëve,453273,464560,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,26
+1017,Patundshmëritë dhe pajisjet,10994,10870,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,27
+1018,Pasuritë e paprekshme,688,659,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,28
+1019,Pasuritë tatimore të shtyra,310,305,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,29
+1020,Pasuritë tjera,798,802,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,30
+1021,Gjithsej pasuritë,642449,665874,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,31
+1022,Depozitat e klientëve,555831,585851,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,32
+1023,Detyrimet ndaj bankave,1435,451,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,BALANCE,BALANCE_SHEET,2018-12-31,2026-03-18,NLB Bank,33
+1024,Të hyrat nga interesi,22613,30678,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,1
+1025,Shpenzimet e interesit,-2374,-3138,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,2
+1026,Neto të hyrat nga interesi,20239,27540,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,3
+1027,Të hyrat nga tarifat dhe komisionet,5683,7827,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,4
+1028,Shpenzimet e tarifave dhe komisioneve,-1309,-1847,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,5
+1029,Neto të hyrat nga tarifat dhe komisionet,4375,5980,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,6
+1030,Neto të hyrat nga tregtimi,0,0,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,7
+1031,Neto të hyrat nga instrumentet tjera financiare,281,375,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,8
+1032,Neto të hyrat (shpenzimet) tjera operative,-9220,-12671,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,9
+1033,Gjithsej të hyrat,15675,21224,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,10
+1034,Provizionet për humbjet nga kreditë,-3279,-4369,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,11
+1035,Shpenzimet e tatimit në fitim,-1199,-1995,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,15
+1036,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2018,Pasqyrat Financaire 31.12.2018 Të Audituara.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,16
+1037,Të hyrat nga interesi,22613,30807,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,1
+1038,Shpenzimet e interesit,-2374,-3138,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,2
+1039,Neto të hyrat nga interesi,20239,27669,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,3
+1040,Të hyrat nga tarifat dhe komisionet,5683,7827,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,4
+1041,Shpenzimet e tarifave dhe komisioneve,-1309,-1847,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,5
+1042,Neto të hyrat nga tarifat dhe komisionet,4375,5980,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,6
+1043,Neto të hyrat nga tregtimi,0,0,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,7
+1044,Neto të hyrat nga instrumentet tjera financiare,281,375,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,8
+1045,Neto të hyrat (shpenzimet) tjera operative,-9220,-12671,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,9
+1046,Gjithsej të hyrat,15675,21352,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,10
+1047,Provizionet për humbjet nga kreditë,-3279,-4498,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,11
+1048,Shpenzimet e tatimit në fitim,-1199,-1995,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,15
+1049,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2018,Pasqyrat Financiare 31.12.2018.pdf,INCOME,INCOME_STATEMENT,2018-12-31,2026-03-18,NLB Bank,16
+1050,Paraja e gatshme dhe gjendja me BQK-në,87991,101661,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,20
+1051,Kërkesat ndaj bankave,46525,65666,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,21
+1052,Bonot e thesarit,0,0,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,22
+1053,Investimet në letra me vlerë,79390,77977,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,23
+1054,Kreditë dhe paradhëniet ndaj klientëve,527344,538425,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,26
+1055,Patundshmëritë dhe pajisjet,13256,13721,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,27
+1056,Pasuritë e paprekshme,919,1032,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,28
+1057,Pasuritë tatimore të shtyra,198,266,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,29
+1058,Pasuritë tjera,1704,687,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,30
+1059,Gjithsej pasuritë,757327,799435,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,31
+1060,Depozitat e klientëve,648387,685388,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,32
+1061,Detyrimet ndaj bankave,1530,632,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,33
+1062,Paraja e gatshme dhe gjendja me BQK-në,87991,101661,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,20
+1063,Kërkesat ndaj bankave,46525,65666,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,21
+1064,Bonot e thesarit,0,0,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,22
+1065,Investimet në letra me vlerë,79390,77977,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,23
+1066,Kreditë dhe paradhëniet ndaj klientëve,527344,538425,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,26
+1067,Patundshmëritë dhe pajisjet,13256,13721,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,27
+1068,Pasuritë e paprekshme,919,1032,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,28
+1069,Pasuritë tatimore të shtyra,198,259,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,29
+1070,Pasuritë tjera,1704,687,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,30
+1071,Gjithsej pasuritë,757327,799428,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,31
+1072,Depozitat e klientëve,648387,685386,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,32
+1073,Detyrimet ndaj bankave,1530,632,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,BALANCE,BALANCE_SHEET,2019-12-31,2026-03-18,NLB Bank,33
+1074,Të hyrat nga interesi,25484,34536,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,1
+1075,Shpenzimet e interesit,-2452,-3440,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,2
+1076,Neto të hyrat nga interesi,23033,31096,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,3
+1077,Të hyrat nga tarifat dhe komisionet,7643,10612,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,4
+1078,Shpenzimet e tarifave dhe komisioneve,-1730,-3241,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,5
+1079,Neto të hyrat nga tarifat dhe komisionet,5913,7371,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,6
+1080,Neto të hyrat nga tregtimi,25,41,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,7
+1081,Neto të hyrat nga instrumentet tjera financiare,297,356,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,8
+1082,Neto të hyrat (shpenzimet) tjera operative,-10641,-13848,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,9
+1083,Gjithsej të hyrat,18627,25016,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,10
+1084,Provizionet për humbjet nga kreditë,-2080,-2327,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,11
+1085,Shpenzimet e tatimit në fitim,-1754,-2304,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,15
+1086,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2019,Pasqyrat Financiare 31.12.2019 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,16
+1087,Të hyrat nga interesi,25484,34536,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,1
+1088,Shpenzimet e interesit,-2452,-3440,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,2
+1089,Neto të hyrat nga interesi,23033,31096,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,3
+1090,Të hyrat nga tarifat dhe komisionet,7643,10612,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,4
+1091,Shpenzimet e tarifave dhe komisioneve,-1730,-3241,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,5
+1092,Neto të hyrat nga tarifat dhe komisionet,5913,7371,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,6
+1093,Neto të hyrat nga tregtimi,25,41,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,7
+1094,Neto të hyrat nga instrumentet tjera financiare,297,356,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,8
+1095,Neto të hyrat (shpenzimet) tjera operative,-10641,-13848,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,9
+1096,Gjithsej të hyrat,18627,25016,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,10
+1097,Provizionet për humbjet nga kreditë,-2080,-2327,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,11
+1098,Shpenzimet e tatimit në fitim,-1754,-2311,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,15
+1099,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2019,Pasqyrat Financiare 31.12.2019.pdf,INCOME,INCOME_STATEMENT,2019-12-31,2026-03-18,NLB Bank,16
+1100,Paraja e gatshme dhe gjendja me BQK-në,108123,150736,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,20
+1101,Kërkesat ndaj bankave,76294,48447,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,21
+1102,Bonot e thesarit,0,0,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,22
+1103,Investimet në letra me vlerë,68121,102710,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,23
+1104,Kreditë dhe paradhëniet ndaj klientëve,563806,559224,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,26
+1105,Patundshmëritë dhe pajisjet,13572,13472,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,27
+1106,Pasuritë e paprekshme,1088,1138,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,28
+1107,Pasuritë tatimore të shtyra,187,327,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,29
+1108,Pasuritë tjera,2279,3011,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,30
+1109,Gjithsej pasuritë,833470,879065,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,31
+1110,Depozitat e klientëve,706498,748315,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,32
+1111,Detyrimet ndaj bankave,1536,1176,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,33
+1112,Paraja e gatshme dhe gjendja me BQK-në,108123,169346,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,20
+1113,Kërkesat ndaj bankave,76294,29836,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,21
+1114,Bonot e thesarit,0,0,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,22
+1115,Investimet në letra me vlerë,68121,102710,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,23
+1116,Kreditë dhe paradhëniet ndaj klientëve,563806,559224,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,26
+1117,Patundshmëritë dhe pajisjet,13572,13472,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,27
+1118,Pasuritë e paprekshme,1088,1138,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,28
+1119,Pasuritë tatimore të shtyra,187,327,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,29
+1120,Pasuritë tjera,2279,3011,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,30
+1121,Gjithsej pasuritë,833470,879065,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,31
+1122,Depozitat e klientëve,706498,748317,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,32
+1123,Detyrimet ndaj bankave,1536,1172,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2020-12-31,2026-03-18,NLB Bank,33
+1124,Të hyrat nga interesi,27455,36494,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,1
+1125,Shpenzimet e interesit,-3184,-4209,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,2
+1126,Neto të hyrat nga interesi,24271,32285,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,3
+1127,Të hyrat nga tarifat dhe komisionet,8076,11204,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,4
+1128,Shpenzimet e tarifave dhe komisioneve,-2519,-3501,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,5
+1129,Neto të hyrat nga tarifat dhe komisionet,5557,7704,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,6
+1130,Neto të hyrat nga tregtimi,32,32,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,7
+1131,Neto të hyrat nga instrumentet tjera financiare,255,339,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,8
+1132,Neto të hyrat (shpenzimet) tjera operative,-10308,-13967,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,9
+1133,Gjithsej të hyrat,19805,26393,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,10
+1134,Provizionet për humbjet nga kreditë,-7561,-11348,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,11
+1135,Shpenzimet e tatimit në fitim,-1411,-1711,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,15
+1136,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2020,Pasqyrat Financiare 31.12.2020.pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,16
+1137,Të hyrat nga interesi,27455,36494,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,1
+1138,Shpenzimet e interesit,-3184,-4209,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,2
+1139,Neto të hyrat nga interesi,24271,32285,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,3
+1140,Të hyrat nga tarifat dhe komisionet,8076,11204,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,4
+1141,Shpenzimet e tarifave dhe komisioneve,-2519,-3501,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,5
+1142,Neto të hyrat nga tarifat dhe komisionet,5557,7704,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,6
+1143,Neto të hyrat nga tregtimi,32,32,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,7
+1144,Neto të hyrat nga instrumentet tjera financiare,255,339,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,8
+1145,Neto të hyrat (shpenzimet) tjera operative,-10308,-13967,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,9
+1146,Gjithsej të hyrat,19805,26393,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,10
+1147,Provizionet për humbjet nga kreditë,-7561,-11348,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,11
+1148,Shpenzimet e tatimit në fitim,-1411,-1711,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,15
+1149,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2020,Pasqyrat Financiare 31.12.2020 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2020-12-31,2026-03-18,NLB Bank,16
+1150,Paraja e gatshme dhe gjendja me BQK-në,96175,117749,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,20
+1151,Kërkesat ndaj bankave,83723,43228,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,21
+1152,Bonot e thesarit,0,0,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,22
+1153,Investimet në letra me vlerë,113121,118980,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,23
+1154,Kreditë dhe paradhëniet ndaj klientëve,602399,634530,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,26
+1155,Patundshmëritë dhe pajisjet,12972,12774,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,27
+1156,Pasuritë e paprekshme,930,1344,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,28
+1157,Pasuritë tatimore të shtyra,269,290,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,29
+1158,Pasuritë tjera,1420,1650,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,30
+1159,Gjithsej pasuritë,911009,930545,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,31
+1160,Depozitat e klientëve,763432,798789,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,32
+1161,Detyrimet ndaj bankave,433,558,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,33
+1162,Paraja e gatshme dhe gjendja me BQK-në,96175,117749,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,20
+1163,Kërkesat ndaj bankave,83723,43228,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,21
+1164,Bonot e thesarit,0,0,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,22
+1165,Investimet në letra me vlerë,113121,118980,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,23
+1166,Kreditë dhe paradhëniet ndaj klientëve,602399,634530,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,26
+1167,Patundshmëritë dhe pajisjet,12972,12774,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,27
+1168,Pasuritë e paprekshme,930,1344,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,28
+1169,Pasuritë tatimore të shtyra,269,290,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,29
+1170,Pasuritë tjera,1420,1651,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,30
+1171,Gjithsej pasuritë,911009,930547,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,31
+1172,Depozitat e klientëve,763432,798789,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,32
+1173,Detyrimet ndaj bankave,433,558,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,BALANCE,BALANCE_SHEET,2021-12-31,2026-03-18,NLB Bank,33
+1174,Të hyrat nga interesi,28089,38083,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,1
+1175,Shpenzimet e interesit,-2853,-3624,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,2
+1176,Neto të hyrat nga interesi,25236,34460,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,3
+1177,Të hyrat nga tarifat dhe komisionet,9730,13423,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,4
+1178,Shpenzimet e tarifave dhe komisioneve,-3400,-4619,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,5
+1179,Neto të hyrat nga tarifat dhe komisionet,6330,8805,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,6
+1180,Neto të hyrat nga tregtimi,0,458,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,7
+1181,Neto të hyrat nga instrumentet tjera financiare,332,16,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,8
+1182,Neto të hyrat (shpenzimet) tjera operative,-11381,-15453,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,9
+1183,Gjithsej të hyrat,20517,28287,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,10
+1184,Provizionet për humbjet nga kreditë,420,-1063,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,11
+1185,Shpenzimet e tatimit në fitim,-2153,-2787,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,15
+1186,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2021,Pasqyrat Financiare 31.12.2021.pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,16
+1187,Të hyrat nga interesi,28089,38083,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,1
+1188,Shpenzimet e interesit,-2853,-3623,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,2
+1189,Neto të hyrat nga interesi,25236,34460,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,3
+1190,Të hyrat nga tarifat dhe komisionet,9730,13423,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,4
+1191,Shpenzimet e tarifave dhe komisioneve,-3400,-4619,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,5
+1192,Neto të hyrat nga tarifat dhe komisionet,6330,8805,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,6
+1193,Neto të hyrat nga tregtimi,0,458,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,7
+1194,Neto të hyrat nga instrumentet tjera financiare,332,16,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,8
+1195,Neto të hyrat (shpenzimet) tjera operative,-11381,-15453,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,9
+1196,Gjithsej të hyrat,20517,28287,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,10
+1197,Provizionet për humbjet nga kreditë,420,-1063,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,11
+1198,Shpenzimet e tatimit në fitim,-2153,-2787,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,15
+1199,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2021,Pasqyrat Financiare 31.12.2021 (Të Audituara).pdf,INCOME,INCOME_STATEMENT,2021-12-31,2026-03-18,NLB Bank,16
+1200,Paraja e gatshme dhe gjendja me BQK-në,140902,124929,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,20
+1201,Kërkesat ndaj bankave,64352,66865,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,21
+1202,Bonot e thesarit,0,0,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,22
+1203,Investimet në letra me vlerë,80508,133777,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,23
+1204,Kreditë dhe paradhëniet ndaj klientëve,734007,740776,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,26
+1205,Patundshmëritë dhe pajisjet,12440,12452,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,27
+1206,Pasuritë e paprekshme,1233,1140,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,28
+1207,Pasuritë tatimore të shtyra,292,361,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,29
+1208,Pasuritë tjera,1362,3339,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,30
+1209,Gjithsej pasuritë,1035,95,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,31
+1210,Depozitat e klientëve,841500,894241,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,32
+1211,Detyrimet ndaj bankave,40230,40425,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,33
+1212,Paraja e gatshme dhe gjendja me BQK-në,140902,124929,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,20
+1213,Kërkesat ndaj bankave,64352,66857,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,21
+1214,Bonot e thesarit,0,0,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,22
+1215,Investimet në letra me vlerë,80508,133777,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,23
+1216,Kreditë dhe paradhëniet ndaj klientëve,734007,740784,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,26
+1217,Patundshmëritë dhe pajisjet,12440,12452,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,27
+1218,Pasuritë e paprekshme,1233,1140,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,28
+1219,Pasuritë tatimore të shtyra,292,361,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,29
+1220,Pasuritë tjera,1362,3333,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,30
+1221,Gjithsej pasuritë,1035,95,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,31
+1222,Depozitat e klientëve,841500,894238,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,32
+1223,Detyrimet ndaj bankave,40230,40425,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,BALANCE,BALANCE_SHEET,2022-12-31,2026-03-18,NLB Bank,33
+1224,Të hyrat nga interesi,31706,43333,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,1
+1225,Shpenzimet e interesit,-2315,-3487,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,2
+1226,Neto të hyrat nga interesi,29391,39846,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,3
+1227,Të hyrat nga tarifat dhe komisionet,11190,14963,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,4
+1228,Shpenzimet e tarifave dhe komisioneve,-3988,-5209,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,5
+1229,Neto të hyrat nga tarifat dhe komisionet,7202,9754,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,6
+1230,Neto të hyrat nga tregtimi,488,86,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,7
+1231,Neto të hyrat nga instrumentet tjera financiare,0,615,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,8
+1232,Neto të hyrat (shpenzimet) tjera operative,-11987,-16258,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,9
+1233,Gjithsej të hyrat,25094,34043,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,10
+1234,Provizionet për humbjet nga kreditë,2307,2050,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,11
+1235,Shpenzimet e tatimit në fitim,-2787,-3693,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,15
+1236,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2022,Pasqyrat financiare të audituara 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,16
+1237,Të hyrat nga interesi,31706,43333,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,1
+1238,Shpenzimet e interesit,-2315,-3487,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,2
+1239,Neto të hyrat nga interesi,29391,39846,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,3
+1240,Të hyrat nga tarifat dhe komisionet,11190,14963,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,4
+1241,Shpenzimet e tarifave dhe komisioneve,-3988,-5209,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,5
+1242,Neto të hyrat nga tarifat dhe komisionet,7202,9754,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,6
+1243,Neto të hyrat nga tregtimi,488,695,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,7
+1244,Neto të hyrat nga instrumentet tjera financiare,0,6,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,8
+1245,Neto të hyrat (shpenzimet) tjera operative,-11987,-16258,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,9
+1246,Gjithsej të hyrat,25094,34043,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,10
+1247,Provizionet për humbjet nga kreditë,2307,2050,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,11
+1248,Shpenzimet e tatimit në fitim,-2787,-3693,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,15
+1249,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2022,Pasqyrat Financiare 31.12.2022.pdf,INCOME,INCOME_STATEMENT,2022-12-31,2026-03-18,NLB Bank,16
+1250,Paraja e gatshme dhe gjendja me BQK-në,127519,129664,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,20
+1251,Kërkesat ndaj bankave,69951,75655,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,21
+1252,Bonot e thesarit,0,0,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,22
+1253,Investimet në letra me vlerë,148601,175373,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,23
+1254,Kreditë dhe paradhëniet ndaj klientëve,815755,831333,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,26
+1255,Patundshmëritë dhe pajisjet,12355,12184,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,27
+1256,Pasuritë e paprekshme,1022,1094,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,28
+1257,Pasuritë tatimore të shtyra,375,520,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,29
+1258,Pasuritë tjera,1701,3933,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,30
+1259,Gjithsej pasuritë,1177,280,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,31
+1260,Depozitat e klientëve,971719,1008,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,32
+1261,Detyrimet ndaj bankave,32102,31191,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,33
+1262,Paraja e gatshme dhe gjendja me BQK-në,127519,129664,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,20
+1263,Kërkesat ndaj bankave,69951,75655,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,21
+1264,Bonot e thesarit,0,0,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,22
+1265,Investimet në letra me vlerë,148601,175373,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,23
+1266,Kreditë dhe paradhëniet ndaj klientëve,815755,831333,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,26
+1267,Patundshmëritë dhe pajisjet,12355,12184,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,27
+1268,Pasuritë e paprekshme,1022,1094,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,28
+1269,Pasuritë tatimore të shtyra,375,520,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,29
+1270,Pasuritë tjera,1701,3933,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,30
+1271,Gjithsej pasuritë,1177,280,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,31
+1272,Depozitat e klientëve,971719,1008,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,32
+1273,Detyrimet ndaj bankave,32102,31191,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,BALANCE,BALANCE_SHEET,2023-12-31,2026-03-18,NLB Bank,33
+1274,Të hyrat nga interesi,38881,53699,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,1
+1275,Shpenzimet e interesit,-4503,-6534,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,2
+1276,Neto të hyrat nga interesi,34378,47165,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,3
+1277,Të hyrat nga tarifat dhe komisionet,11036,14769,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,4
+1278,Shpenzimet e tarifave dhe komisioneve,-3873,-5387,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,5
+1279,Neto të hyrat nga tarifat dhe komisionet,7164,9382,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,6
+1280,Neto të hyrat nga tregtimi,570,783,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,7
+1281,Neto të hyrat nga instrumentet tjera financiare,-19,-23,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,8
+1282,Neto të hyrat (shpenzimet) tjera operative,-13437,-18117,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,9
+1283,Gjithsej të hyrat,28656,39191,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,10
+1284,Provizionet për humbjet nga kreditë,1848,770,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,11
+1285,Shpenzimet e tatimit në fitim,-3200,-3994,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,15
+1286,Të ardhurat tjera gjithëpërfshirëse,0,-142,31.12.2023,Pasqyrat financiare të audituara 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,16
+1287,Të hyrat nga interesi,38881,53699,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,1
+1288,Shpenzimet e interesit,-4503,-6534,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,2
+1289,Neto të hyrat nga interesi,34378,47165,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,3
+1290,Të hyrat nga tarifat dhe komisionet,11036,14769,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,4
+1291,Shpenzimet e tarifave dhe komisioneve,-3873,-5387,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,5
+1292,Neto të hyrat nga tarifat dhe komisionet,7164,9382,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,6
+1293,Neto të hyrat nga tregtimi,570,783,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,7
+1294,Neto të hyrat nga instrumentet tjera financiare,-19,-23,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,8
+1295,Neto të hyrat (shpenzimet) tjera operative,-13437,-18117,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,9
+1296,Gjithsej të hyrat,28656,39191,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,10
+1297,Provizionet për humbjet nga kreditë,1848,770,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,11
+1298,Shpenzimet e tatimit në fitim,-3200,-3994,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,15
+1299,Të ardhurat tjera gjithëpërfshirëse,0,0,31.12.2023,Pasqyrat financiare me 31.12.2023.pdf,INCOME,INCOME_STATEMENT,2023-12-31,2026-03-18,NLB Bank,16
+1300,Paraja e gatshme dhe gjendja me BQK-në,143909,173857,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,20
+1301,Kërkesat ndaj bankave,55563,85366,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,21
+1302,Bonot e thesarit,0,0,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,22
+1303,Investimet në letra me vlerë,134124,154104,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,23
+1304,Kreditë dhe paradhëniet ndaj klientëve,948719,996784,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,26
+1305,Patundshmëritë dhe pajisjet,12134,11890,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,27
+1306,Pasuritë e paprekshme,1142,1314,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,28
+1307,Pasuritë tatimore të shtyra,666,694,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,29
+1308,Pasuritë tjera,4907,2853,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,30
+1309,Gjithsej pasuritë,1301,163,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,31
+1310,Depozitat e klientëve,1039,38,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,32
+1311,Detyrimet ndaj bankave,51795,81958,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,BALANCE,BALANCE_SHEET,2024-12-31,2026-03-18,NLB Bank,33
+1312,Të hyrat nga interesi,46087,62688,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,1
+1313,Shpenzimet e interesit,-7586,-11246,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,2
+1314,Neto të hyrat nga interesi,38500,51442,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,3
+1315,Të hyrat nga tarifat dhe komisionet,11976,15966,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,4
+1316,Shpenzimet e tarifave dhe komisioneve,-4238,-5670,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,5
+1317,Neto të hyrat nga tarifat dhe komisionet,7738,10296,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,6
+1318,Neto të hyrat nga tregtimi,465,634,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,7
+1319,Neto të hyrat nga instrumentet tjera financiare,-72,-54,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,8
+1320,Neto të hyrat (shpenzimet) tjera operative,-15078,-20274,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,9
+1321,Gjithsej të hyrat,31553,42044,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,10
+1322,Provizionet për humbjet nga kreditë,272,-1093,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,11
+1323,Shpenzimet e tatimit në fitim,-3138,-3923,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,15
+1324,Të ardhurat tjera gjithëpërfshirëse,-152,-153,31.12.2024,Pasqyrat financiare me 31.12.2024.pdf,INCOME,INCOME_STATEMENT,2024-12-31,2026-03-18,NLB Bank,16

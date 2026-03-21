@@ -1,0 +1,1378 @@
+,BANK_ID,REPORT_DATE,DT_REPORT,STATEMENT_TYPE,CATEGORY_TYPE,CATEGORY_CODE,ORIGINAL_CATEGORY,PREVIOUS_VALUE,CURRENT_VALUE,CURR_ID,FILE_NAME,DATA_SOURCE,EXTRACTION_DATE
+604,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,10,8,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+605,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,55,102,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+606,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+607,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+608,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,0,978,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+609,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,637,384,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+610,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,494,760,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+611,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+612,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,0,241,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+613,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,11,11,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+614,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,13,1,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+615,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+616,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+617,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+618,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1,17,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+619,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,1,1,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+620,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10,10,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+621,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+622,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+623,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,133,414,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+624,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+625,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,10,10,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+626,9,2015-03-31,2015-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,11,11,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+500,9,2015-03-31,2015-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,0,133,1,zba_is_31.12.2015.pdf,Ziraat Bank,2026-03-18
+501,9,2015-03-31,2015-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,0,133,1,zba_is_31.12.2015.pdf,Ziraat Bank,2026-03-18
+502,9,2015-03-31,2015-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,0,133,1,zba_is_31.12.2015.pdf,Ziraat Bank,2026-03-18
+627,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,8,6,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+628,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,102,46,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+629,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+630,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,0,3,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+631,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,978,2,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+632,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,384,594,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+633,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,760,749,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+634,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+635,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,241,1,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+636,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,11,11,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+637,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,1,2,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+638,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+639,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+640,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+641,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,17,45,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+642,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,1,2,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+643,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10,10,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+644,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+645,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+646,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,414,677,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+647,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+648,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,10,9,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+649,9,2015-06-30,2015-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,11,11,1,zba_bs_31.12.2015.pdf,Ziraat Bank,2026-03-18
+503,9,2015-06-30,2015-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,0,404,1,zba_is_31.12.2015.pdf,Ziraat Bank,2026-03-18
+504,9,2015-06-30,2015-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,0,414,1,zba_is_31.12.2015.pdf,Ziraat Bank,2026-03-18
+505,9,2015-06-30,2015-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,0,414,1,zba_is_31.12.2015.pdf,Ziraat Bank,2026-03-18
+718,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,6,4,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+719,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,46,617,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+720,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+721,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,3,4,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+722,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,2,2,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+723,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,594,560,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+724,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,749,708,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+725,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+726,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,1,1,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+727,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,11,12,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+728,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,2,3,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+729,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,0,0,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+730,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+731,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+732,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,45,25,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+733,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,2,3,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+734,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10,10,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+735,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+736,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,0,677,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+737,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,677,172,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+738,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+739,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,9,9,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+740,9,2016-03-31,2016-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,11,12,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+510,9,2016-03-31,2016-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,0,661,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+511,9,2016-03-31,2016-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,0,16,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+512,9,2016-03-31,2016-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,0,677,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+513,9,2016-03-31,2016-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,0,677,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+506,9,2016-03-31,2016-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,0,4,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+507,9,2016-03-31,2016-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,0,5,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+508,9,2016-03-31,2016-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,0,1,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+509,9,2016-03-31,2016-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,0,691,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+741,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,4,4,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+742,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,617,559,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+743,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,4,6,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+744,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,2,6,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+745,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,560,530,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+746,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,708,697,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+747,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,1,3,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+748,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,12,17,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+749,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,3,3,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+750,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,0,5,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+751,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,25,57,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+752,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,3,8,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+753,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10,10,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+754,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,677,677,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+755,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,172,382,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+756,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,9,9,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+757,9,2016-06-30,2016-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,12,17,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+517,9,2016-06-30,2016-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,0,167,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+518,9,2016-06-30,2016-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,0,6,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+519,9,2016-06-30,2016-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,0,172,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+520,9,2016-06-30,2016-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,0,172,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+514,9,2016-06-30,2016-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,0,3,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+515,9,2016-06-30,2016-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,0,1,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+516,9,2016-06-30,2016-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,0,212,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+758,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,3838,996,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+759,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,559,3,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+760,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,5956,7005,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+761,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,5843,7348,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+762,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,530,497,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+763,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,697,666,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+764,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,3,2,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+765,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,17424,16517,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+766,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,3424,3518,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+767,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,5003,4202,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+768,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,57,32,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+769,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,8483,7751,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+770,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+771,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,677,677,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+772,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,382,557,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+773,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8941,8765,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+774,9,2016-09-30,2016-09-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,17424,16517,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+521,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,106,222,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+529,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,339,499,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+530,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,43,58,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+531,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,382,557,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+532,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,382,557,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+533,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,382,557,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+522,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,16,35,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+523,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,90,187,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+524,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,13,20,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+525,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,3,6,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+526,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,10,14,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+527,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,0,2,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+528,9,2016-09-30,2016-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,439,702,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+775,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,996,1189,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+776,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,3,38,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+777,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7005,6618,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+778,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,7348,8759,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+779,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,497,466,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+780,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,666,622,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+781,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,2,4,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+782,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,16517,17774,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+783,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,3518,3349,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+784,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,4202,5702,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+785,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,32,40,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+786,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,7751,9091,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+787,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+788,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,677,677,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+789,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,557,640,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+790,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8765,8682,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+791,9,2016-12-31,2016-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,16517,17774,1,zba_bs_31.12.2016.pdf,Ziraat Bank,2026-03-18
+534,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,222,374,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+542,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,499,646,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+543,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,58,73,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+544,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,557,719,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+545,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,79,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+546,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,557,640,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+547,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,557,640,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+535,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,35,57,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+536,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,187,318,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+537,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,20,17,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+538,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,6,8,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+539,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,14,9,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+540,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,2,2,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+541,9,2016-12-31,2016-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,702,974,1,zba_is_31.12.2016.pdf,Ziraat Bank,2026-03-18
+650,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,1189,2099,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+651,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,38,130,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+652,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6618,6681,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+653,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,8759,11392,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+654,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,466,432,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+655,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,622,578,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+656,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,4,82,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+657,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,17774,21394,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+658,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,3349,5114,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+659,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,5702,7705,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+660,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,40,10,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+661,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,9091,12829,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+662,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+663,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,677,1318,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+664,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,640,117,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+665,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8682,8566,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+666,9,2017-03-31,2017-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,17774,21394,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+548,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,374,167,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+557,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,646,86,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+558,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,73,31,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+559,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,719,117,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+560,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,640,117,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+561,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,640,117,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+549,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,57,24,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+550,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,318,143,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+551,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,17,4,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+552,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,8,2,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+553,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,9,2,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+554,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,2,0,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+555,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+556,9,2017-03-31,2017-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,974,231,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+667,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,2099,1273,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+668,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,130,274,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+669,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6681,7003,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+670,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,11392,12088,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+671,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,432,403,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+672,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,578,535,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+673,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,82,84,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+674,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,21394,21659,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+675,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,5114,6452,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+676,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,7705,6704,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+677,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,10,36,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+678,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,12829,13192,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+679,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+680,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1318,1318,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+681,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,117,215,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+682,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8566,8467,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+683,9,2017-06-30,2017-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,21394,21659,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+562,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,167,375,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+571,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,86,180,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+572,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,31,35,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+573,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,117,215,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+574,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,117,215,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+575,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,117,215,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+563,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,24,60,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+564,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,143,314,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+565,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,4,11,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+566,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,2,6,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+567,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,2,5,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+568,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,0,0,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+569,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+570,9,2017-06-30,2017-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,231,500,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+684,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,1273,1476,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+685,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,274,524,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+686,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7003,7015,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+687,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,12088,12133,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+688,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,403,369,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+689,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,535,491,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+690,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,84,84,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+691,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,21659,22093,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+692,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,6452,3872,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+693,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,6704,9808,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+694,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,36,45,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+695,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,13192,13724,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+696,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+697,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1318,1318,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+698,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,215,314,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+699,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8467,8368,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+700,9,2017-09-30,2017-09-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,21659,22093,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+576,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,375,582,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+585,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,180,274,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+586,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,35,40,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+587,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,215,314,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+588,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,215,314,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+589,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,215,314,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+577,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,60,104,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+578,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,314,478,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+579,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,11,16,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+580,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,6,10,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+581,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,5,6,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+582,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,0,0,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+583,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,2,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+584,9,2017-09-30,2017-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,500,760,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+701,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,1476,1428,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+702,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,524,1078,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+703,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7015,6272,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+704,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,12133,14059,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+705,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,369,335,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+706,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,491,450,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+707,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,84,540,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+708,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,22093,24162,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+709,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,9808,10993,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+710,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,3872,4873,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+711,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,45,73,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+712,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,13724,15939,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+713,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+714,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1318,1318,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+715,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,314,459,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+716,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8368,8223,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+717,9,2017-12-31,2017-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,22093,24162,1,zba_bs_31.12.2017.pdf,Ziraat Bank,2026-03-18
+590,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,582,800,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+599,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,274,379,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+600,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,40,80,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+601,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,314,459,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+602,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,314,459,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+603,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,314,459,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+591,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,104,150,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+592,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,478,650,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+593,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,16,22,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+594,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,10,13,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+595,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,6,9,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+596,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,0,2,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+597,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,2,0,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+598,9,2017-12-31,2017-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,760,1041,1,zba_is_31.12.2017.pdf,Ziraat Bank,2026-03-18
+792,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,1428,1833,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+793,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1078,330,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+794,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6730,6912,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+795,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,14059,14077,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+796,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,335,345,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+797,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,450,406,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+798,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,131,133,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+799,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,24211,24036,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+800,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,8486,8964,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+801,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,7380,6808,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+802,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,77,72,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+803,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,15944,15845,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+804,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+805,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1318,1733,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+806,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,415,76,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+807,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8267,8192,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+808,9,2018-03-31,2018-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,24211,24036,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+129,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,792,238,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+137,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,384,75,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+138,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,80,0,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+139,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,464,76,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+140,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,415,76,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+141,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,415,76,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+130,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,154,44,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+131,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,637,194,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+132,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,31,6,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+133,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,13,2,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+134,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,18,3,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+135,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,2,3,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+136,9,2018-03-31,2018-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1041,275,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+809,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,1833,1990,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+810,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,330,1990,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+811,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6912,6345,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+812,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,14077,18487,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+813,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,345,443,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+814,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,406,362,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+815,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,133,802,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+816,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,24036,30419,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+817,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,8964,11998,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+818,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,6808,10305,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+819,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,72,72,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+820,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,15845,22375,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+821,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+822,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1733,1733,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+823,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,76,223,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+824,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8192,8044,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+825,9,2018-06-30,2018-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,24036,30419,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+142,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,238,511,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+151,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,75,178,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+152,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,0,45,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+153,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,76,223,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+154,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,76,223,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+155,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,76,223,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+143,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,44,107,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+144,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,194,404,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+145,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,6,14,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+146,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,2,6,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+147,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,3,8,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+148,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,3,0,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+149,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,1,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+150,9,2018-06-30,2018-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,275,592,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+826,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,1990,2617,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+827,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1990,837,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+828,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6345,6998,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+829,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,18487,29159,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+830,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,443,524,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+831,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,362,382,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+832,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,802,268,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+833,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,30419,40786,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+834,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,11998,13257,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+835,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,10305,19485,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+836,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,72,130,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+837,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,22375,32871,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+838,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+839,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1733,1733,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+840,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,223,353,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+841,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8044,7915,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+842,9,2018-09-30,2018-09-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,30419,40786,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+156,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,511,915,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+165,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,178,186,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+166,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,45,167,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+167,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,223,353,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+168,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,223,353,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+169,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,223,353,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+157,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,107,200,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+158,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,404,715,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+159,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,14,36,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+160,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,6,13,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+161,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,8,23,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+162,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,0,0,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+163,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,1,2,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+164,9,2018-09-30,2018-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,592,927,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+843,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,2617,2210,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+844,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,837,307,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+845,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6998,6851,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+846,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,29159,32388,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+847,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,524,847,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+848,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,382,362,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+849,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,268,234,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+850,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,40786,43200,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+851,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,13257,14922,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+852,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,19485,20395,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+853,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,130,73,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+854,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,32871,35390,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+855,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+856,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1733,1733,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+857,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,353,458,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+858,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,7915,7809,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+859,9,2018-12-31,2018-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,40786,43200,1,zba_bs_31.12.2018.pdf,Ziraat Bank,2026-03-18
+170,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,915,1440,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+179,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,186,238,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+180,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,167,276,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+181,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,353,514,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+182,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,56,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+183,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,353,458,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+184,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,353,458,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+171,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,200,335,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+172,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,715,1105,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+173,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,36,54,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+174,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,13,126,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+175,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,23,72,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+176,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,0,1,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+177,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,2,3,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+178,9,2018-12-31,2018-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,927,1275,1,zba_is_31.12.2018.pdf,Ziraat Bank,2026-03-18
+973,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,2210,7189,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+974,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,307,1738,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+975,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6851,6558,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+976,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,32388,34971,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+977,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,847,1238,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+978,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,362,301,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+979,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,234,224,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+980,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,43200,52220,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+981,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,17422,27135,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+982,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,6102,6218,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+983,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,11793,10501,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+984,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,73,570,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+985,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,35390,44425,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+986,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+987,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1733,2191,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+988,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,458,14,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+989,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,7809,7795,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+990,9,2019-03-31,2019-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,43200,52220,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+72,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,1440,586,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+81,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,238,8,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+82,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,276,22,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+83,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,514,14,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+84,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,458,14,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+85,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,458,14,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+73,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,335,165,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+74,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1105,421,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+75,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,54,17,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+76,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,126,36,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+77,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,72,19,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+78,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,1,0,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+79,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,3,1,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+80,9,2019-03-31,2019-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1275,395,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+991,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,7189,6479,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+992,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1738,350,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+993,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6558,7004,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+994,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,34971,40776,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+995,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1238,1145,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+996,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,301,240,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+997,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,224,232,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+998,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,52220,56226,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+999,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,27135,26432,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1000,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,6218,11082,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1001,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,10501,10504,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1002,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,570,506,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1003,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,44425,48523,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1004,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1005,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,2191,2191,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1006,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,14,106,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1007,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,7795,7703,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1008,9,2019-06-30,2019-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,52220,56226,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+86,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,586,1160,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+95,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,8,33,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+96,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,22,139,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+97,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,14,106,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+98,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,14,106,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+99,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,14,106,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+87,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,165,345,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+88,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,421,815,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+89,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,17,37,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+90,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,36,70,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+91,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,19,32,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+92,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,0,0,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+93,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,1,5,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+94,9,2019-06-30,2019-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,395,755,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1009,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,6479,5752,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1010,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,350,1370,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1011,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7004,6760,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1012,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,40776,43211,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1013,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1145,1101,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1014,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,240,225,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1015,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,232,239,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1016,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,56226,58658,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1017,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,26432,32640,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1018,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,11082,6853,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1019,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,10504,11004,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1020,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,506,336,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1021,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,48523,50834,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1022,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1023,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,2191,2191,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1024,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,106,15,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1025,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,7703,7824,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1026,9,2019-09-30,2019-09-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,56226,58658,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+100,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,1160,1959,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+109,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,33,193,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+110,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,139,178,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+111,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,106,15,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+112,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,106,15,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+113,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,106,15,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+101,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,345,556,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+102,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,815,1403,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+103,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,37,63,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+104,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,70,110,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+105,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,32,47,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+106,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,5,5,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+107,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+108,9,2019-09-30,2019-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,755,1168,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1027,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,5752,10399,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1028,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1370,1321,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1029,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6760,6600,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1030,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,43211,43854,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1031,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1101,1055,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1032,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,225,283,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1033,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,239,36,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1034,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,58658,63735,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1035,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,32640,39539,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1036,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,6853,16042,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1037,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,336,331,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1038,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,50834,55912,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1039,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1040,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,2191,2191,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1041,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,15,14,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1042,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,7824,7823,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1043,9,2019-12-31,2019-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,58658,63735,1,zba_bs_31.12.2019.pdf,Ziraat Bank,2026-03-18
+114,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,1959,2579,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+123,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,193,221,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+124,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,178,219,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+125,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,15,10,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+126,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,4,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+127,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,15,14,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+128,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,15,14,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+115,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,556,779,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+116,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1403,1800,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+117,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,63,188,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+118,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,110,154,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+119,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,47,34,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+120,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,5,8,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+121,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+122,9,2019-12-31,2019-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1168,1620,1,zba_is_31.12.2019.pdf,Ziraat Bank,2026-03-18
+1128,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,10399,7755,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1129,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1321,480,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1130,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6600,6943,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1131,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,43854,46714,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1132,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1055,1315,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1133,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,283,228,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1134,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,187,187,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1135,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,36,34,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1136,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,63735,63656,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1137,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,39539,44995,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1138,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,16042,4108,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1139,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,5504,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1140,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,331,693,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1141,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,55912,55300,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1142,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1143,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,2191,2177,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1144,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,14,368,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1145,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,7823,8356,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1146,9,2020-03-31,2020-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,63735,63656,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+216,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,2579,744,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+225,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,221,317,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+226,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,219,44,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+227,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,8,7,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+228,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,10,368,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+229,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,4,0,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+230,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,14,368,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+231,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+232,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,14,368,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+217,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,779,220,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+218,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1800,524,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+219,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,188,239,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+220,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,154,37,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+221,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,34,202,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+222,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,8,2,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+223,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,2,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+224,9,2020-03-31,2020-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1620,413,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1147,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,7755,7187,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1148,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,480,711,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1149,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6943,7001,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1150,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,46714,48328,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1151,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1315,1233,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1152,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,228,215,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1153,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,187,187,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1154,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,34,156,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1155,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,63656,65018,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1156,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,44995,43899,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1157,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,4108,6187,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1158,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,5504,5500,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1159,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,693,979,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1160,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,55300,56565,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1161,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1162,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,2177,2177,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1163,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,368,466,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1164,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,164,164,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1165,9,2020-06-30,2020-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8356,8453,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+233,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,744,1559,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+242,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,317,525,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+243,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,44,57,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+244,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,7,3,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+245,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,368,466,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+246,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+247,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,368,466,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+248,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+249,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,368,466,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+234,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,220,506,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+235,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,524,1053,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+236,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,239,368,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+237,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,37,81,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+238,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,202,287,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+239,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,2,7,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+240,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,2,2,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+241,9,2020-06-30,2020-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,413,823,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1166,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,7187,7688,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1167,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,711,683,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1168,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7001,7011,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1169,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,48328,49467,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1170,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1233,1148,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1171,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,215,228,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1172,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,187,187,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1173,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,156,81,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1174,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,65018,66493,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1175,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,43899,43392,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1176,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,6187,9213,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1177,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,5500,4551,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1178,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,979,593,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1179,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,56565,57748,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1180,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1181,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,2177,2177,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1182,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,466,758,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1183,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,164,164,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1184,9,2020-09-30,2020-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8453,8745,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+250,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,1559,2441,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+259,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,525,809,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+260,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,57,53,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+261,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,3,1,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+262,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,466,758,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+263,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+264,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,466,758,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+265,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+266,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,466,758,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+251,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,506,789,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+252,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1053,1652,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+253,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,368,492,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+254,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,81,118,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+255,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,287,375,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+256,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,7,10,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+257,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,2,2,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+258,9,2020-09-30,2020-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,823,1229,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1185,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,7688,8960,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1186,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,683,1024,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1187,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1188,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7011,6865,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1189,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,49467,56416,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1190,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1148,1838,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1191,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,228,278,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1192,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,187,187,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1193,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,81,283,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1194,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,66493,75852,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1195,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,43392,56755,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1196,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,9213,4189,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1197,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,4551,4553,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1198,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1199,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,593,1350,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1200,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,57748,66846,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1201,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1202,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,2177,2177,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1203,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,758,1018,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1204,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,164,164,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1205,9,2020-12-31,2020-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8745,9006,1,zba_bs_31.12.2020.pdf,Ziraat Bank,2026-03-18
+267,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,2441,3371,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+276,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,809,1135,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+277,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,53,114,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+278,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,1,3,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+279,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,758,1018,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+280,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+281,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,758,1018,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+282,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+283,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,758,1018,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+268,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,789,1080,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+269,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1652,2291,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+270,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,492,609,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+271,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,118,145,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+272,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,375,464,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+273,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,10,13,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+274,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,2,2,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+275,9,2020-12-31,2020-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1229,1634,1,zba_is_31.12.2020.pdf,Ziraat Bank,2026-03-18
+1044,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,8949,6407,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1045,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1022,1645,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1046,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1047,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6858,6974,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1048,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,56491,58658,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1049,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1526,1930,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1050,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,278,258,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1051,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,38,38,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1052,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,284,208,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1053,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,75446,76119,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1054,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,58483,58307,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1055,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,2460,4201,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1056,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,4553,3502,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1057,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1058,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1019,992,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1059,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,66514,67001,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1060,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1061,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,2067,1068,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1062,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,990,178,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1063,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,8,7,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1064,9,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,8932,9117,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+284,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,3371,1201,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+293,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,1153,533,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+294,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,39,351,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+295,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,0,4,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+296,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,1114,178,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+297,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+298,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,124,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+299,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,990,178,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+300,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,3,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+301,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,993,178,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+285,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,1080,305,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+286,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,2291,896,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+287,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,609,124,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+288,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,145,39,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+289,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,464,85,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+290,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,13,1,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+291,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+292,9,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1614,446,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1065,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,6407,6637,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1066,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1645,944,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1067,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1068,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6974,7005,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1069,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,58658,60521,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1070,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1930,1870,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1071,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,258,240,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1072,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,38,38,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1073,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,208,249,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1074,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,76119,77504,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1075,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,58307,58600,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1076,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,4201,4131,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1077,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,3502,4504,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1078,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1079,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,992,1199,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1080,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,67001,68435,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1081,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1082,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1068,1236,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1083,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,178,299,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1084,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,7,7,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1085,9,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,9117,9069,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+302,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,1201,2272,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+311,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,533,945,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+312,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,351,630,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+313,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,4,17,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+314,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,178,299,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+315,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+316,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+317,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,178,299,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+318,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+319,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,178,299,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+303,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,305,634,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+304,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,896,1638,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+305,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,124,254,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+306,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,39,79,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+307,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,85,175,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+308,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,1,3,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+309,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+310,9,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,446,871,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1086,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,6637,9461,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1087,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,944,982,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1088,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1089,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7005,7013,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1090,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,60521,64517,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1091,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1870,1787,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1092,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,240,222,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1093,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,38,38,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1094,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,249,166,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1095,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,77504,84186,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1096,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,58600,61770,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1097,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,4131,4130,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1098,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,4504,8017,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1099,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1100,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1199,973,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1101,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,68435,74890,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1102,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1103,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1236,1068,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1104,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,299,357,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1105,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,7,7,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1106,9,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,9069,9296,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+320,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,2272,3230,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+329,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,945,1135,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+330,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,630,770,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+331,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,17,8,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+332,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,299,357,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+333,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+334,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+335,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,299,357,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+336,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+337,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,299,357,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+321,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,634,1012,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+322,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1638,2218,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+323,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,254,391,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+324,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,79,122,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+325,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,175,269,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+326,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,3,6,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+327,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+328,9,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,871,1358,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1107,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,9461,7739,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1108,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,982,11378,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1109,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1110,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7013,7004,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1111,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,64517,65514,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1112,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1787,1731,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1113,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,222,206,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1114,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,38,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1115,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,166,280,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1116,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,84186,93851,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1117,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,61770,69870,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1118,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,4130,4034,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1119,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,8017,9545,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1120,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1121,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,973,905,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1122,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,74890,84354,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1123,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1124,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1068,1076,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1125,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,357,565,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1126,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,7,0,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1127,9,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,9296,9497,1,zba_bs_31.12.2021.pdf,Ziraat Bank,2026-03-18
+338,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,3230,4231,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+347,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,1135,1526,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+348,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,770,854,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+349,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,8,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+350,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,357,672,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+351,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,107,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+352,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+353,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,357,565,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+354,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+355,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,357,565,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+339,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,1012,1289,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+340,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,2218,2942,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+341,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,391,522,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+342,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,122,167,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+343,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,269,356,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+344,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,6,13,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+345,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+346,9,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1358,1784,1,zba_is_31.12.2021.pdf,Ziraat Bank,2026-03-18
+1206,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,7739,7467,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1207,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,11378,1403,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1208,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1209,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7004,7019,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1210,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,65514,66706,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1211,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1731,1625,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1212,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,206,189,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1213,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1214,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,280,201,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1215,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,93851,84610,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1216,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,69870,63791,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1217,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,4034,4006,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1218,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,9545,6064,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1219,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1220,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,905,925,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1221,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,84354,74786,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1222,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1223,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,8,7,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1224,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,1076,504,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1225,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,565,321,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1226,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1227,9,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,9497,9824,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+428,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,4231,1127,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+437,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,1526,591,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+438,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,854,268,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+439,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+440,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,672,323,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+441,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,107,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+442,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,2,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+443,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,565,321,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+444,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+445,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,565,321,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+429,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,1289,334,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+430,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,2942,792,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+431,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,522,121,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+432,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,167,41,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+433,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,356,80,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+434,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,13,3,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+435,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+436,9,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1784,285,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1228,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,7467,11498,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1229,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1403,2028,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1230,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1231,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7019,6115,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1232,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,66706,80419,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1233,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1625,1527,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1234,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,189,172,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1235,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1236,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,201,238,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1237,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,84610,101997,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1238,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,63791,75059,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1239,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,4006,16080,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1240,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,6064,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1241,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1242,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,925,853,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1243,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,74786,91992,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1244,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1245,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,7,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1246,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,504,504,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1247,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,321,509,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1248,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1249,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,9824,10005,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1250,9,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,45,aksionarëve,84610,101997,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+446,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,1127,2386,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+455,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,591,1131,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+456,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,268,582,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+457,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,2,3,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+458,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,321,546,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+459,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,37,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+460,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+461,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,321,509,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+462,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+463,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,321,509,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+447,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,334,693,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+448,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,792,1692,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+449,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,121,277,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+450,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,41,83,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+451,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,80,194,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+452,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,3,9,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+453,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+454,9,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,285,765,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1251,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,11498,10521,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1252,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,2028,1299,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1253,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1254,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6115,6121,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1255,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,80419,91457,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1256,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1527,1418,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1257,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,172,155,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1258,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1259,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,238,137,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1260,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,101997,111108,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1261,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,75059,76103,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1262,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,16080,24248,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1263,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1264,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1265,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,853,872,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1266,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,91992,101224,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1267,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,10000,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1268,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1269,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,504,504,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1270,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,509,389,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1271,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1272,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,10005,9885,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1273,9,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,45,aksionarëve,101997,111108,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+464,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,2386,3819,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+473,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,1131,1702,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+474,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,582,1254,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+475,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,3,4,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+476,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,546,445,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+477,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,37,56,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+478,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+479,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,509,389,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+480,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+481,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,509,389,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+465,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,693,1130,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+466,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1692,2689,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+467,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,277,405,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+468,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,83,136,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+469,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,194,269,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+470,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,9,16,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+471,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+472,9,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,765,1271,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1274,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,10521,11661,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1275,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1299,10690,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1276,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1277,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6121,6811,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1278,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,91457,95909,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1279,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1418,1415,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1280,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,155,139,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1281,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1282,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,137,128,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1283,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,111108,126752,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1284,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,76103,83566,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1285,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,24248,22258,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1286,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1287,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1288,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,872,699,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1289,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,101224,106522,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1290,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,10000,20000,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1291,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1292,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,504,504,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1293,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,389,734,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1294,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1295,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,9885,20230,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1296,9,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,45,aksionarëve,111108,126752,1,zba_bs_31.12.2022.pdf,Ziraat Bank,2026-03-18
+482,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,3819,5505,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+491,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,1702,1912,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+492,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,1254,1091,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+493,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,4,65,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+494,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,445,887,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+495,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,56,152,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+496,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+497,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,389,734,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+498,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+499,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,389,734,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+483,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,1130,1760,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+484,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,2689,3745,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+485,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,405,463,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+486,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,136,190,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+487,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,269,273,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+488,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,16,20,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+489,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+490,9,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1271,2125,1,zba_is_31.12.2022.pdf,Ziraat Bank,2026-03-18
+1297,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,11661,12448,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1298,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,10690,1579,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1299,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1300,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6811,5920,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1301,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,95909,93524,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1302,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1726,1624,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1303,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,139,164,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1304,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1305,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,184,121,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1306,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,127119,115381,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1307,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,83566,84605,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1308,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,22258,8892,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1309,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1310,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1311,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1076,1253,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1312,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,106899,94751,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1313,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,20000,20000,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1314,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1315,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,503,220,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1316,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,724,410,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1317,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1318,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,20220,20630,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1319,9,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,45,"Gjithsej detyrimet dhe ekuiteti i 
+aksionarëve",127119,115381,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+356,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,5212,1768,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+365,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,2002,654,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+366,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,1091,260,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+367,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,44,33,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+368,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,868,427,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+369,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,144,17,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+370,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+371,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,724,410,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+372,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+373,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,724,410,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+357,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,1466,543,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+358,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,3745,1225,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+359,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,463,56,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+360,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,190,59,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+361,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,273,4,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+362,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,20,1,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+363,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+364,9,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,2035,568,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1320,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,12448,8772,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1321,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,1579,3451,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1322,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1323,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,5920,3992,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1324,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,93524,97989,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1325,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1624,1512,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1326,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,164,146,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1327,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1328,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,121,106,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1329,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,115381,115967,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1330,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,84605,81731,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1331,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,8892,12370,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1332,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1333,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1334,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1253,1071,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1335,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,94751,95172,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1336,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,20000,20000,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1337,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1338,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,220,220,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1339,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,410,575,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1340,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1341,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,20630,20795,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1342,9,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,45,aksionarëve,115381,115967,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+374,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,1768,3381,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+383,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,654,1174,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+384,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,260,574,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+385,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,33,55,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+386,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,427,654,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+387,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,17,79,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+388,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+389,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,410,575,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+390,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+391,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,410,575,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+375,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,543,1039,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+376,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1225,2343,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+377,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,56,105,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+378,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,59,108,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+379,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,4,3,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+380,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,1,3,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+381,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+382,9,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,568,1170,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1343,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,8772,12535,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1344,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,3451,7202,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1345,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1346,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,3992,7019,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1347,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,97989,94755,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1348,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1512,2128,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1349,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,146,274,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1350,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1351,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,106,136,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1352,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,115967,124049,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1353,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,81731,78854,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1354,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,12370,23088,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1355,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1356,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1357,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1071,1205,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1358,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,95172,103147,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1359,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,20000,20000,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1360,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1361,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,220,220,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1362,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,575,682,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1363,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1364,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,20795,20902,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1365,9,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,45,aksionarëve,115967,124049,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+392,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,3381,5088,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+401,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,1174,1701,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+402,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,574,937,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+403,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,55,37,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+404,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,654,801,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+405,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,79,119,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+406,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+407,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,575,682,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+408,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+409,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,575,682,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+393,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,1039,1611,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+394,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,2343,3477,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+395,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,105,155,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+396,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,108,160,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+397,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,3,5,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+398,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,3,7,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+399,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0,1,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+400,9,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1170,1779,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1366,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,12535,21624,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1367,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,7202,823,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1370,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7019,7052,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1368,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,25,Plasmanet ne Institucionet kreditore,0,4004,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1369,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,94755,91457,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1371,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,2128,2228,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1372,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,274,282,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1373,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,136,136,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1374,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,124049,127605,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1376,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,78854,73566,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1375,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,23088,30172,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1377,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1205,1063,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1378,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,103147,104801,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1379,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,20000,25000,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1380,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,220,220,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1381,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,682,2416,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1382,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,20902,22804,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+1383,9,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,45,aksionarëve,124049,127605,1,zba_bs_31.12.2023.pdf,Ziraat Bank,2026-03-18
+410,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,5088,6850,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+419,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,1701,2201,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+420,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,937,4467,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+421,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,37,4,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+422,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,801,2270,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+423,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,119,146,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+424,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+425,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,682,2416,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+426,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+427,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,682,2416,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+411,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,1611,2302,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+412,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,3477,4549,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+413,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,155,275,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+414,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,160,214,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+415,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,5,61,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+416,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,7,17,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+417,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,1,1,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+418,9,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1779,2426,1,zba_is_31.12.2023.pdf,Ziraat Bank,2026-03-18
+860,9,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur,0,1738,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+188,9,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,0,523,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+189,9,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,0,74,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+185,9,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,0,2125,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+186,9,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,0,181,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+187,9,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,0,1674,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+861,9,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur,0,1738,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+193,9,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,0,36,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+190,9,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,0,1318,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+191,9,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,0,115,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+192,9,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,0,1601,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+862,9,2024-09-30,2024-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur,0,1738,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+198,9,2024-09-30,2024-09-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,0,5,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+194,9,2024-09-30,2024-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,0,648,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+195,9,2024-09-30,2024-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,0,62,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+196,9,2024-09-30,2024-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,0,3,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+197,9,2024-09-30,2024-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,0,819,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+863,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,21624,10348,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+864,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,823,2488,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+867,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7052,7031,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+865,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,25,Plasmanet ne Institucionet kreditore,4004,3004,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+866,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,91743,92334,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+868,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1343,2291,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+869,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,282,281,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+870,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,213,213,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+871,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,1096,255,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+872,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,128179,118246,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+874,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,73555,81859,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+873,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,3030,11664,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+875,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1191,1177,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+876,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,104918,94700,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+877,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,25000,25000,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+878,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur,220,1738,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+879,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) i vitit aktual,1959,284,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+880,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,23262,23545,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+881,9,2024-12-31,2024-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej ekuiteti dhe detyrimet,128179,118246,1,zba_bs_31.12.2024.pdf,Ziraat Bank,2026-03-18
+199,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,6583,1568,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+207,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,2123,105,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+208,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,4171,184,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+209,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,5,5,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+210,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,2053,284,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+211,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+212,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,94,0,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+213,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,1959,284,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+214,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+215,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,1959,284,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+200,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,2111,648,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+201,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,4472,920,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+202,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,349,60,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+203,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,214,62,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+204,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,134,3,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+205,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,80,Neto të hyrat tjera,79,6,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+206,9,2024-12-31,2024-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,2563,819,1,zba_is_31.12.2024.pdf,Ziraat Bank,2026-03-18
+883,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,19999,30823,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+884,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,783,1240,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+887,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6670,6321,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+885,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,25,Plasmanet ne Institucionet kreditore,0,4000,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+886,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,103194,100315,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+888,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,1839,1743,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+889,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,333,350,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+890,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,123,123,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+891,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,689,729,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+892,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,133629,145642,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+894,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,98608,106654,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+893,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,9007,14057,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+895,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+896,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+897,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1024,1030,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+898,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,108640,121742,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+899,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,25000,25000,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+900,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+901,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur,951,951,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+902,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) i vitit aktual,962,2051,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+903,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+904,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,24989,23900,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+905,9,2025-03-31,2025-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej ekuiteti dhe detyrimet,133629,145642,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+1,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,6164,8007,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+9,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,962,773,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+10,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,2001,3261,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+11,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,76,437,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+12,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,962,2051,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+13,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+14,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+15,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,962,2051,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+16,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+17,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,962,2051,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+2,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,2643,3489,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+3,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,3521,4518,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+4,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,329,451,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+5,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,348,591,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+6,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,19,139,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+7,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,80,Neto të hyrat tjera,65,159,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+8,9,2025-03-31,2025-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,2605,3764,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+907,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,17603,19999,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+908,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,14083,783,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+911,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6454,6670,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+909,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,25,Plasmanet ne Institucionet kreditore,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+910,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,100917,103194,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+912,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,2002,1839,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+913,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,317,333,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+914,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,123,123,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+915,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,649,689,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+916,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,142147,133629,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+918,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,99365,98608,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+917,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,17010,9007,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+919,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+920,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+921,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1057,1024,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+922,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,117432,108640,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+923,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,25000,25000,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+924,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+925,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur,951,951,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+926,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) i vitit aktual,1236,962,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+927,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+928,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,24715,24989,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+929,9,2025-06-30,2025-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej ekuiteti dhe detyrimet,142147,133629,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+19,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,4200,6164,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+27,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,680,962,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+28,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,1847,2001,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+29,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,69,76,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+30,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,1236,962,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+31,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+32,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+33,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,1236,962,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+34,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+35,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,1236,962,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+20,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,1847,2643,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+21,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,2353,3521,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+22,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,202,329,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+23,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,206,348,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+24,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,4,19,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+25,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,80,Neto të hyrat tjera,37,65,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+26,9,2025-06-30,2025-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,1705,2605,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+931,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,14676,17603,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+932,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,7349,14083,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+935,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,6416,6454,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+933,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,25,Plasmanet ne Institucionet kreditore,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+934,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,109754,100917,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+936,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,2131,2002,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+937,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,312,317,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+938,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,123,123,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+939,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,695,649,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+940,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,141456,142147,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+942,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,101497,99365,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+941,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,17579,17010,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+943,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+944,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+945,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1197,1057,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+946,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,120274,117432,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+947,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,25000,25000,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+948,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+949,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur,3187,951,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+950,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) i vitit aktual,631,1236,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+951,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0,0,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+952,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,21182,24715,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+953,9,2025-09-30,2025-09-30,BALANCE_SHEET,BALANCE,45,Gjithsej ekuiteti dhe detyrimet,141456,142147,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+37,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,2141,4200,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+45,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,370,680,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+46,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,1025,1847,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+47,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,13,Provizionet tjera,54,69,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+48,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,601,1236,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+49,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,30,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+50,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+51,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,631,1236,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+52,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+53,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,631,1236,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+38,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,966,1847,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+39,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,1175,2353,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+40,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,87,202,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+41,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,98,206,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+42,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,11,4,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+43,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,80,Neto të hyrat tjera,18,37,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+44,9,2025-09-30,2025-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,813,1705,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+955,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,16098,14676,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+956,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,958,7349,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+958,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,7006,6416,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+957,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,117517,109754,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+959,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,2134,2131,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+960,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,316,312,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+961,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,123,123,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+962,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,621,695,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+963,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,154776,141456,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+965,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,102835,101497,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+964,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,28916,17579,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+966,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,1212,1197,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+967,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,132963,120274,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+968,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,25000,25000,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+969,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur,1738,3187,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+970,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) i vitit aktual,1448,631,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+971,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,21813,21182,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+972,9,2025-12-31,2025-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej ekuiteti dhe detyrimet,154776,141456,1,zba_bs_31.12.2025.pdf,Ziraat Bank,2026-03-18
+55,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,7351,2141,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+63,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,1175,370,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+64,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,12,Provizionet për humbjet nga kreditë,2271,1025,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+65,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,13,Provizionet tjera,382,54,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+66,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,1477,601,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+67,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,29,30,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+68,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit të shtyer,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+69,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,1448,631,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+70,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0,0,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+71,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,1448,631,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+56,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,3054,966,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+57,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,4297,1175,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+58,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,479,87,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+59,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,353,98,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+60,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,126,11,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+61,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,80,Neto të hyrat tjera,150,18,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
+62,9,2025-12-31,2025-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,3396,813,1,zba_is_31.12.2025.pdf,Ziraat Bank,2026-03-18
