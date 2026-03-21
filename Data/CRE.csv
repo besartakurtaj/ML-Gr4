@@ -1,0 +1,552 @@
+,BANK_ID,REPORT_DATE,DT_REPORT,STATEMENT_TYPE,CATEGORY_TYPE,CATEGORY_CODE,ORIGINAL_CATEGORY,PREVIOUS_VALUE,CURRENT_VALUE,CURR_ID,FILE_NAME,DATA_SOURCE,EXTRACTION_DATE
+344,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në,8031.0,8137.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+345,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave,0.0,0.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+346,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,22,Bonot e thesarit,0.0,0.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+347,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë,0.0,763.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+348,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve,6.0,722.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+349,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet,2070.0,2040.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+350,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme,0.0,0.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+351,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra,0.0,0.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+352,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera,1689.0,1774.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+353,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë,11796.0,13436.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+355,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve,240.0,2100.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+356,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave,0.0,0.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+357,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,34,Fondet tjera të huazuara,0.0,0.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+358,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra,0.0,0.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+359,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera,3867.0,4036.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+360,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet,4107.0,6136.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+362,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar,8000.0,8000.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+363,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,40,Rezervat e kapitalit,0.0,0.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+364,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake,0.0,-311.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+365,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual,-311.0,-392.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+366,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit,0.0,3.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+367,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve,7689.0,7300.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+368,11,2021-03-31,2021-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve,11796.0,13436.0,1,cre_bs_31.03.2021.xlsx,Credins Bank,2026-03-18
+60,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi,0.0,3.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+69,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat,-311.0,-380.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+70,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë,-0.0,-12.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+71,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit,-311.0,-392.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+72,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,15,Shpenzimet e tatimit në fitim,-0.0,0.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+73,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto,-311.0,-392.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+74,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse,0.0,0.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+75,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse,-311.0,-392.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+61,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit,-26.0,-35.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+62,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi,-26.0,-32.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+63,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet,0.0,4.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+64,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve,-0.0,0.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+65,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet,0.0,4.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+66,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi,0.0,0.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+67,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare,0.0,0.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+68,11,2021-03-31,2021-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative,-285.0,-351.0,1,cre_is_31.03.2021.xlsx,Credins Bank,2026-03-18
+456,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,8031.0,3805.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+457,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,107.0,3868.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+459,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,763.0,2798.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+460,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,722.0,3601.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+461,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,1998.0,1989.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+462,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,0.0,40.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+463,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+464,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,1816.0,1828.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+465,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,13436.0,17928.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+467,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,2100.0,6946.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+468,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,0.0,0.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+470,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,0.0,0.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+471,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,4036.0,1774.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+472,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,6136.0,8720.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+474,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,8000.0,10130.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+475,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,0.0,170.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+477,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-311.0,-311.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+478,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-392.0,-810.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+479,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,3.0,29.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+480,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,7300.0,9208.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+481,11,2021-06-30,2021-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,13436.0,17928.0,1,cre_bs_30.06.2021.xlsx,Credins Bank,2026-03-18
+131,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,3.0,31.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+140,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-380.0,-736.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+141,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-12.0,-74.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+142,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-392.0,-810.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+143,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+144,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-392.0,-810.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+145,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,3.0,29.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+146,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-389.0,-781.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+132,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-35.0,-78.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+133,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,-32.0,-47.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+134,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,2.0,10.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+135,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-0.0,-8.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+136,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,2.0,3.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+137,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,0.0,1.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+138,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,1.0,14.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+139,11,2021-06-30,2021-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-351.0,-707.0,1,cre_is_30.06.2021.xlsx,Credins Bank,2026-03-18
+259,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,3805.0,5952.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+260,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,3868.0,2036.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+262,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,2798.0,4893.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+263,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,3601.0,5878.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+264,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,1989.0,2177.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+265,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,40.0,173.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+266,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+267,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,1828.0,1944.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+268,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,17928.0,23053.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+270,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,6946.0,11709.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+271,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,0.0,0.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+273,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,0.0,0.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+274,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,1774.0,1909.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+275,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,8720.0,13618.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+277,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,10130.0,10652.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+278,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,170.0,223.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+280,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-311.0,-311.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+281,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-810.0,-1198.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+282,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,29.0,70.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+283,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,9208.0,9435.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+284,11,2021-09-30,2021-09-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,17928.0,23053.0,1,cre_bs_30.09.2021.xlsx,Credins Bank,2026-03-18
+1,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,31.0,108.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+10,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-736.0,-1050.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+11,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-74.0,-148.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+12,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-810.0,-1198.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+13,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+14,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-810.0,-1198.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+15,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,29.0,70.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+16,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-781.0,-1128.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+2,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-78.0,-134.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+3,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,-47.0,-26.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+4,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,10.0,24.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+5,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-8.0,-19.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+6,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,3.0,5.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+7,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,1.0,2.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+8,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,14.0,43.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+9,11,2021-09-30,2021-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-707.0,-1074.0,1,cre_is_30.09.2021.xlsx,Credins Bank,2026-03-18
+540,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,5952.0,4583.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+541,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,2036.0,1133.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+543,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,4893.0,4922.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+544,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,5878.0,10767.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+545,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2177.0,2655.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+546,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,173.0,500.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+547,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+548,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,1944.0,1962.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+549,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,23053.0,26521.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+551,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,11709.0,13548.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+552,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,0.0,2002.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+554,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,0.0,0.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+555,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,1909.0,1987.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+556,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,13618.0,17537.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+558,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,10652.0,10652.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+559,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,223.0,223.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+561,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-311.0,-311.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+562,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-1198.0,-1669.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+563,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,70.0,90.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+564,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,9435.0,8984.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+565,11,2021-12-31,2021-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,23053.0,26521.0,1,cre_bs_31.12.2021.xlsx,Credins Bank,2026-03-18
+183,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,108.0,229.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+192,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-1050.0,-1418.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+193,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-148.0,-251.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+194,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-1198.0,-1669.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+195,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+196,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-1198.0,-1669.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+197,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,70.0,90.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+198,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-1128.0,-1579.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+184,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-134.0,-191.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+185,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,-26.0,38.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+186,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,24.0,45.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+187,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-19.0,-47.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+188,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,5.0,-2.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+189,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,2.0,3.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+190,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,43.0,80.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+191,11,2021-12-31,2021-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-1074.0,-1537.0,1,cre_is_31.12.2021.xlsx,Credins Bank,2026-03-18
+512,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,4583.0,3836.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+513,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,1133.0,1198.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+515,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,4922.0,5311.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+516,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,10767.0,15889.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+517,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2655.0,2832.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+518,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,500.0,526.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+519,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+520,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,1962.0,2477.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+521,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,26521.0,32069.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+523,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,13548.0,19095.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+524,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,2002.0,2005.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+526,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,0.0,0.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+527,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,1987.0,2478.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+528,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,17537.0,23578.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+530,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,10652.0,10652.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+531,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,223.0,223.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+533,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-311.0,-1980.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+534,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-1669.0,-508.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+535,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,90.0,105.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+536,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,8984.0,8491.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+537,11,2022-03-31,2022-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,26521.0,32069.0,1,cre_bs_31.03.2022.xlsx,Credins Bank,2026-03-18
+166,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,229.0,190.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+175,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-1418.0,-375.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+176,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-251.0,-133.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+177,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-1669.0,-508.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+178,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+179,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-1669.0,-508.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+180,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,90.0,90.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+181,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-1579.0,-418.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+167,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-191.0,-77.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+168,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,38.0,113.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+169,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,45.0,34.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+170,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-47.0,-18.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+171,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,-2.0,16.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+172,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,3.0,2.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+173,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,80.0,38.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+174,11,2022-03-31,2022-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-1537.0,-544.0,1,cre_is_31.03.2022.xlsx,Credins Bank,2026-03-18
+400,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,3836.0,10302.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+401,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,1198.0,1322.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+403,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,5311.0,5473.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+404,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,15889.0,21460.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+405,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2832.0,2869.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+406,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,526.0,523.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+407,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+408,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,2477.0,2739.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+409,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,32069.0,44688.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+411,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,19095.0,29837.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+412,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,2005.0,4153.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+414,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,9.0,9.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+415,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,2478.0,2611.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+416,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,23587.0,36610.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+418,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,10652.0,10757.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+419,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,223.0,233.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+421,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-1980.0,-1980.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+422,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-508.0,-982.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+423,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,96.0,50.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+424,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,8482.0,8078.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+425,11,2022-06-30,2022-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,32069.0,44688.0,1,cre_bs_30.06.2022.xlsx,Credins Bank,2026-03-18
+95,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,190.0,470.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+104,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-375.0,-718.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+105,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-133.0,-264.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+106,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-508.0,-982.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+107,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+108,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-508.0,-982.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+109,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,90.0,90.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+110,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",-9.0,-9.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+111,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-427.0,-901.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+96,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-77.0,-159.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+97,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,113.0,311.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+98,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,34.0,81.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+99,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-18.0,-39.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+100,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,16.0,42.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+101,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,2.0,3.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+102,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,38.0,80.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+103,11,2022-06-30,2022-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-544.0,-1154.0,1,cre_is_30.06.2022.xlsx,Credins Bank,2026-03-18
+624,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,10302.0,11993.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+625,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,1322.0,2216.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+627,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,5473.0,6098.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+628,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,21460.0,28321.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+629,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2869.0,2889.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+630,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,523.0,611.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+631,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+632,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,2739.0,3757.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+633,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,44688.0,55884.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+635,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,29837.0,41272.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+636,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,4153.0,3013.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+638,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,9.0,9.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+639,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,2611.0,2536.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+640,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,36610.0,46830.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+642,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,10757.0,12057.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+643,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,233.0,363.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+645,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-1980.0,-1980.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+646,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-982.0,-1469.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+647,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,50.0,83.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+648,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,8078.0,9054.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+649,11,2022-09-30,2022-09-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,44688.0,55884.0,1,cre_bs_30.09.2022.xlsx,Credins Bank,2026-03-18
+240,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,470.0,861.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+249,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-718.0,-1009.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+250,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-264.0,-460.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+251,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-982.0,-1469.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+252,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+253,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-982.0,-1469.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+254,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,90.0,93.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+255,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",-9.0,-9.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+256,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-901.0,-1385.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+241,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-159.0,-270.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+242,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,311.0,591.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+243,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,81.0,138.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+244,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-39.0,-78.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+245,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,42.0,59.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+246,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,3.0,3.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+247,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,80.0,127.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+248,11,2022-09-30,2022-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-1154.0,-1790.0,1,cre_is_30.09.2022.xlsx,Credins Bank,2026-03-18
+316,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,11993.0,10312.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+317,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,2216.0,2054.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+319,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,6098.0,6128.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+320,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,28321.0,35071.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+321,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2889.0,2977.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+322,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,611.0,617.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+323,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+324,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,3757.0,2837.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+325,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,55884.0,59996.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+327,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,41272.0,48885.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+328,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,3013.0,0.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+330,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,9.0,11.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+331,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,2536.0,2504.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+332,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,46830.0,51400.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+334,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,12057.0,12057.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+335,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,363.0,363.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+337,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-1980.0,-1980.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+338,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-1469.0,-1940.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+339,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,83.0,97.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+340,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,9054.0,8596.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+341,11,2022-12-31,2022-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,55884.0,59996.0,1,cre_bs_31.12.2022.xlsx,Credins Bank,2026-03-18
+42,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,861.0,1366.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+51,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-1009.0,-1277.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+52,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-460.0,-663.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+53,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-1469.0,-1940.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+54,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+55,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-1469.0,-1940.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+56,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,93.0,108.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+57,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",-9.0,-11.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+58,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-1385.0,-1843.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+43,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-270.0,-442.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+44,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,591.0,924.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+45,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,138.0,213.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+46,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-78.0,-143.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+47,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,59.0,71.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+48,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,3.0,-1.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+49,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,127.0,173.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+50,11,2022-12-31,2022-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-1790.0,-2444.0,1,cre_is_31.12.2022.xlsx,Credins Bank,2026-03-18
+484,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,10312.0,6987.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+485,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,2054.0,617.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+487,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,6128.0,6025.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+488,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,35071.0,43132.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+489,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2977.0,2912.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+490,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,617.0,605.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+491,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+492,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,2837.0,3327.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+493,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,59996.0,63605.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+495,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,48885.0,50831.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+496,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,0.0,501.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+498,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,11.0,2.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+499,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,2504.0,4153.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+500,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,51400.0,55486.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+502,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,12057.0,12057.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+503,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,363.0,363.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+505,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-1980.0,-3920.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+506,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-1940.0,-396.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+507,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,97.0,16.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+508,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,8596.0,8119.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+509,11,2023-03-31,2023-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,59996.0,63605.0,1,cre_bs_31.03.2023.xlsx,Credins Bank,2026-03-18
+148,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,1366.0,640.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+157,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-1277.0,-175.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+158,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-663.0,-222.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+159,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-1940.0,-396.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+160,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+161,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-1940.0,-396.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+162,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,108.0,18.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+163,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",-11.0,-2.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+164,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-1843.0,-380.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+149,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-442.0,-275.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+150,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,924.0,366.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+151,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,213.0,70.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+152,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-143.0,-30.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+153,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,71.0,40.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+154,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,-1.0,20.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+155,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,173.0,47.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+156,11,2023-03-31,2023-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-2444.0,-647.0,1,cre_is_31.03.2023.xlsx,Credins Bank,2026-03-18
+371,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,6987.0,8134.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+372,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,617.0,733.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+374,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,6025.0,6053.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+375,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,43132.0,48374.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+376,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2912.0,2779.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+377,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,605.0,618.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+378,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+379,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,3327.0,3368.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+380,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,63605.0,70058.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+382,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,50831.0,45931.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+383,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,501.0,12546.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+385,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,2.0,3.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+386,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,4153.0,2896.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+387,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,55486.0,61376.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+389,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,12057.0,12881.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+390,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,363.0,363.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+392,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-3920.0,-3920.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+393,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-396.0,-669.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+394,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,16.0,27.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+395,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,8119.0,8682.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+396,11,2023-06-30,2023-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,63605.0,70058.0,1,cre_bs_30.06.2023.xlsx,Credins Bank,2026-03-18
+77,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,640.0,1462.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+86,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-175.0,-268.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+87,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-222.0,-401.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+88,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-396.0,-669.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+89,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+90,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-396.0,-669.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+91,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,18.0,30.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+92,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",-2.0,-3.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+93,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-380.0,-642.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+78,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-275.0,-544.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+79,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,366.0,918.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+80,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,70.0,156.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+81,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-30.0,-70.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+82,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,40.0,86.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+83,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,20.0,26.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+84,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,47.0,94.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+85,11,2023-06-30,2023-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-647.0,-1392.0,1,cre_is_30.06.2023.xlsx,Credins Bank,2026-03-18
+568,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,8134.0,6031.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+569,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,733.0,1764.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+571,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,6053.0,6035.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+572,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,48374.0,52215.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+573,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2779.0,2833.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+574,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,618.0,609.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+575,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+576,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,3368.0,3032.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+577,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,70058.0,72519.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+579,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,45931.0,48665.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+580,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,12546.0,12582.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+582,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,3.0,3.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+583,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,2896.0,2873.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+584,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,61376.0,64122.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+586,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,12881.0,12881.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+587,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,363.0,363.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+589,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-3920.0,-3920.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+590,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-669.0,-949.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+591,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,27.0,23.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+592,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,8682.0,8397.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+593,11,2023-09-30,2023-09-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,70058.0,72519.0,1,cre_bs_30.09.2023.xlsx,Credins Bank,2026-03-18
+201,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,1462.0,2345.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+210,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-268.0,-399.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+211,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-401.0,-550.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+212,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-669.0,-949.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+213,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+214,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-669.0,-949.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+215,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,30.0,25.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+216,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",-3.0,-3.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+217,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-642.0,-927.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+202,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-544.0,-914.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+203,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,918.0,1431.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+204,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,156.0,265.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+205,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-70.0,-108.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+206,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,86.0,156.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+207,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,26.0,15.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+208,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,94.0,141.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+209,11,2023-09-30,2023-09-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-1392.0,-2143.0,1,cre_is_30.09.2023.xlsx,Credins Bank,2026-03-18
+428,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,6031.0,6565.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+429,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,1764.0,902.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+431,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,6035.0,5995.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+432,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,52215.0,58100.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+433,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2833.0,2765.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+434,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,609.0,780.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+435,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,286.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+436,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,3032.0,3675.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+437,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,72519.0,79069.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+439,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,48665.0,47753.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+440,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,12582.0,18057.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+442,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,3.0,1.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+443,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,2873.0,3474.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+444,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,64122.0,69284.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+446,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,12881.0,12881.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+447,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,363.0,363.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+449,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-3920.0,-3594.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+450,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-949.0,128.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+451,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,23.0,7.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+452,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,8397.0,9785.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+453,11,2023-12-31,2023-12-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,72519.0,79069.0,1,cre_bs_31.12.2023.xlsx,Credins Bank,2026-03-18
+113,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,2345.0,3372.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+122,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-399.0,-414.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+123,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-550.0,582.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+124,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-949.0,168.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+125,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,-40.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+126,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-949.0,128.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+127,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,25.0,8.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+128,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",-3.0,-1.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+129,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-927.0,135.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+114,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-914.0,-1312.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+115,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,1431.0,2060.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+116,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,265.0,410.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+117,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-108.0,-161.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+118,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,156.0,248.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+119,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,15.0,45.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+120,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,141.0,188.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+121,11,2023-12-31,2023-12-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-2143.0,-2956.0,1,cre_is_31.12.2023.xlsx,Credins Bank,2026-03-18
+596,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,5620.0,7243.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+597,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,1857.0,2124.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+599,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,6010.0,6013.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+600,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,57934.0,61417.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+601,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2752.0,2860.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+602,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,780.0,766.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+603,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+604,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,3037.0,3147.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+605,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,77989.0,83570.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+607,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,47753.0,53748.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+608,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,18057.0,17593.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+610,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,1.0,0.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+611,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,2811.0,2990.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+612,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,68622.0,74331.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+614,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,12881.0,12881.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+615,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,363.0,363.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+617,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-3920.0,-3883.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+618,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,37.0,-102.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+619,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,7.0,-19.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+620,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,9368.0,9239.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+621,11,2024-03-31,2024-03-31,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,77989.0,83570.0,1,cre_bs_31.03.2024.xlsx,Credins Bank,2026-03-18
+222,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,3372.0,1059.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+231,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-426.0,-92.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+232,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,463.0,-10.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+233,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,37.0,-102.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+234,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+235,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),37.0,-102.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+236,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,-90.0,-26.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+237,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",0.0,0.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+238,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-53.0,-129.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+223,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-1312.0,-478.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+224,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,2060.0,582.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+225,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,423.0,122.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+226,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-159.0,-32.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+227,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,264.0,90.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+228,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,45.0,-12.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+229,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,188.0,48.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+230,11,2024-03-31,2024-03-31,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-2983.0,-800.0,1,cre_is_31.03.2024.xlsx,Credins Bank,2026-03-18
+288,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,20,Paraja e gatshme dhe gjendja me BQK-në/ Cash and balances with CBK/ Bilans gotovine sa CBK,7243.0,10090.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+289,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,21,Kërkesat ndaj bankave/ Claims on banks/ Potraživanja bankama,2124.0,1119.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+291,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,23,Investimet në letra me vlerë/ Investment Securities/ Hartije od vrednosti,6013.0,5932.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+292,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,26,Kreditë dhe paradhëniet ndaj klientëve/ Loans and advances to customers/ Plasmani klijentima,61417.0,64052.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+293,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,27,Patundshmëritë dhe pajisjet/ Property and equipment/ Imovina I oprema,2860.0,2867.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+294,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,28,Pasuritë e paprekshme/ Intangible assets/ Nematerijalna aktiva,766.0,784.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+295,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,29,Pasuritë tatimore të shtyra/ Deferred tax assets/ Odložena poreska sredstva,0.0,0.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+296,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,30,Pasuritë tjera/ Other assets/ Ostala aktiva,3147.0,3116.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+297,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,31,Gjithsej pasuritë/ Total assets/ Ukupna aktiva,83570.0,87961.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+299,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,32,Depozitat e klientëve/ Customer deposits/ Depoziti klijenata,53748.0,55772.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+300,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,33,Detyrimet ndaj bankave/ Due to banks/ Obaveze prema banci,17593.0,20567.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+302,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,35,Detyrimet tatimore të shtyra/ Deferred tax liabilities/ Odlozene poreske obaveze,0.0,0.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+303,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,36,Detyrimet tjera/ Other liabilities/ Druge obaveze ,2990.0,2743.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+304,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,37,Gjithsej detyrimet/ Total liabilities/ Ukupne obaveze ,74331.0,79082.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+306,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,38,Kapitali aksionar/ Share capital/ Deoničarske akcize,12881.0,12881.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+307,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,39,Primi I aksioneve/ Share premium/ Akcionarska premija,363.0,363.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+309,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,41,Fitimi i mbajtur/(humbja) nga vitet paraprake/ Retained profit/loss from previous years/ Nerasporedena dobit/gubitak iz prethodnih godina,-3883.0,-3883.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+310,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,42,Fitimi/(humbja) e vitit aktual/ current year profit/loss/ gubitak iz prethodnih godina,-102.0,-348.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+311,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,43,Përbërësit tjerë të ekuitetit/ Other equity capital components/ Ostale komponente akcijskog kapitala ,-19.0,-134.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+312,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,44,Gjithsej ekuiteti i aksionarëve/ Total shareholder's equity/ Ukupni kapital deoničara,9239.0,8879.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+313,11,2024-06-30,2024-06-30,BALANCE_SHEET,BALANCE,45,Gjithsej detyrimet dhe ekuiteti i aksionarëve/ Total liabilities and shareholder's equity/ Ukupne obaveze i kapital deoničara,83570.0,87961.0,1,cre_bs_30.06.2024.xlsx,Credins Bank,2026-03-18
+24,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,1,Të hyrat nga interesi/ interest income/ kamatni prihod,1059.0,2229.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+33,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,10,Gjithsej të hyrat/ Total income / Ukupna dobit,-92.0,-178.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+34,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,11,Provizionet për humbjet nga kreditë/ Impairment losses on loans/ Gubici na problematičnim kreditima,-10.0,-170.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+35,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,14,Fitimi/(humbja) para tatimit/ Profit/(loss) before taxation/Profit / (gubitak) pre oporezivanja,-102.0,-348.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+36,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,15,"Shpenzimet e tatimit në fitim/ Income tax expense/
+Izdvajanja za porez na dohodak",0.0,0.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+37,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,16,Fitimi/(humbja) neto/ Net profit/(loss)/ Neto profit /(gubitak),-102.0,-348.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+38,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,17,Të ardhurat tjera gjithëpërfshirëse/ Other comprehensive income/ Drugi sveobuhvatni prihod,-26.0,-141.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+39,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,18,"Tatimi në fitim/ Income tax/
+Porez na dohodak",0.0,0.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+40,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,19,Gjithsej të ardhurat gjithëpërfshirëse/ Total comprehensive income/(loss)/ Ukupni sveobuhvatni prihod/(gubitak),-129.0,-489.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+25,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,2,Shpenzimet e interesit/ interest expense/ kamatni rashod,-478.0,-998.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+26,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,3,Neto të hyrat nga interesi/ net interest income/ neto kamatni prihod,582.0,1231.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+27,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,4,Të hyrat nga tarifat dhe komisionet/ Fee and commission income/ Prihod od naknada i provizija,122.0,241.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+28,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,5,Shpenzimet e tarifave dhe komisioneve/ Fee and commission expense/ Rashod od naknada i provizija,-32.0,-75.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+29,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,6,Neto të hyrat nga tarifat dhe komisionet/ Net fee and commission income/ Neto dobitak na ime naknada i provizija,90.0,167.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+30,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,7,Neto të hyrat nga tregtimi/ Net trading profit/ Neto profit od trgovanja,-12.0,-12.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+31,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,8,Neto të hyrat nga instrumentet tjera financiare/ Net income from other financial instruments/ Neto prihod iz drugih finansijskih instrumenata,48.0,100.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
+32,11,2024-06-30,2024-06-30,INCOME_STATEMENT,INCOME,9,Neto të hyrat (shpenzimet) tjera operative/ Net other operating income (expense) / Drugi neto operativni prihod (rashod),-800.0,-1664.0,1,cre_is_30.06.2024.xlsx,Credins Bank,2026-03-18
