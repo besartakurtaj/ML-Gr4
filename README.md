@@ -9,6 +9,7 @@
       <h2><strong>Universiteti i Prishtinës</strong></h2>
       <h3>Fakulteti i Inxhinierisë Elektrike dhe Kompjuterike</h3>
       <p>Inxhinieri Kompjuterike dhe Softuerike - Programi Master</p>
+      <p><strong>Profesoreshë:</strong> Prof.Dr. Lule Ahmedi</p>
       <p><strong>Profesor:</strong> Dr.Sc. Mërgim H. HOTI</p>
     </td>
  </tr>
