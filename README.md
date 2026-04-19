@@ -181,6 +181,10 @@ Për çdo bankë, rreshti i fundit i disponueshëm (tremujori aktual) është p�
 
 ![image alt](https://github.com/besartakurtaj/ML-Gr4/blob/main/Screenshot%202026-04-19%20at%2019.59.35.png)
 
+Grafiku i fitimit neto (Q4 2024) me vlerat (Q1 2025) për krahasim.
+
+![image alt](https://github.com/besartakurtaj/ML-Gr4/blob/main/Screenshot%202026-04-19%20at%2020.08.57.png)
+
 ## Authors
 - *Besarta Kurtaj*
 - *Fjolla Gjikolli*
