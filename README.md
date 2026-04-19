@@ -185,6 +185,33 @@ Grafiku i fitimit neto (Q4 2024) me vlerat (Q1 2025) për krahasim.
 
 ![image alt](https://github.com/besartakurtaj/ML-Gr4/blob/main/Screenshot%202026-04-19%20at%2020.08.57.png)
 
+### Grupimi i bankave (K-Means Clustering + PCA)
+
+Përveç modeleve të parashikimit, është aplikuar edhe **K-Means Clustering** — 
+një algoritëm i mësimit të pambikëqyrur (unsupervised learning) — për të 
+grupuar bankat bazuar në profilet e tyre financiare.
+
+**Metodologjia:**
+- Janë përdorur 43 metrika financiare nga tremujori i fundit i disponueshëm për çdo bankë.
+- Të dhënat janë normalizuar me StandardScaler.
+- Dimensionet janë reduktuar në 2D me **PCA** për vizualizim.
+- Algoritmi ka identifikuar **3 klasterë** natyrorë.
+
+**Rezultatet:**
+
+| Klasteri | Bankat | Karakteristika |
+|---|---|---|
+| Cluster 1 | Raiffeisen Kosovo | Bankë e madhe, profil financiar krejtësisht i ndryshëm nga të tjerat |
+| Cluster 2 | TEB Kosovo, NLB Bank, ProCredit Bank, Banka Ekonomike | Banka të mesme me profile të ngjashme financiare |
+| Cluster 3 | PriBank, Ziraat Bank | Banka të vogla me volume të ulëta të ardhurash dhe fitimi |
+
+**Çfarë tregon ky analizë:**  
+Algoritmi, pa asnjë informacion paraprak për madhësinë apo pozicionin e 
+bankave në treg, zbuloi në mënyrë të pavarur grupime që përputhen saktësisht 
+me realitetin e tregut bankar në Kosovë.
+
+![image alt](https://github.com/besartakurtaj/ML-Gr4/blob/main/Screenshot%202026-04-19%20at%2020.18.55.png)
+
 ## Authors
 - *Besarta Kurtaj*
 - *Fjolla Gjikolli*
