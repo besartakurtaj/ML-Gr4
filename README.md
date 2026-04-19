@@ -179,6 +179,7 @@ Për çdo bankë, rreshti i fundit i disponueshëm (tremujori aktual) është p�
 ### Vizualizimi
 Është krijuar grafiku krahasues i fitimit neto aktual (Q4 2025) me parashikimin e modelit (Q1 2026) për secilën bankë.
 
+![image alt](https://github.com/besartakurtaj/ML-Gr4/blob/main/Screenshot%202026-04-19%20at%2019.59.35.png)
 
 ## Authors
 - *Besarta Kurtaj*
