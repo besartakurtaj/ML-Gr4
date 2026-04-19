@@ -115,6 +115,71 @@ Këto janë kodet që përdoren për kategorizimin e të dhënave të nxjerra ng
 
 Ky mapping e bën datasetin të qartë për analizat dhe përgatitjen e modelit të parashikimit.  
 
+
+## Faza II: Ndërtimi dhe trajnimi i modelit
+
+### Përshkrimi i detyrave
+Gjatë Fazës II, detyrat kryesore kanë përfshirë:
+- Përpunimin e të dhënave në formatin e duhur për modelim (pivot).
+- Feature engineering për të krijuar variabla të reja.
+- Trajnimin e tre algoritmeve të ndryshme të Machine Learning (supervised learning algorithms).
+- Vlerësimin e performancës së modeleve dhe parashikimin e fitimit neto për tremujorin e ardhshëm.
+
+### Përgatitja e të dhënave (Pivot)
+Të dhënat janë transformuar nga formati i gjatë (long format) në formatin e gjerë (wide format), ku çdo rresht përfaqëson një bankë dhe periudhë të vetme, dhe çdo kolonë përfaqëson një metrikë financiare.
+
+- **Dimensionet pas pivot:** 267 rreshta × 65 kolona
+
+### Inxhinieria e veçorive (Feature Engineering)
+Janë krijuar variablat e mëposhtëm për të përmirësuar fuqinë parashikuese të modelit:
+
+| Veçoria | Përshkrimi |
+|---|---|
+| `16_lag1`, `16_lag2`, `16_lag4` | Fitimi neto i 1, 2 dhe 4 tremujorëve të mëparshëm |
+| `16_roll4_mean` | Mesatarja lëvizëse e 4 tremujorëve të fundit |
+| `1_lag1`, `3_lag1`, `6_lag1`, `10_lag1`, `14_lag1` | Lag-1 i metrikave kryesore të ardhurash |
+| `16_qoq_growth` | Rritja tremujore e fitimit neto (%) |
+| `profit_margin_lag1` | Marzhi i fitimit të tremujorëve të mëparshëm |
+| `provision_burden_lag1` | Raporti i provizioneve ndaj të ardhurave totale |
+| `quarter_sin`, `quarter_cos` | Kodimi ciklik i tremujorit |
+| `year_feature` | Viti si veçori numerike |
+| `bank_quarters` | Numri kumulativ i tremujorëve raportues për çdo bankë |
+
+**Variabla target:** Fitimi neto i tremujorëve të ardhshëm (`next_net_profit` = kolona 16 e zhvendosur me -1).
+
+### Algoritmet e përdorura
+Janë trajnuar tre algoritme të ndryshme të mësimit të mbikëqyrur (supervised learning):
+
+**1. XGBoost (Extreme Gradient Boosting)**
+- `n_estimators=300`, `max_depth=3`, `learning_rate=0.05`
+- Shumë i përshtatshëm për të dhëna financiare me marrëdhënie jo-lineare
+
+**2. Random Forest**
+- `n_estimators=300`, `max_depth=5`, `min_samples_leaf=3`
+- Stabil dhe rezistent ndaj overfitting-ut në dataset të vogla
+
+**3. LightGBM**
+- `n_estimators=300`, `max_depth=3`, `learning_rate=0.05`
+- I ngjashëm me XGBoost por më i shpejtë dhe shpesh më i saktë
+
+
+### Rezultatet e modeleve
+
+| Modeli | MAE | RMSE | R² (Fold 5) |
+|---|---|---|---|
+| XGBoost | ~3,569 | ~5,304 | 0.804 |
+| Random Forest | ~3,387 | ~5,607 | 0.780 |
+| LightGBM | ~3,249 | ~5,072 | 0.820 |
+
+> **Fold 5 është më i rëndësishmi** pasi modeli trajnohet në 100% të të dhënave historike — saktësisht si në skenarin real të parashikimit.
+
+### Parashikimet për tremujorin e ardhshëm
+Për çdo bankë, rreshti i fundit i disponueshëm (tremujori aktual) është përdorur si input për të parashikuar fitimin neto të tremujorëve të ardhshëm.
+
+### Vizualizimi
+Është krijuar grafiku krahasues i fitimit neto aktual (Q4 2025) me parashikimin e modelit (Q1 2026) për secilën bankë.
+
+
 ## Authors
 - *Besarta Kurtaj*
 - *Fjolla Gjikolli*
