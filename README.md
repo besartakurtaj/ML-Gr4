@@ -241,7 +241,7 @@ Pas analizës fillestare, janë bërë rregullime në parametrat e secilit model
 
 #### Rezultatet pas optimizimit (Fold 5)
 
-| Modeli | R² |
+| Modeli | MAE | RMSE | R² |
 |---|---|---|---|
 | XGBoost | 1,953 | 2,723 | 0.872 |
 | Random Forest | 2,470 | 3,279 | 0.814 |
@@ -249,8 +249,8 @@ Pas analizës fillestare, janë bërë rregullime në parametrat e secilit model
 
 ### Përmirësimet e arritura
 
-| Modeli | Përmirësimi MAE | Përmirësimi RMSE | Përmirësimi R² |
-|---|---|---|---|
+| Modeli | Përmirësimi R² |
+|---|
 | XGBoost |↑ 0.068 |
 | Random Forest | ↑ 0.034 |
 | LightGBM | ↑ 0.023 |
