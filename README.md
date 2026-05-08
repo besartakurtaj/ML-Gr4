@@ -310,7 +310,7 @@ Ky projekt ofron disa inovacione të rëndësishme:
 
 1. **Segmentimi i tre klasterëve** ndihmon në identifikimin e bankave të ngjashme dhe në krahasimin e benchmarks brenda secilës kategori.
 
-2. **Variablat lag** të fitimit neto tregojnë se performanca e kaluar është shumë përplot për performancën e ardhshme — kjo validohet nga korelacionet e larta në modelim.
+2. **Variablat lag** të fitimit neto tregojnë se performanca e kaluar është shumë përplot për performancën e ardhshme, kjo validohet nga korelacionet e larta në modelim.
 
 3. **Marginalet e fitimit dhe buxheti i provizioneve** janë variabla krejtësisht të rëndësishme në parashikimin e fitimit neto.
 
