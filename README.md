@@ -249,11 +249,11 @@ Pas analizës fillestare, janë bërë rregullime në parametrat e secilit model
 
 ### Përmirësimet e arritura
 
-| Modeli | Përmirësimi R² |
-|---|
-| XGBoost |↑ 0.068 |
-| Random Forest | ↑ 0.034 |
-| LightGBM | ↑ 0.023 |
+| Modeli | R² para optimizimit | R² pas optimizimit | Përmirësimi |
+|---|---|---|---|
+| XGBoost | 0.804 | 0.872 | ↑ 0.068 |
+| Random Forest | 0.780 | 0.814 | ↑ 0.034 |
+| LightGBM | 0.820 | 0.843 | ↑ 0.023 |
 
 ## Authors
 - *Besarta Kurtaj*
