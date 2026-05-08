@@ -269,9 +269,6 @@ Optimizimi i parametrave ka sjellë përpjekje të thelbësishme në performanc�
 #### Stabilitet dhe generalizim
 Ndryshimet në parametra kanë reduktuar overfitting-un duke përmirësuar aftësinë e modeleve për të përgjithësuar në të dhëna të ardhshme. Early stopping në XGBoost dhe optimizimi i regularizimit në LightGBM ishin çelësat në këtë përmirësim.
 
-#### Vërejtje mbi K-Means Clustering
-Grupimi i bankave nxjerr në pah struktura natyrale të tregut bankar Kosovar, duke ndarë bankat në tre kategori të qarta bazuar në profilimet e tyre financiare. Kjo klasifikim është i vlefshëm për strategjitë e segmentimit të tregut.
-
 ### Kontributi i projektit në krahasim me punën paraprake
 
 Ky projekt ofron disa inovacione të rëndësishme:
