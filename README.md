@@ -212,6 +212,49 @@ me realitetin e tregut bankar në Kosovë.
 
 ![image alt](https://github.com/besartakurtaj/ML-Gr4/blob/main/Screenshot%202026-04-19%20at%2020.18.55.png)
 
+## Faza III: Analiza dhe Evaluimi (Ritrajnimi)
+
+### Përshkrimi i detyrave
+Gjatë Fazës III, detyrat kryesore kanë përfshirë:
+- Optimizimi i parametrave të modeleve për të përmirësuar performancën.
+- Ritrajnimi i modeleve me parametra të optimizuar.
+- Krahasimi i rezultateve para dhe pas optimizimit.
+- Analiza e përmirësimeve të arritura në metrikat e evaluimit.
+
+### Optimizimi i modeleve
+Pas analizës fillestare, janë bërë rregullime në parametrat e secilit model për të reduktuar gabimin dhe për të rritur saktësinë e parashikimeve.
+
+#### Ndryshimet kryesore:
+- **XGBoost:** Shtimi i early_stopping_rounds për të parandaluar overfitting-un dhe rregullimi i parametrave të regularizimit.
+- **Random Forest:** Rritja e numrit të pemëve (n_estimators=500) dhe thellësia maksimale (max_depth=7).
+- **LightGBM:** Optimizimi i parametrave të regularizimit dhe strukturës së pemëve.
+
+### Krahasimi i rezultateve
+
+#### Rezultatet para optimizimit (Fold 5)
+
+| Modeli | MAE | RMSE | R² |
+|---|---|---|---|
+| XGBoost | ~3,569 | ~5,304 | 0.804 |
+| Random Forest | ~3,387 | ~5,607 | 0.780 |
+| LightGBM | ~3,249 | ~5,072 | 0.820 |
+
+#### Rezultatet pas optimizimit (Fold 5)
+
+| Modeli | MAE | RMSE | R² |
+|---|---|---|---|
+| XGBoost | 1,953 | 2,723 | 0.872 |
+| Random Forest | 2,470 | 3,279 | 0.814 |
+| LightGBM | 2,282 | 3,011 | 0.843 |
+
+### Përmirësimet e arritura
+
+| Modeli | Përmirësimi MAE | Përmirësimi RMSE | Përmirësimi R² |
+|---|---|---|---|
+| XGBoost |↑ 0.068 |
+| Random Forest | ↑ 0.034 |
+| LightGBM | ↑ 0.023 |
+
 ## Authors
 - *Besarta Kurtaj*
 - *Fjolla Gjikolli*
